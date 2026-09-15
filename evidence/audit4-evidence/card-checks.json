@@ -1,0 +1,103 @@
+{
+  "cards_2_3_unchanged_since_32799db": true,
+  "current": [
+    [
+      "Forbes, Nov 7 2025 (ST32–ST33)",
+      "\"Their Anthropic stake (worth an estimated $500 million) was moved into a nonprofit vehicle in early 2025 so they could invest any 'significant financial return' back into philanthropy and 'dispel any perception of conflict of interest,' she says.\"",
+      "Phoebe Liu, Forbes, quoting Cari Tuna. The vehicle is not named. Forbes' Apr 2026 reranking adds the only percentage bound found, \"less than 0.8%\" (ST92), which sets the $7.7B ceiling."
+    ],
+    [
+      "Moskovitz on Bluesky, Mar 30 and Apr 11 2026 (ST110, ST112, ST113)",
+      "\"Our Anthropic shares are entirely in our foundation - no personal benefit.\" · \"all Anthropic holdings are in the foundation, dedicated to charity\" · \"we have about $20B more in the foundation … The foundation is invested in Anthropic as well.\"",
+      "Good Ventures Foundation's return to June 2025 lists two contributors and no private stock (ST78–ST79); Coefficient's CEO: \"not to us\" (ST89). Which account holds them is unattributed."
+    ],
+    [
+      "Moskovitz to Stratechery, Oct 20 2025 (ST118); elsewhere in the same interview: \"I'm a board observer at Anthropic\"",
+      "\"I'm a chair of at Open Philanthropy and I'm a business guy and I'm also in the boardroom in at Anthropic and I know all the players. I'm sure I'm naive in some ways, but I think the collection of people is not quite that naive.\"",
+      "Board observer, not a director, by his own account; Tallinn says the same of himself (ST41). Coefficient, on whose Board of Managers he sits (Tuna chairs it, ST124), makes grants to METR's parent, joint-project partner, pooled donor and contractor for their own programs. No motive is asserted."
+    ]
+  ],
+  "forbes": [
+    {
+      "path": "research/agents-2026-09-14/S11-stakes/docs/forbes-us-2025-11-07-tuna.txt",
+      "sha256": "8608b67ca707053da6b443e6511f8d56c9bb80da239898657438e8c6ed40b33f",
+      "source_sentence": "Their Anthropic stake (worth an estimated $500 million) was moved into a nonprofit vehicle in early 2025 so they could invest any “significant financial return” back into philanthropy and “dispel any perception of conflict of interest,” she says.",
+      "exact_character_match": false,
+      "match_with_nested_quote_typography_normalized": true,
+      "byline": true,
+      "date": "Nov 07, 2025"
+    },
+    {
+      "path": "research/agents-2026-09-14/S11-stakes/docs/forbesau-moskovitz-tuna.txt",
+      "sha256": "46ad44a9b664b468e7aff00373118b1d049080451b7e1fd1313f0989f2bc2aad",
+      "source_sentence": "Their Anthropic stake (worth an estimated $500 million) was moved into a nonprofit vehicle in early 2025 so they could invest any “significant financial return” back into philanthropy and “dispel any perception of conflict of interest,” she says.",
+      "exact_character_match": false,
+      "match_with_nested_quote_typography_normalized": true,
+      "byline": true,
+      "date": "November 10, 2025"
+    }
+  ],
+  "stratechery": {
+    "path": "research/moskovitz-words/stratechery-2025-10-20-moskovitz-wayback-20251020103508.html",
+    "sha256": "78f5da5f1dd790bf7dbd97533821d46b8d48616157693acef0c85bc793ead2ce",
+    "exact_quotation_match": false,
+    "match_without_inserted_terminal_period": true,
+    "following_text": " and I think Open Philanthropy has been more measured certainly on the rhetoric side and then in terms of what we've actually done, most of it is just gotten nowhere, the whole path",
+    "observer_quote_present": true
+  },
+  "bluesky": [
+    {
+      "path": "research/moskovitz-words/bsky-3miawblqk7224.json",
+      "sha256": "65018601ed0a4cf95d63cd83e09e4fe7334b66c9806b88220634c485e4e2453d",
+      "posts": [
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miawblqk7224",
+          "date": "2026-03-30T05:24:03.877Z",
+          "text": "None of this will impact the financial impact at all and Ed’s lies will be laid bare when they give their financials looking back at IPO. What I want is for people to recognize reality. Society needs to react not deny.\n\nOur Anthropic shares are entirely in our foundation - no personal benefit."
+        },
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miatyw52ek24",
+          "date": "2026-03-30T04:43:25.299Z",
+          "text": "Maybe you don’t follow Ed enough to know how he has been lying about this. I don’t care about the phrase, the point is where the gross margins are."
+        }
+      ]
+    },
+    {
+      "path": "research/moskovitz-words/bsky-3miawjaazyc24.json",
+      "sha256": "4c25bc0b6abaa3818a3e1e45072ee87836c7dd3a623c11d2afca6dc49c4daf3d",
+      "posts": [
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miawjaazyc24",
+          "date": "2026-03-30T05:28:20.270Z",
+          "text": "Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.\n\nThe “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand."
+        },
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miawnipfmk24",
+          "date": "2026-03-30T05:30:43.347Z",
+          "text": "I politely engaged Ed a dozen times with no acknowledgement and now I am simply recognizing him as a charlatan. I’m being direct so that people see it clearly instead of playing word games like he does."
+        }
+      ]
+    },
+    {
+      "path": "research/moskovitz-words/bsky-3mjaq5x2pws2e.json",
+      "sha256": "45886f065846d5f5109099bc8d1fbdb3557ebe52f4be19461c9abbd39d6853d5",
+      "posts": [
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3mjaq5x2pws2e",
+          "date": "2026-04-11T20:59:50.704Z",
+          "text": "I'm a long way from Meta at this point. We have given away $5B and we have about $20B more in the foundation and some more personal (you can look on bloomberg for that). The foundation is invested in Anthropic as well."
+        },
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3mj5ko6pcak2s",
+          "date": "2026-04-10T14:43:33.921Z",
+          "text": "Another way of looking at our giving over the past 8 years."
+        },
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3mjbdjoiydc2a",
+          "date": "2026-04-12T02:46:25.482Z",
+          "text": "Small correction for posterity … not all (but still most) of the $20B is in the foundation but still nonetheless committed in principle"
+        }
+      ]
+    }
+  ]
+}

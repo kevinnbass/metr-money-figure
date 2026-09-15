@@ -87,3 +87,119 @@ WHY={
 }
 for k,v in {"TO01":"TIME","TO02":"The Verge","TO03":"MIT Technology Review","TO04":"Lawfare","TO05":"The Guardian","TO06":"the Los Angeles Times"}.items():
     WHY[k]=f"Count behind the {v} chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares."
+
+# ---- audit-4 (2026-09-14) corrections: claim/why overrides per research/AUDIT-4.md failures table ----
+CLAIM.update({
+"ST41":"Postimees reported in February 2026 that Jaan Tallinn is an Anthropic board observer and quoted his earlier explanation, given to Äripäev radio in January 2026, for declining a board seat.",
+"ST49":"Forbes' Schmidt profile says his family's investment vehicle bought 20% of D.E. Shaw & Co. in May 2015; the profile does not mention Anthropic.",
+"ST54":"Anthropic's Series A release names the Center for Emerging Risk Research (now Macroscopic Ventures) as an investor, and its Series B release names it again; amounts undisclosed. (Series B: anthropic.com/news/anthropic-series-b; grants: macroscopic.org/grants.)",
+"ST91":"Forbes (Nov 2025, US original) says the couple give through Good Ventures Foundation \"plus more in donor-advised funds\"; the article's examples of large foundation holdings do not name Anthropic. Saved copy: Wayback 20251107132055.",
+"ST94":"A full-text scan of the 2025 and 2026 IRS e-file batches for the word \"Anthropic\", completed Sep 14 2026, found 11 matching return records; none identifies a Moskovitz or Tuna vehicle holding Anthropic stock.",
+"ST99":"The reviewed Asana and Kodiak ownership filings do not list the 2018 Remainder Interest Trust as a holder; Moskovitz's reporting-company shares sit in the trusts and entities his SEC filings name. None of the saved filings shows an Anthropic purchase vehicle.",
+"ST100":"Good Ventures Foundation's FY2025 990-PF (total assets $10,107,955,038 at Jun 30 2025) lists 406 public issuers; its largest are TSMC $509M, SK Hynix $400M, Broadcom $290M, Vistra $202M, Micron $184M, Vertiv $179M. The listed public holdings include substantial AI-infrastructure exposure (analysis).",
+"ST101":"Value Aligned Research Advisors, Good Ventures Foundation's investment manager ($5,264,377 fee, FY2025), runs VAR AI Fund LP: its initial Form D of Mar 21 2025 reported first sale yet to occur and $0 sold; the Jun 15 2026 amendment reports $4,346,290,561 sold to 116 investors.",
+"ST102":"VARA's three 13F-HR filings report portfolio values of $4,734,560,970 (72 table entries, Jun 2025), $9,944,995,059 (86, Dec 2025) and $40,111,386,090 (123, Jun 2026), led by Nvidia, Alphabet, Amazon and TSMC. Saved: research/sec-filings/vara-13f-hr-*.xml.",
+"ST103":"Schedule M line 10 (closely held stock) from 18 saved DAF-sponsor e-files, FY2023–FY2025: NPT FY2025 19 gifts / $1,183,079,981 is the only line of that shape; Fidelity, Vanguard and Schwab are far smaller. Line 10 does not cover every form of private-stock exposure; partnership and trust interests are reported on line 11.",
+"ST104":"National Philanthropic Trust's FY2025 Form 990 (IRS object 202601289349302480) reports 19 closely-held-stock contributions worth $1,183,079,981, a new preferred-stock/crypto category of $162.7M, and 52 appraisals; NPT's policy is to liquidate complex assets quickly.",
+"ST107":"SVCF's 2024 Schedule I reports $1,591,322,838 in grants to NPT and $10,000,000 to Constellation; the originating accounts, donors and any connection to the Anthropic stake are not identified.",
+"ST109":"18 temporally compatible same-recipient, same-amount matches between Coefficient's award index and the SVCF and NPT Schedule I filings (e.g. Epoch $4,132,488; Redwood $1,100,000; Obelus $1,134,769) are consistent with the documented external-partner payment arrangement.",
+"ST116":"NPT's FY2025 Schedule I lists seven Coefficient-pattern grants totalling $146,860,783, including $50,000,000 to Coefficient Giving Advisors; these identify recipient payments, not the underlying donors.",
+"ST124":"Good Ventures Foundation's FY2025 990-PF lists Cari Tuna as president, board chair and director; Coefficient's governance page names her Chair of the Board of Managers and lists Dustin Moskovitz as a manager.",
+"ST127":"Benjamin Hoskin, co-owner of Value Aligned Research Advisors, appears as a board member in the Alignment Research Center's FY2024 filing; ARC is METR's former parent.",
+"ST140":"Good Ventures Foundation paid $10,000,000 general support to Open Philanthropy Advisors Inc (now Coefficient Giving Advisors) in FY2024 (Jul 2023–Jun 2024). Saved source: research/990pf-goodventures-202501349349105365.xml, IRS object 202501349349105365.",
+"IV01":"Anthropic's Series A, May 28 2021: $124M; Jaan Tallinn led, with Dustin Moskovitz, Eric Schmidt, James McClave and the Center for Emerging Risk Research. Anthropic did not disclose a post-money valuation.",
+"IV02":"Anthropic's Series B, announced Apr 29 2022: $580M; Sam Bankman-Fried, Caroline Ellison, Nishad Singh, Jaan Tallinn, James McClave and CERR participated. FTX bankruptcy filings later put Alameda's stake at about $500M.",
+"IV05":"FTX estate secondary sale reported March 2024: about $884M of estate proceeds, not capital raised by Anthropic. The court exhibit (D.I. 10241-1) totals $884,109,327 for 29,465,891 shares; Jane Street Global Trading's line is 3,332,833 shares for $99,999,988.",
+"IV06":"The FTX estate's sale of its remaining Anthropic shares, reported Jun 1 2024, generated over $450M for about 15M shares at about $30; G Squared bought 4.5M shares for $135M.",
+"IV07":"Anthropic's Series E, Mar 3 2025: $3.5B at a $61.5B post-money valuation; Jane Street among the named investors. The exact date of the Moskovitz stake transfer is not established.",
+"IV11":"WSJ reported on Sep 12 2026 that a prospective Anthropic IPO could raise up to $100B at around a $2T valuation; this is reporting, not a completed financing.",
+"S13":"On Sep 2 2026 Joe Benton announced he had left Anthropic's alignment team the previous week to join METR for embedded AI-risk assessment; NBC reported the move on Sep 10.",
+"RW58":"The reviewed METR and Redwood web pages did not name the full subcontracted staff or the terms as of Sep 14 2026; Greenblatt publicly identified his participation, and Anthropic's announcement names only METR.",
+"J02":"James McClave is a named Anthropic Series A and B investor; his BEMC Foundation was not found as a METR donor in the checked records (metr.org/about and the BEMC filings read).",
+"J08":"Schmidt Sciences is named on metr.org/about as a METR supporter; Eric Schmidt is a named Anthropic Series A investor.",
+"TB05":"SFF recommended $520,000 in 2024 for the Tarbell Fellowship, with Players Philanthropy Fund listed as the receiving charity; disbursement is not established.",
+})
+WHY.update({
+"ST32":"Forbes' November 2025 estimate supplies the chart's $500M bar and card 1; it is not a transfer-date valuation. US original Nov 7 2025 (Wayback 20251107132055), Australian reprint Nov 10.",
+"ST41":"The source distinguishes the reporter's characterization from Tallinn's own quotation; both make him an observer, not a director.",
+"ST49":"Links Schmidt, a Series A investor and METR supporter through Schmidt Sciences, to D.E. Shaw, whose venture arm joined Series H; a dated acquisition, not a claim about unchanged 2026 ownership.",
+"ST78":"Good Ventures Foundation's FY2025 Schedule B reports one non-cash gift, described as publicly traded securities, and no direct gift described as Anthropic or private stock. This does not identify the recipient of the donated stake or exclude indirect exposure.",
+"ST89":"Berger says the donated stake went \"not to us\". This is Coefficient's CEO's statement, not an independently established exclusion of every affiliated entity or account.",
+"ST90":"Moskovitz says \"GV\" benefits through Anthropic and other investments; the post does not identify the legal entity, account, or direct versus indirect exposure.",
+"ST91":"Puts donor-advised funds on the map in the couple's own giving, as reported by Forbes; it names no sponsor or account.",
+"ST92":"Applying Forbes' Apr 20 2026 estimated bound of less than 0.8% to the May 28 2026 $965B round gives a conditional ceiling below $7.72B (about $7.7B), not a measured stake value. Saved: Wayback 20260421043155.",
+"ST94":"A negative within the scanned files, not all filed or future returns. Records: research/irs-anthropic-scan/hits.csv and context files.",
+"ST95":"Identifies the family trust that makes the foundation's largest gifts and its disclosed Meta holding; no Anthropic holding for it was identified in the reviewed records.",
+"ST96":"This September 2026 NYT article gives no percentage for the METR-linked early funders and does not resolve their stakes. Saved: research/press-pdfs/nyt-2026-09-03-anthropic-ipo-investors.pdf.",
+"ST99":"Lists the vehicles through which Moskovitz holds reporting-company shares, from dated filings saved under research/sec-filings/; none is shown holding Anthropic.",
+"ST100":"The endowment is positioned on the same AI boom as the lab. Sources: the two saved 990-PF e-files (IRS objects 202501349349105365 and 202641359349102829).",
+"ST101":"The foundation's manager launched an AI hedge fund; the figure separates the March 2025 launch from the June 2026 amount sold. Saved Form Ds: research/audit3-evidence/sec/vara-form-d-*.xml.",
+"ST102":"The manager's reported public book grew from $4.7B to $40.1B in a year; a 13F does not show private stock, so Anthropic's absence is expected.",
+"ST103":"The sweep that narrows where a private-stock gift of the stake's scale could have landed; it is a line-10 test only, and only for the 18 returns saved.",
+"ST104":"NPT, one of Coefficient's two named DAF partners, took in $1.18B of closely held stock in 19 gifts in the year covering early 2025. The aggregate is unattributed and does not identify an Anthropic gift or a Moskovitz/Tuna account.",
+"ST107":"These are sponsor-level payment records; they do not establish account migration or ownership. They show SVCF paying NPT $1.59B and Constellation $10M in 2024.",
+"ST108":"No METR- or ARC-named grantee appears in the reviewed NPT FY2023–FY2025 Schedule I lists; the listed network grants are NPT's, without assigned donor accounts.",
+"ST109":"The matches identify sponsor accounts as the payers of Coefficient-recommended grants; they do not identify the account principals or prove each transaction's attribution. Sources: the saved Sep 11 2026 index and the saved SVCF/NPT e-files.",
+"ST111":"The thread root, quoted here, names Good Ventures as the funder surging Coefficient's budgets ahead of \"the anticipated wave of new funders\".",
+"ST113":"'About $20B more in the foundation … invested in Anthropic as well', corrected the next day: not all, though still most, of the $20B is in the foundation. The statements do not specify a legal entity or establish the location of the Anthropic stake.",
+"ST114":"Open Philanthropy's own page (Wayback capture Sep 27 2024) said grants were recommended to 'the Open Philanthropy Project fund, an advised fund of SVCF', naming the DAF account; it does not locate the donated stake.",
+"ST115":"No identified Dustin Moskovitz / Cari Tuna family trust was found in the checked 2022 IRS split-interest-trust extract (two unrelated Moskovitz name matches). That does not determine the trust's legal form, other-year filings, or current holdings.",
+"ST116":"The DAF sponsor is a live channel for Coefficient's programme; the $50M is included in the $146.9M total, not additional to it.",
+"ST117":"The 2021 Blue Owl selling-stockholder table names these family vehicles and Good Ventures Foundation; it does not identify the purchaser or recipient of the Anthropic stake. Saved S-1: research/audit3-evidence/sec/st117-blue-owl-s1.html.",
+"ST121":"NPT's public-inspection copy must list every contributor above $303,073,355.54 (first whole dollar $303,073,356) when the special rule applies; names, addresses and other identifying information may be withheld, and asset class, value and date do not guarantee an issuer name. The route that could still narrow the sponsor.",
+"ST124":"Card 3 words the governance line from this row: Tuna chairs Coefficient's Board of Managers; Moskovitz is a manager.",
+"ST127":"A join between the endowment's manager and the evaluator's former parent. Sources: the saved ADV and ARC's FY2024 return.",
+"ST140":"The line on the Good Ventures node; the filing names the historical entity.",
+"IV01":"The 2021 Series A: the origin of every equity link on the figure. The issuer names the investors, not their purchasing vehicles.",
+"IV02":"The Series B: Alameda/FTX's stake plus three of the Series A investors; Jane Street later bought the FTX estate's shares.",
+"IV05":"The court-supervised estate sale at about $30 a share, where Jane Street bought 3,332,833 shares. Primary: the CourtListener exhibit cited in ST20–ST21.",
+"IV06":"The second estate sale at the same price. Saved article: research/agents-2026-09-14/S11-stakes/docs/wb-theblock-ftx-sale2.txt.",
+"IV07":"The valuation in force in March 2025, the quarter Forbes says the stake moved; the transfer date itself is unknown.",
+"IV11":"WSJ's reported IPO ambition; labelled as reporting on the figure. Saved: research/press-pdfs/wsj-2026-09-12-anthropic-boss-warns-slow-the-pace.txt.",
+"M120":"Coefficient's grantmakers recommended more than $70M over two years for Redwood, METR's contractor; a recommendation, not a paid grant. Post: coefficientgiving.org/research/were-urgently-scaling-our-work-on-ai-and-biosecurity/.",
+"TB02":"First Coefficient award to the Tarbell Center; with TB03 and TB04 it makes the $5,291,930 on the Tarbell pipe. Grant pages now 404; amounts and dates from the saved Sep 11 2026 index (bylines pack rows F002–F004).",
+"TB03":"Third Coefficient award to the Tarbell Center; saved index record.",
+"TB04":"Largest Coefficient award to the Tarbell Center; saved index record.",
+"TB05":"A recommendation, kept separate from awards; the receiving charity differs from TB06's.",
+"RW58":"Search closure for the subcontract's terms; a bounded negative, not proof no page exists.",
+"J02":"McClave is a Series A and B investor; the negative is bounded to the records checked.",
+"K01":"METR reports significant free tokens from unnamed frontier AI companies; the quoted statement gives no quantity or dollar value.",
+"S13":"Benton's move from Anthropic's alignment team to METR's incident-investigation staff was announced the week METR began investigating Anthropic. Primary: his own Sep 2 2026 post.",
+"ST105":"Coefficient's own page names Good Ventures Foundation, SVCF and NPT as the external funding partners that approve its grants; it does not name the account principals. This is why the figure calls them funding partners, not the couple's accounts.",
+"ST106":"NPT's closely-held equity held at year-end rose by $996M in the same year; unattributed.",
+"ST110":"Moskovitz: 'Our Anthropic shares are entirely in our foundation - no personal benefit.' His most direct statement; 'foundation' is his word, not a legal entity.",
+"ST112":"Second statement in four minutes placing all Anthropic holdings 'in the foundation, dedicated to charity'.",
+"ST118":"Moskovitz, in his own words: 'I'm a board observer at Anthropic' and 'in the boardroom in at Anthropic and I know all the players'. Card 3; the passage continues after 'naive', marked with an ellipsis. Saved transcript: Wayback 20251020103508.",
+"ST125":"VARA's Form ADV shows at least one of its two charitable clients is an LP in the AI fund; the filing does not say which. Saved ADV PDF under research/audit3-evidence/sec/.",
+"ST133":"Vanguard Charitable's posted Schedule B names no issuer; its largest private-equity line in the window is $130M. Unresolved, not excluded.",
+})
+def default_why(i,r):
+    n=int(''.join(c for c in i if c.isdigit())); p=''.join(c for c in i if c.isalpha())
+    if p=='M':
+        if 1<=n<=2: return "One of the two Coefficient awards to ARC (2022) that make the $1.5M Coefficient → ARC pipe."
+        if n==3: return "The $10.0M 'AI Evaluation and Testing' award to RAND (Sep 2025): the Coefficient → RAND pipe. An award to RAND for its own programme, not a payment routed to METR."
+        if 4<=n<=14: return "One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money."
+        if 15<=n<=32: return "One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board."
+        if n==33: return "The bounded negative behind 'Direct: none found': no METR-named grant in Coefficient's 2,911-row index snapshot of Sep 11 2026."
+        if 35<=n<=37: return "One of three SFF recommendations to ARC / ARC Evals (2022–24) that make the $5.6M SFF → ARC pipe; recommendations, not paid grants."
+        if 38<=n<=39: return "One of two SFF recommendations to METR (2024–25) that make the $752K SFF → METR pipe, including a $428K conditional match."
+        if 47<=n<=48: return "One of two SFF recommendations to Redwood (2022–23) that make the $2.4M SFF → Redwood pipe."
+        if n==57: return "The ~$38M Audacious commitment to Canary, per RAND's Oct 9 2024 release: the grey pipe. A commitment, not a payment."
+        if n==58: return "METR's own Oct 9 2024 statement that ~$17M of the Audacious commitment would support METR; the grey pipe into METR. Later revised by Barnes to 'a bit under $16m'."
+        if n==59: return "Giving What We Can reports that Longview recommended a $220K grant to METR in 2023: the Longview → METR pipe. A reported recommendation, not a confirmed disbursement."
+        if n==60: return "Longview's undisclosed pooled-fund support for METR, confirmed by both organizations without an amount."
+        if n==63: return "ARC's FY2024 Schedule I transfer of the evaluation programme's assets to METR ($4,477,169 cash + $76,766 non-cash, Apr 30 2024): the ARC → METR pipe. Not attributable to any one ARC funder."
+        if 77<=n<=96:
+            if n in (79,83,87): return "One of the three filed DAF/regrantor grants to METR (Vanguard $4.0M, Founders Pledge $184K, SVCF $20K) that make the $4.2M yellow pipe into METR; the Founders Pledge and SVCF lines match Tallinn's public ledger."
+            if n in (91,92): return "Good Ventures' filed payment counterpart of a Coefficient award to ARC (M01–M02); excluded from the yellow total to avoid double counting."
+            return "One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches."
+        if n==104: return "The bounded negative behind 'Direct: none found': no METR grantee in Good Ventures Foundation's 990-PFs FY2022–FY2025 (to June 2025)."
+        if n==117: return "Good Ventures is a listed Audacious partner today but was absent from the partner list on the day Canary was announced; no Canary payment traced through June 2025."
+        if n==118: return "TED Foundation's own 990-PF Part XV (TY2021–TY2024) lists no Canary, RAND or METR grant; Audacious says partners fund grantees directly, so this says nothing about partner payments."
+        if n==119: return "Valhalla Foundation's filed $10M 'Project Canary' payment to RAND, one of two filed Canary payments found."
+        if 126<=n<=128: return "One of three Coefficient awards to Constellation (2023–24) that sum to the $22.95M Coefficient → Constellation pipe; Constellation is the Berkeley office METR works from."
+        if n==143: return "High Tide Foundation's filed $333,334 'PROJECT CANARY' payment to RAND, the second filed Canary payment found."
+    if p=='AP':
+        return {46:"High Tide Foundation's filed Canary payment, missed by the first partner census.",47:"The Wayback diff showing Good Ventures joined the Audacious partner list after Canary was announced.",48:"Sea Grape Foundation, named by RAND as a Canary-center funder, has no filer of that name found; a lead, not a fact on the figure.",49:"Coverage note for the Audacious partner census: two filed Canary payments found, both to RAND, none to METR, in the filings read."}.get(n,"")
+    if p=='ST' and n==107: return WHY['ST107']
+    return ""

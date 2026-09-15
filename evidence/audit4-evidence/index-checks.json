@@ -1,0 +1,424 @@
+{
+  "index_rows": 2911,
+  "grants": [
+    {
+      "id": "M01",
+      "matched": true,
+      "amount": 265000,
+      "row_amount": "265000",
+      "date": "2022-03-01",
+      "title": "General Support",
+      "organization": [
+        "Alignment Research Center"
+      ]
+    },
+    {
+      "id": "M02",
+      "matched": true,
+      "amount": 1250000,
+      "row_amount": "1250000",
+      "date": "2022-11-18",
+      "title": "General Support",
+      "organization": [
+        "Alignment Research Center"
+      ]
+    },
+    {
+      "id": "M03",
+      "matched": true,
+      "amount": 10000000,
+      "row_amount": "10000000",
+      "date": "2025-09-20",
+      "title": "AI Evaluation and Testing",
+      "organization": [
+        "RAND Corporation"
+      ]
+    },
+    {
+      "id": "M04",
+      "matched": true,
+      "amount": 500000,
+      "row_amount": "500000",
+      "date": "2022-04-06",
+      "title": "Nuclear Security Grantmaking",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M05",
+      "matched": true,
+      "amount": 60000,
+      "row_amount": "60000",
+      "date": "2022-11-30",
+      "title": "Far-UVC Event",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M06",
+      "matched": true,
+      "amount": 74557,
+      "row_amount": "74557",
+      "date": "2023-01-18",
+      "title": "Research Support for Kacper Kowalczyk",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M07",
+      "matched": true,
+      "amount": 57500,
+      "row_amount": "57500",
+      "date": "2023-01-19",
+      "title": "Film Project Scoping Work",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M08",
+      "matched": true,
+      "amount": 47500,
+      "row_amount": "47500",
+      "date": "2023-01-20",
+      "title": "Support for Richard Chappell",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M09",
+      "matched": true,
+      "amount": 165000,
+      "row_amount": "165000",
+      "date": "2023-02-17",
+      "title": "Far-UVC Event",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M10",
+      "matched": true,
+      "amount": 770076,
+      "row_amount": "770076",
+      "date": "2023-02-28",
+      "title": "AI Policy Development at the OECD",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M11",
+      "matched": true,
+      "amount": 4020258,
+      "row_amount": "4020258",
+      "date": "2023-12-15",
+      "title": "General Support",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M12",
+      "matched": true,
+      "amount": 595426,
+      "row_amount": "595426",
+      "date": "2024-01-23",
+      "title": "Effective Giving Information Sharing",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M13",
+      "matched": true,
+      "amount": 15961273,
+      "row_amount": "15961273",
+      "date": "2024-10-29",
+      "title": "General Support",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M14",
+      "matched": true,
+      "amount": 4000000,
+      "row_amount": "4000000",
+      "date": "2025-06-06",
+      "title": "RFP on Hardware-Enabled Mechanisms for AI Compliance",
+      "organization": [
+        "Longview Philanthropy"
+      ]
+    },
+    {
+      "id": "M15",
+      "matched": true,
+      "amount": 425800,
+      "row_amount": "425800",
+      "date": "2021-10-20",
+      "title": "Language Model Misalignment",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M16",
+      "matched": true,
+      "amount": 463693,
+      "row_amount": "463693",
+      "date": "2022-08-15",
+      "title": "Language Model Misalignment",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M17",
+      "matched": true,
+      "amount": 50000,
+      "row_amount": "50000",
+      "date": "2022-12-05",
+      "title": "Interpretability Research",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M18",
+      "matched": true,
+      "amount": 49500,
+      "row_amount": "49500",
+      "date": "2022-12-06",
+      "title": "Inverse Scaling Prize",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M19",
+      "matched": true,
+      "amount": 625000,
+      "row_amount": "625000",
+      "date": "2022-12-12",
+      "title": "General Support",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M20",
+      "matched": true,
+      "amount": 280000,
+      "row_amount": "280000",
+      "date": "2023-03-14",
+      "title": "FAR Labs Office Space",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M21",
+      "matched": true,
+      "amount": 100000,
+      "row_amount": "100000",
+      "date": "2023-03-30",
+      "title": "AI Interpretability Research",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M22",
+      "matched": true,
+      "amount": 460000,
+      "row_amount": "460000",
+      "date": "2023-07-09",
+      "title": "General Support",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M23",
+      "matched": true,
+      "amount": 166500,
+      "row_amount": "166500",
+      "date": "2023-09-25",
+      "title": "Alignment Workshop",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M24",
+      "matched": true,
+      "amount": 645750,
+      "row_amount": "645750",
+      "date": "2024-01-16",
+      "title": "AI Alignment Research Projects",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M25",
+      "matched": true,
+      "amount": 2160000,
+      "row_amount": "2160000",
+      "date": "2024-04-19",
+      "title": "General Support",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M26",
+      "matched": true,
+      "amount": 1700000,
+      "row_amount": "1700000",
+      "date": "2024-04-19",
+      "title": "FAR Labs Office Space",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M27",
+      "matched": true,
+      "amount": 1800000,
+      "row_amount": "1800000",
+      "date": "2024-04-19",
+      "title": "AI Field Building\u00a0",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M28",
+      "matched": true,
+      "amount": 12000000,
+      "row_amount": "12000000",
+      "date": "2024-06-16",
+      "title": "AI Safety Regranting",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M29",
+      "matched": true,
+      "amount": 676180,
+      "row_amount": "676180",
+      "date": "2024-07-25",
+      "title": "AI Alignment Research Projects",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M30",
+      "matched": true,
+      "amount": 2420253,
+      "row_amount": "2420253",
+      "date": "2025-04-13",
+      "title": "AI Communications and Outreach",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M31",
+      "matched": true,
+      "amount": 6650000,
+      "row_amount": "6650000",
+      "date": "2025-04-13",
+      "title": "AI Field Building",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M32",
+      "matched": true,
+      "amount": 28675000,
+      "row_amount": "28675000",
+      "date": "2025-09-14",
+      "title": "AI Safety Research and Field-building",
+      "organization": [
+        "FAR AI"
+      ]
+    },
+    {
+      "id": "M126",
+      "matched": true,
+      "amount": 3000000,
+      "row_amount": "3000000",
+      "date": "2023-06-06",
+      "title": "Coworking Space",
+      "organization": [
+        "Constellation"
+      ]
+    },
+    {
+      "id": "M127",
+      "matched": true,
+      "amount": 3200000,
+      "row_amount": "3200000",
+      "date": "2024-04-18",
+      "title": "General Support",
+      "organization": [
+        "Constellation"
+      ]
+    },
+    {
+      "id": "M128",
+      "matched": true,
+      "amount": 16750000,
+      "row_amount": "16750000",
+      "date": "2024-06-19",
+      "title": "Programmatic Activities and Operating Expenses\u00a0",
+      "organization": [
+        "Constellation"
+      ]
+    },
+    {
+      "id": "TB02",
+      "matched": true,
+      "amount": 816000,
+      "row_amount": "816000",
+      "date": "2024-11-17",
+      "title": "General Support",
+      "organization": [
+        "Tarbell Center for AI Journalism"
+      ]
+    },
+    {
+      "id": "TB03",
+      "matched": true,
+      "amount": 1587930,
+      "row_amount": "1587930",
+      "date": "2025-07-15",
+      "title": "General Support",
+      "organization": [
+        "Tarbell Center for AI Journalism"
+      ]
+    },
+    {
+      "id": "TB04",
+      "matched": true,
+      "amount": 2888000,
+      "row_amount": "2888000",
+      "date": "2025-03-06",
+      "title": "Operating Costs",
+      "organization": [
+        "Tarbell Center for AI Journalism"
+      ]
+    }
+  ],
+  "metr_named": []
+}

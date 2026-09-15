@@ -1,5 +1,5 @@
 EVIDENCE — every fact cited on figure 10a-anthropic (metr-01b), one block per row id
-Format: Claim / Why it matters / Source, one block per fact. A keyed copy (EVIDENCE-keyed) maps each block to its row id in research/*.csv, where the verbatim quote, full note and fetch date live. Built 2026-09-14.
+Format: Claim / Why it matters / Source, one block per fact. A keyed copy maps each block to its row in the research tables, where the verbatim quote, full note and fetch date live. Built 2026-09-14; revised after audit 4.
 
 
 == Anthropic equity, the donated stake, and the accounts that pay Coefficient's grants ==
@@ -10,7 +10,7 @@ Source: https://www.anthropic.com/news/series-h
 
 
 Claim: Forbes (Nov 7 2025, Phoebe Liu) put the Moskovitz–Tuna Anthropic stake at "an estimated $500 million".
-Why it matters: The only published dollar estimate of the donated stake; it is the left bar of the chart and the '$500M' in the title.
+Why it matters: Forbes' November 2025 estimate supplies the chart's $500M bar and card 1; it is not a transfer-date valuation. US original Nov 7 2025 (Wayback 20251107132055), Australian reprint Nov 10.
 Source: https://www.forbes.com.au/news/billionaires/this-billionaire-couple-has-a-plan-to-give-away-a-20-billion-facebook-fortune/
 
 
@@ -19,23 +19,23 @@ Why it matters: Establishes that the stake was donated in early 2025 and that Tu
 Source: https://www.forbes.com.au/news/billionaires/this-billionaire-couple-has-a-plan-to-give-away-a-20-billion-facebook-fortune/
 
 
-Claim: Jaan Tallinn told Postimees (Feb 2026) that he is an Anthropic board observer rather than a director.
-Why it matters: Tallinn, METR's other large early funder through SFF, is an Anthropic board observer by his own account; the figure says 'observer', never 'director'.
+Claim: Postimees reported in February 2026 that Jaan Tallinn is an Anthropic board observer and quoted his earlier explanation, given to Äripäev radio in January 2026, for declining a board seat.
+Why it matters: The source distinguishes the reporter's characterization from Tallinn's own quotation; both make him an observer, not a director.
 Source: https://majandus.postimees.ee/8418603/tabel-jaan-tallinna-osalusega-anthropicu-vaartus-on-nuud-enam-kui-kolmandik-triljonit
 
 
-Claim: Forbes reports that Eric Schmidt's family office, Hillspire, bought 20% of D.E. Shaw & Co.; Schmidt's Forbes profile does not mention Anthropic.
-Why it matters: Links Schmidt, a Series A investor and METR supporter through Schmidt Sciences, to D.E. Shaw, whose venture arm joined Series H; the figure uses Forbes' exact 20%.
+Claim: Forbes' Schmidt profile says his family's investment vehicle bought 20% of D.E. Shaw & Co. in May 2015; the profile does not mention Anthropic.
+Why it matters: Links Schmidt, a Series A investor and METR supporter through Schmidt Sciences, to D.E. Shaw, whose venture arm joined Series H; a dated acquisition, not a claim about unchanged 2026 ownership.
 Source: https://www.forbes.com/profile/eric-schmidt/
 
 
-Claim: Anthropic's Series A release names the Center for Emerging Risk Research (now Macroscopic Ventures) as an investor; its Series B release names it again. Amounts undisclosed.
+Claim: Anthropic's Series A release names the Center for Emerging Risk Research (now Macroscopic Ventures) as an investor, and its Series B release names it again; amounts undisclosed. (Series B: anthropic.com/news/anthropic-series-b; grants: macroscopic.org/grants.)
 Why it matters: CERR/Macroscopic is both an Anthropic Series A and B investor and a funder of Redwood and Longview, two of METR's intermediaries.
 Source: https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems
 
 
 Claim: Dustin Moskovitz (Good Ventures Foundation, EIN 46-1008520) — no private-stock contribution in FY2025 (Jul 2024–Jun 2025): Schedule B lists one non-cash gift, publicly traded securities, $1,395,695,354, received 2025-06-30, from the Dustin A Moskovitz Remainder Interest Trust; plus $150,027 from Beneficial AI Foundation USD (2025-06-30, IRS 990-PF filing)
-Why it matters: Good Ventures Foundation's own FY2025 Schedule B lists two contributors and one non-cash gift of publicly traded securities; no private stock. So the shares had not reached the 990-PF filer by June 2025.
+Why it matters: Good Ventures Foundation's FY2025 Schedule B reports one non-cash gift, described as publicly traded securities, and no direct gift described as Anthropic or private stock. This does not identify the recipient of the donated stake or exclude indirect exposure.
 Source: https://apps.irs.gov/pub/epostcard/990/xml/2026/2026_TEOS_XML_05B.zip
 
 
@@ -45,22 +45,22 @@ Source: https://apps.irs.gov/pub/epostcard/990/xml/2026/2026_TEOS_XML_05B.zip
 
 
 Claim: Alexander Berger (CEO, Coefficient Giving), on X — "He's since donated his stake (and not to us)" (2025-12-18, self-statement)
-Why it matters: Coefficient's CEO says the stake was donated and 'not to us', so Coefficient's own entities are out; the recipient is still unnamed.
+Why it matters: Berger says the donated stake went "not to us". This is Coefficient's CEO's statement, not an independently established exclusion of every affiliated entity or account.
 Source: https://x.com/albrgr/status/2001669972171661401
 
 
 Claim: Dustin Moskovitz, on Bluesky (@moskov.goodventures.org) — "GV is itself a beneficiary of that wave (via Anthropic and a number of other investments)" (2026-08-26, self-statement)
-Why it matters: Moskovitz says Good Ventures is 'itself a beneficiary' of the coming wave of AI wealth 'via Anthropic', i.e. the giving complex expects to gain when Anthropic gains.
+Why it matters: Moskovitz says "GV" benefits through Anthropic and other investments; the post does not identify the legal entity, account, or direct versus indirect exposure.
 Source: https://bsky.app/profile/moskov.goodventures.org/post/3mtygcpxluc2b
 
 
-Claim: Forbes (Phoebe Liu), US original — the couple give through Good Ventures Foundation "plus more in donor-advised funds"; the foundation's largest holdings do not include Anthropic (2025-11-07, press)
-Why it matters: Forbes says the couple give through Good Ventures Foundation 'plus more in donor-advised funds', which is why the DAF route is on the figure.
+Claim: Forbes (Nov 2025, US original) says the couple give through Good Ventures Foundation "plus more in donor-advised funds"; the article's examples of large foundation holdings do not name Anthropic. Saved copy: Wayback 20251107132055.
+Why it matters: Puts donor-advised funds on the map in the couple's own giving, as reported by Forbes; it names no sponsor or account.
 Source: https://www.forbes.com/sites/phoebeliu/2025/11/07/cari-tuna-billionaire-open-philanthropy-facebook/
 
 
 Claim: Dustin Moskovitz (Forbes "True Net Worth" reranking, Matt Durot and Chase Peterson-Withorn) — less than 0.8 (donated "last year") % (Forbes estimate) (2026-04-20, Forbes-Bloomberg estimate)
-Why it matters: Forbes' 'less than 0.8%' is the only percentage bound found; 0.8% of the $965B Series H valuation is the $7.7B ceiling on the figure.
+Why it matters: Applying Forbes' Apr 20 2026 estimated bound of less than 0.8% to the May 28 2026 $965B round gives a conditional ceiling below $7.72B (about $7.7B), not a measured stake value. Saved: Wayback 20260421043155.
 Source: https://www.forbes.com/sites/mattdurot/2026/04/20/reranking-the-worlds-billionaires-by-wealth--and-altruism/
 
 
@@ -69,18 +69,18 @@ Why it matters: Moskovitz's own words that his giving funds METR and Redwood.
 Source: https://bsky.app/profile/moskov.goodventures.org/post/3mvaqtffuwc2o
 
 
-Claim: Full-text scan of every IRS e-file batch received in 2025 and 2026 for the word "Anthropic" (scripts/irs_anthropic_scan.sh) — no return names a Moskovitz/Tuna entity holding Anthropic; eleven returns mention Anthropic at all: as a vendor or training partner (five 990-EZ/990 filers); Alignment Research Center 2024 990 (program text on the evals spin-out); and four private foundations holding or receiving it: The Laniakea Charitable Foundation (EIN 85-4307164, Milwaukee, FYE 2024-11-30: "ANTHROPIC SPV" $190,872 beside "SITUATIONAL AWARENESS FUND" $20,000,000), Bright Moon Foundation (87-3664806, Bellevue WA: "INVESTMENT-ANTHROPIC" $150,000 in 2024 and 2025 returns), The Nathan Cummings Foundation (23-7093201, New York: "ANTHROPIC, PBC" $1,869,251 among other investments), Commoncrawl Foundation (26-1635908: "Anthropic PBC" as a $250,000 contributor) (2026-09-14, IRS TEOS bulk e-files (index_2025.csv, index_2026.csv; 2025 batches 01–12, 2026 batches 01–07, A–D halves; ≈900,000 returns))
-Why it matters: A full-text scan of every IRS e-file received in 2025 and 2026 finds no return naming Anthropic stock held by a Moskovitz or Tuna vehicle; a bounded negative.
+Claim: A full-text scan of the 2025 and 2026 IRS e-file batches for the word "Anthropic", completed Sep 14 2026, found 11 matching return records; none identifies a Moskovitz or Tuna vehicle holding Anthropic stock.
+Why it matters: A negative within the scanned files, not all filed or future returns. Records: research/irs-anthropic-scan/hits.csv and context files.
 Source: https://apps.irs.gov/pub/epostcard/990/xml/2026/
 
 
 Claim: Dustin Moskovitz Remainder Interest Trust dated March 10, 2018 (identity, from Meta's 2020 proxy) — the trust that supplies Good Ventures Foundation's largest gifts is identified: trustee Tom Van Loben Sels (also Good Ventures Foundation's assistant secretary and the officer on Coefficient Giving Policy Fund's 990-N); it held 6,830,855 Meta Class B shares in March 2020, the same block earlier held by "The Dustin Moskovitz 2008 Annuity Trust dated March 10, 2008" (Meta 2015 proxy), i.e. the remainder of a ten-year 2008 GRAT; Moskovitz is "trustee, co-trustee, grantor, or beneficiary" shares (2020-04-10, SEC DEF 14A (Facebook, Inc. 2020 proxy, footnote 17; 2015 proxy footnote))
-Why it matters: Identifies the family trust that makes the foundation's largest gifts; its holdings are on no public document.
+Why it matters: Identifies the family trust that makes the foundation's largest gifts and its disclosed Meta holding; no Anthropic holding for it was identified in the reviewed records.
 Source: https://www.sec.gov/Archives/edgar/data/1326801/000132680120000037/facebook2020definitiveprox.htm
 
 
 Claim: Anthropic investor base (NYT, Mike Isaac et al., Sep 3 2026, corrected Sep 4) — no figure for any METR-named funder; "Menlo, Lightspeed and Iconiq now own 1 percent to 2 percent of Anthropic, said three people"; "Anthropic has raised more than $130 billion from roughly 300 investors, according to PitchBook"; "Spark Capital is the only investor with a seat on Anthropic's board" % (2026-09-03, press)
-Why it matters: The NYT's investor-base reporting gives no percentage for any METR-named funder; nothing in the press resolves the stake.
+Why it matters: This September 2026 NYT article gives no percentage for the METR-linked early funders and does not resolve their stakes. Saved: research/press-pdfs/nyt-2026-09-03-anthropic-ipo-investors.pdf.
 Source: https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html
 
 
@@ -94,38 +94,38 @@ Why it matters: Tallinn declines to state his Anthropic percentage, so his dashe
 Source: https://www.aripaev.ee/uudised/2026/01/05/aripaeva-aasta-ettevotja-tagasihoidlik-miljardar-kes-ohjeldab-tehisaru-kui-usa-valitsus-seda-ei-tee-teen-mina
 
 
-Claim: Moskovitz's SEC filings as a reporting person (CIK 0001549917): which entities hold his shares — the Remainder Interest Trust holds neither Asana nor Kodiak; Asana (Schedule 13D 2022-02-14, 13D/A 2023-11-14 and 2025-08-15): shares held by him personally, by "the Dustin Moskovitz Trust" (Dec 27 2005), a Roth IRA, two Justin Rosenstein trusts he trustees, and 1,720,916 Class A shares held by Good Ventures Foundation over which he holds an irrevocable proxy under an Aug 13 2021 voting agreement; Facebook 13G (2013-02-14): the 2005 Trust, the Dustin Moskovitz 2008 Annuity Trust (Mar 10 2008), the Dustin A. Moskovitz 2009 Trust, Justin Rosenstein trusts, and "The CTF Trust dated December 27, 2012" of which he is co-trustee; Kodiak Sciences 13G/A (2021): the 2005 Trust only; trustee Tom van Loben Sels is a promoter of Apercen Investments LLC (Form D 2010, c/o Apercen Partners LLC, Palo Alto) (2025-08-15, SEC filings (13D, 13D/A, 13G, 13G/A, Form D))
-Why it matters: Lists the entities through which Moskovitz holds reporting-company shares; none is shown holding Anthropic.
+Claim: The reviewed Asana and Kodiak ownership filings do not list the 2018 Remainder Interest Trust as a holder; Moskovitz's reporting-company shares sit in the trusts and entities his SEC filings name. None of the saved filings shows an Anthropic purchase vehicle.
+Why it matters: Lists the vehicles through which Moskovitz holds reporting-company shares, from dated filings saved under research/sec-filings/; none is shown holding Anthropic.
 Source: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001549917
 
 
-Claim: Good Ventures Foundation public-stock portfolio, FY2024 vs FY2025 (Part II line 10b schedules, 462 and 406 named issuers) — the endowment's public book is an AI-infrastructure portfolio, repositioned in the transfer year: largest FY2025 holdings TSMC $508,854,795; SK Hynix $399,749,206 (FY2024 $45.3M); Broadcom $290,449,924; Vistra $202,021,342 (new); Micron $184,134,391 (FY2024 $18.1M); Vertiv $178,712,948 (FY2024 $39.0M); Constellation Energy $173,258,859 (new); Advantest $163,827,566 (new); GE Vernova $156,083,905 (new); Amazon $142,874,446 (FY2024 $3.2M); Celestica $141,460,481 (FY2024 $3.9M); Nebius $95,495,098 (new); 58 new positions, 114 exited, incl. Nvidia $535,507,080 sold to $9.2M, Microsoft $504,451,905 → $79,854,699, ASML $385,540,573 → $759,718, Alphabet A $391,740,715 → $125,487,392; no Meta Platforms line in either year USD (2025-06-30, IRS 990-PF filings (FY2024 e-file 202501349349105365; FY2025 e-file 202641359349102829))
-Why it matters: Good Ventures' public book at June 2025 is concentrated in AI-infrastructure stocks (TSMC, SK Hynix, Broadcom, Vistra, Micron, Vertiv); the endowment is positioned on the same boom as the lab.
+Claim: Good Ventures Foundation's FY2025 990-PF (total assets $10,107,955,038 at Jun 30 2025) lists 406 public issuers; its largest are TSMC $509M, SK Hynix $400M, Broadcom $290M, Vistra $202M, Micron $184M, Vertiv $179M. The listed public holdings include substantial AI-infrastructure exposure (analysis).
+Why it matters: The endowment is positioned on the same AI boom as the lab. Sources: the two saved 990-PF e-files (IRS objects 202501349349105365 and 202641359349102829).
 Source: https://apps.irs.gov/pub/epostcard/990/xml/2026/
 
 
-Claim: Value Aligned Research Advisors, LLC (SEC CIK 0001963565; Good Ventures Foundation's investment manager, $5,264,377 FY2025) and the VAR AI Funds — the foundation's manager launched a multi-billion-dollar AI hedge fund in the transfer window: "VAR AI Fund, LP" (CIK 0002058384) filed Form D on 2025-03-21 (first sale yet to occur; 3(c)(1)); amended 2026-03-20: $2,834,590,561 sold to 68 investors (3(c)(7)); amended 2026-06-15: $4,346,290,561 sold to 116 investors; "VAR AI Offshore Fund, Ltd." (CIK 0002058569): $622,537,823 to 39 investors by 2026-03-20; executive officers Benjamin Hoskin and David Field, VAR AI Fund GP, LLC; 51 Park Place, Princeton NJ; VARA files quarterly 13F-HR (Aug 2025 onward) and N-PX USD (2026-06-15, SEC Form D / Form D/A; 13F-HR)
-Why it matters: The foundation's investment manager launched an AI hedge fund in March 2025; $4.35B sold to 116 investors by June 2026.
+Claim: Value Aligned Research Advisors, Good Ventures Foundation's investment manager ($5,264,377 fee, FY2025), runs VAR AI Fund LP: its initial Form D of Mar 21 2025 reported first sale yet to occur and $0 sold; the Jun 15 2026 amendment reports $4,346,290,561 sold to 116 investors.
+Why it matters: The foundation's manager launched an AI hedge fund; the figure separates the March 2025 launch from the June 2026 amount sold. Saved Form Ds: research/audit3-evidence/sec/vara-form-d-*.xml.
 Source: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002058384
 
 
-Claim: Value Aligned Research Advisors, LLC: 13F-HR holdings, Jun 2025 to Jun 2026 — the manager's reported public-equity book grew from $4,734,560,970 (72 positions, quarter ended Jun 30 2025; TSMC $481M, Nvidia $419M, Micron, Vistra, Vertiv, Alphabet, Intel, Constellation Energy, Broadcom, GE Vernova, Amazon) to $9,944,995,059 (86 positions, Dec 31 2025; Nvidia $1.26B, TSMC, Alphabet, Amazon, Broadcom, CoreWeave, Lumentum) to $40,111,386,090 (123 positions, Jun 30 2026; Nvidia $5.09B, Alphabet $4.79B, Amazon $4.74B, TSMC $2.15B, Micron $2.01B, Nebius $1.92B, Intel $1.77B, Bloom Energy $1.70B, CoreWeave $1.67B, Broadcom, SanDisk, Vertiv, AMD, ASML, Seagate) USD (2026-06-30, SEC Form 13F-HR (three filings))
-Why it matters: The manager's reported public book grew from $4.7B to $40.1B in a year, led by Nvidia, Alphabet and Amazon; no Anthropic, which a 13F would not show.
+Claim: VARA's three 13F-HR filings report portfolio values of $4,734,560,970 (72 table entries, Jun 2025), $9,944,995,059 (86, Dec 2025) and $40,111,386,090 (123, Jun 2026), led by Nvidia, Alphabet, Amazon and TSMC. Saved: research/sec-filings/vara-13f-hr-*.xml.
+Why it matters: The manager's reported public book grew from $4.7B to $40.1B in a year; a 13F does not show private stock, so Anthropic's absence is expected.
 Source: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001963565&type=13F
 
 
-Claim: Donor-advised-fund sponsors: Schedule M "Securities—Closely held stock" (count, amount) by fiscal year, from IRS e-files — Fidelity Charitable (FYE Jun): FY2023 87 / $265,613,057; FY2024 126 / $228,632,235; FY2025 306 / $464,187,816. National Philanthropic Trust (FYE Jun): FY2023 57 / $90,965,333; FY2024 186 / $279,950,909; FY2025 19 / $1,183,079,981. Vanguard Charitable (FYE Jun): FY2024 9 / $5,152,704; FY2025 12 / $96,652,480. Schwab Charitable/DAFgiving360 (FYE Jun): FY2024 12 / $8,269,327; FY2025 29 / $14,402,947. Silicon Valley Community Foundation (calendar): 2023 3 / $4,956,980; 2024 4 / $2,562,398; 2025 not filed. American Endowment Foundation (calendar): 2024 951 / $64,396,665. Goldman Sachs Philanthropy Fund, Tides: no closely-held line. Not yet filed for the transfer window: SVCF, AEF, Goldman, Tides (calendar 2025, due 2026-11-16) USD (2025-06-30, IRS Form 990 Schedule M (22 returns))
-Why it matters: The sweep of DAF sponsors' closely-held-stock intake that narrows where a private-stock gift could have landed; corrected after audit to note line 11 and the 18 e-files on disk.
+Claim: Schedule M line 10 (closely held stock) from 18 saved DAF-sponsor e-files, FY2023–FY2025: NPT FY2025 19 gifts / $1,183,079,981 is the only line of that shape; Fidelity, Vanguard and Schwab are far smaller. Line 10 does not cover every form of private-stock exposure; partnership and trust interests are reported on line 11.
+Why it matters: The sweep that narrows where a private-stock gift of the stake's scale could have landed; it is a line-10 test only, and only for the 18 returns saved.
 Source: https://apps.irs.gov/pub/epostcard/990/xml/2026/
 
 
-Claim: National Philanthropic Trust (EIN 23-7825575), FY2025 (Jul 2024–Jun 2025): closely-held-stock anomaly — 19 closely-held-stock gifts totalling $1,183,079,981 (average $62.3M), against 186 gifts / $279,950,909 in FY2024 and 57 / $90,965,333 in FY2023; a new year-end investment category "PREFERRED STOCK & CRYPTO" $162,706,505 appears in Schedule D Part VII; Form 8283 appraisals received: 52; NPT states it "seeks to liquidate complex assets as quickly as practical following acceptance" USD (2025-06-30, IRS Form 990 (FY2025 e-file, IRS batch 2026_05A) and nptrust.org)
-Why it matters: NPT, one of Coefficient's two named DAF partners, took in $1.18B of closely held stock in 19 gifts in the year covering early 2025. Unattributed; a signal, not an identification.
+Claim: National Philanthropic Trust's FY2025 Form 990 (IRS object 202601289349302480) reports 19 closely-held-stock contributions worth $1,183,079,981, a new preferred-stock/crypto category of $162.7M, and 52 appraisals; NPT's policy is to liquidate complex assets quickly.
+Why it matters: NPT, one of Coefficient's two named DAF partners, took in $1.18B of closely held stock in 19 gifts in the year covering early 2025. The aggregate is unattributed and does not identify an Anthropic gift or a Moskovitz/Tuna account.
 Source: https://www.nptrust.org/annual-reports/daf-spotlight-complex-assets/
 
 
 Claim: Coefficient Giving, "Our grantmaking process" page: recommendations can be submitted to its own grantmaking entity or to named external funding partners — Coefficient names its funding partners: "it submits formal recommendations to our grantmaking entity Coefficient Giving Advisors, Inc, or to one of our external funding partners, such as the Silicon Valley Community Foundation, the National Philanthropic Trust, or the Good Ventures Foundation"; "our external funding partners … conducts its own due diligence and formally approves the grant" (2026-09-14, issuer page)
-Why it matters: Coefficient's own page names Good Ventures Foundation, SVCF and NPT as the external funding partners that approve its grants, without naming the account principals.
+Why it matters: Coefficient's own page names Good Ventures Foundation, SVCF and NPT as the external funding partners that approve its grants; it does not name the account principals. This is why the figure calls them funding partners, not the couple's accounts.
 Source: https://coefficientgiving.org/grantmaking-process/
 
 
@@ -134,18 +134,18 @@ Why it matters: NPT's closely-held equity held at year-end rose by $996M in the 
 Source: https://projects.propublica.org/nonprofits/full_text/202601289349302480/IRS990ScheduleD
 
 
-Claim: Silicon Valley Community Foundation, calendar 2024 Form 990 Schedule I (3,576 grants) — SVCF granted $1,591,322,838 to National Philanthropic Trust ("General Nonprofit Support") in 2024, i.e. a fund of that size moved from SVCF to NPT; in the same year SVCF granted the Coefficient-network pattern: Constellation Research Center $10,000,000 (confirms the CauseIQ line, GROKREVIEW-D), Longview Philanthropy USA $6,785,866, FAR AI $6,015,000, MATS Research $4,042,029, RAND $2,000,000, Berkeley Existential Risk Initiative $1,514,060, Center for AI Safety $1,050,540, Open Philanthropy $1,000,000, Epoch $600,000, Effective Ventures USA $422,311, Founders Pledge $110,000, Alignment Research Center $50,450, Model Evaluation and Threat Research $20,000, Clarity AI Research (Transluce) $20,000. 2023: Effective Ventures $12,703,880, BERI $4,807,310, FAR AI $4,187,013, Founders Pledge $3,596,000, Open Philanthropy $2,000,000, CAIS $1,455,200, ARC $1,401,000, Redwood $500,000, NPT $7,196,356 USD (2024-12-31, IRS Form 990 Schedule I (e-files research/daf-sponsors/, EIN 20-5205488))
-Why it matters: SVCF granted NPT $1.59B in 2024 and Constellation $10M; the account family behind Coefficient's grants moved from SVCF to NPT.
+Claim: SVCF's 2024 Schedule I reports $1,591,322,838 in grants to NPT and $10,000,000 to Constellation; the originating accounts, donors and any connection to the Anthropic stake are not identified.
+Why it matters: These are sponsor-level payment records; they do not establish account migration or ownership. They show SVCF paying NPT $1.59B and Constellation $10M in 2024.
 Source: https://projects.propublica.org/nonprofits/organizations/205205488
 
 
 Claim: National Philanthropic Trust, Form 990 Schedule I, FY2023–FY2025: grants to METR's network — FY2025 (Jul 2024–Jun 2025; 22,258 grants): Founders Pledge $78,816,791; The RAND Corporation $61,646,790; FAR AI $14,420,253; Effective Ventures USA $11,564,000; Epoch AI $4,132,488; Longview Philanthropy USA $3,997,252; Co-Impact $3,500,000; Redwood Research $1,100,000; BERI $313,255. FY2024: Founders Pledge $1,166,390; BERI $1,113,000; CEA USA $316,000. FY2023: Redwood Research $5,300,000; Founders Pledge $1,238,666; CEA USA $1,228,854; BERI $653,995; FAR AI $150,000. No grant to METR or ARC in any year USD (2025-06-30, IRS Form 990 Schedule I (e-files research/daf-sponsors/, EIN 23-7825575))
-Why it matters: NPT's grants to METR's network (RAND $61.6M, Founders Pledge, FAR, Effective Ventures, Epoch, Longview, Redwood) jump in FY2025; NPT has no METR or ARC line.
+Why it matters: No METR- or ARC-named grantee appears in the reviewed NPT FY2023–FY2025 Schedule I lists; the listed network grants are NPT's, without assigned donor accounts.
 Source: https://projects.propublica.org/nonprofits/organizations/237825575
 
 
-Claim: Coefficient-recommended grants are paid from donor-advised accounts at SVCF and NPT: exact-amount matches between the sponsors' Schedule I grants and Coefficient's published awards — NPT FY2025: Epoch AI $4,132,488 = Coefficient 2025 "Epoch — General Support" $4,132,488; Redwood Research $1,100,000 = Coefficient 2025 "AI Safety Research Collaborations" (the $1.1M in). NPT FY2023: Redwood Research $5,300,000 = Coefficient 2023 "Redwood Research — General Support". SVCF 2024: Obelus (Asterisk magazine) $1,134,769; International AIDS Vaccine Initiative $796,878; RAND $2,000,000 (Technology and Security Policy Center); Giving What We Can $2,200,000; Compassion in World Farming $1,300,000; Plant Based Foods Institute $257,000; One for the World $296,000; Life Sciences Research Foundation $218,500. SVCF 2023: Nuclear Threat Initiative $7,831,500; Humane Society International $887,300; Global Challenges Project $687,589; Cambridge Boston Alignment Initiative $550,000; One for the World $870,000; Aquatic Life Institute $550,000; LSRF $401,750; Magnify Mentoring $320,000 — each equal to the dollar to a Coefficient award to the same grantee USD (2025-06-30, IRS Form 990 Schedule I (SVCF 2023–24, NPT FY2023–25) matched against the Coefficient grants index (2,911 rows, snapshot 2026-09-11))
-Why it matters: Exact-amount matches prove Coefficient's awards are paid from accounts at SVCF and NPT; 18 matches after audit. Proves the routing, not who owns the accounts.
+Claim: 18 temporally compatible same-recipient, same-amount matches between Coefficient's award index and the SVCF and NPT Schedule I filings (e.g. Epoch $4,132,488; Redwood $1,100,000; Obelus $1,134,769) are consistent with the documented external-partner payment arrangement.
+Why it matters: The matches identify sponsor accounts as the payers of Coefficient-recommended grants; they do not identify the account principals or prove each transaction's attribution. Sources: the saved Sep 11 2026 index and the saved SVCF/NPT e-files.
 Source: https://coefficientgiving.org/grants/
 
 
@@ -155,8 +155,8 @@ Source: https://bsky.app/profile/moskov.goodventures.org/post/3miawblqk7224
 
 
 Claim: Dustin Moskovitz, on Bluesky: the "wave" defined — "CG, via funding from Good Ventures, is surging budgets in 2026 across all categories … timed and designed to scale the field ahead of the anticipated wave of new funders next year." (2026-07-23, self-statement)
-Why it matters: The thread root names Good Ventures as the funder surging Coefficient's budgets ahead of 'the anticipated wave of new funders'.
-Source: https://bsky.app/profile/moskov.goodventures.org/post/3mtygcpxluc2b
+Why it matters: The thread root, quoted here, names Good Ventures as the funder surging Coefficient's budgets ahead of "the anticipated wave of new funders".
+Source: https://bsky.app/profile/moskov.goodventures.org/post/3mrdb7fhfqs2w
 
 
 Claim: Dustin Moskovitz, on Bluesky — "all Anthropic holdings are in the foundation, dedicated to charity" (2026-03-30, self-statement)
@@ -165,84 +165,84 @@ Source: https://bsky.app/profile/moskov.goodventures.org/post/3miawjaazyc24
 
 
 Claim: Dustin Moskovitz, on Bluesky — "we have about $20B more in the foundation and some more personal … The foundation is invested in Anthropic as well." USD (2026-04-11, self-statement)
-Why it matters: 'About $20B more in the foundation … invested in Anthropic as well', double the 990-PF filer's assets, so 'the foundation' covers more than Good Ventures Foundation.
+Why it matters: 'About $20B more in the foundation … invested in Anthropic as well', corrected the next day: not all, though still most, of the $20B is in the foundation. The statements do not specify a legal entity or establish the location of the Anthropic stake.
 Source: https://bsky.app/profile/moskov.goodventures.org/post/3mjaq5x2pws2e
 
 
 Claim: Open Philanthropy, "How to apply for funding" page (Wayback 2023–2024) — "Grants typically will be recommended to the Open Philanthropy Project fund, an advised fund of the Silicon Valley Community Foundation." (2024-10-01, issuer page (archived))
-Why it matters: Open Philanthropy's own page said grants were recommended to 'the Open Philanthropy Project fund, an advised fund of SVCF', naming the DAF account by name.
-Source: https://web.archive.org/web/20241001000000/https://www.openphilanthropy.org/how-to-apply-for-funding/
+Why it matters: Open Philanthropy's own page (Wayback capture Sep 27 2024) said grants were recommended to 'the Open Philanthropy Project fund, an advised fund of SVCF', naming the DAF account; it does not locate the donated stake.
+Source: https://web.archive.org/web/20240927040853/https://www.openphilanthropy.org/how-to-apply-for-funding/
 
 
 Claim: IRS Statistics of Income split-interest trust file (sit-2022.csv, 98,802 trusts) — negative — no Moskovitz, Tuna, "Remainder Interest" or CTF trust for this family appears among Form 5227 filers, while three Apercen-administered CRTs/CLATs and four trusts at 314 Lytton Ave do; Meta's 2021 proxy also drops the trust from Moskovitz's attributed holdings (2022-12-31, IRS SOI dataset (via GROKREVIEW-E))
-Why it matters: The IRS split-interest-trust file has no Moskovitz, Tuna or CTF trust, so the trust route is private and cannot be read.
+Why it matters: No identified Dustin Moskovitz / Cari Tuna family trust was found in the checked 2022 IRS split-interest-trust extract (two unrelated Moskovitz name matches). That does not determine the trust's legal form, other-year filings, or current holdings.
 Source: https://www.irs.gov/statistics/soi-tax-stats-split-interest-trust-statistics
 
 
-Claim: National Philanthropic Trust FY2025 Schedule I: Coefficient-pattern grants total ≈$170M, incl. $50,000,000 to Coefficient Giving Advisors Inc — NPT paid Coefficient Giving Advisors Inc $50,000,000, RAND $61,646,790, FAR AI $14,420,253, Effective Ventures USA $11,564,000, Epoch $4,132,488 (= Coefficient award), Longview $3,997,252, Redwood $1,100,000 (= Coefficient award) in FY2025, ≈$170M, against ≈$8M (FY2023) and ≈$4M (FY2024) of the same pattern USD (2025-06-30, IRS Form 990 Schedule I (e-file research/daf-sponsors/))
-Why it matters: NPT paid $50M to Coefficient Giving Advisors and $146.9M in Coefficient-pattern grants in FY2025; the DAF sponsor is a live channel for the giving complex.
+Claim: NPT's FY2025 Schedule I lists seven Coefficient-pattern grants totalling $146,860,783, including $50,000,000 to Coefficient Giving Advisors; these identify recipient payments, not the underlying donors.
+Why it matters: The DAF sponsor is a live channel for Coefficient's programme; the $50M is included in the $146.9M total, not additional to it.
 Source: https://projects.propublica.org/nonprofits/organizations/237825575
 
 
 Claim: Blue Owl Capital 2021 Form S-1: selling holders "THE CTF TRUST UAD 122712" and "Moskovitz Investments LLC" — the CTF Trust (Moskovitz co-trustee) and an entity named Moskovitz Investments LLC appear as selling stockholders in Blue Owl's 2021 S-1 shares (2021-06-21, SEC Form S-1 (via GROKREVIEW-E / EDGAR full-text hits search))
-Why it matters: Blue Owl's 2021 S-1 shows the family's private vehicles (Moskovitz Investments LLC, the CTF Trust) and Good Ventures Foundation side by side as holders; a precedent for the foundation holding private units in its own name.
+Why it matters: The 2021 Blue Owl selling-stockholder table names these family vehicles and Good Ventures Foundation; it does not identify the purchaser or recipient of the Anthropic stake. Saved S-1: research/audit3-evidence/sec/st117-blue-owl-s1.html.
 Source: https://www.sec.gov/Archives/edgar/data/1823945/000119312521193553/d318922ds1.htm
 
 
 Claim: Dustin Moskovitz: Anthropic board observer (his own words, Stratechery interview with Ben Thompson) — "I'm a board observer at Anthropic and we are early donors to OpenAI"; "I'm a chair of at Open Philanthropy and I'm a business guy and I'm also in the boardroom in at Anthropic and I know all the players" (2025-10-20, self-statement (interview transcript))
-Why it matters: Moskovitz, in his own words: 'I'm a board observer at Anthropic' and 'in the boardroom in at Anthropic and I know all the players'. Card 3.
+Why it matters: Moskovitz, in his own words: 'I'm a board observer at Anthropic' and 'in the boardroom in at Anthropic and I know all the players'. Card 3; the passage continues after 'naive', marked with an ellipsis. Saved transcript: Wayback 20251020103508.
 Source: https://stratechery.com/2025/an-interview-with-asana-founder-dustin-moskovitz-about-ai-saas-and-safety/
 
 
 Claim: National Philanthropic Trust FY2025: Schedule A 2% floor puts every contributor above $303,073,355 on Schedule B Parts I–II; NPT's Schedule O says the return is available on request under §6104(d); IRS instructions make Part II noncash descriptions public — line 1h $15,153,667,777 × 2% = $303,073,355; Schedule B Part II carries noncash description, FMV and date received; public XML shows RESTRICTED in every field; NPT posts no audit notes (only a 2-page balance sheet/income statement in its annual report) USD (2025-06-30, IRS e-file (Schedule A/O) + IRS Schedule B instructions (verified by review agent H))
-Why it matters: NPT's Schedule B is publicly inspectable on request and must list every contributor above $303M with the asset class, value and date of non-cash gifts; the route that could still settle the sponsor.
+Why it matters: NPT's public-inspection copy must list every contributor above $303,073,355.54 (first whole dollar $303,073,356) when the special rule applies; names, addresses and other identifying information may be withheld, and asset class, value and date do not guarantee an issuer name. The route that could still narrow the sponsor.
 Source: https://www.irs.gov/instructions/i990sb
 
 
-Claim: Cari Tuna roles 2025–26: Good Ventures Foundation 'PRESIDENT, BOARD CHAIR, DIRECTOR' (FY2025 990-PF); Coefficient Board of Managers Chair; no public statement on the Anthropic stake — Coefficient governance page: Board of Managers = Cari Tuna (Chair), Dustin Moskovitz, Elie Hassenfeld, Alexander Berger; 2025-03-06 letter: title changed to Chair; no Anthropic seat, no recusal statement; @CariTuna last posted 2013; no Bluesky (2025-06-30, IRS e-file + Coefficient pages (verified by review agent H))
-Why it matters: Cari Tuna chairs both Good Ventures Foundation and Coefficient's Board of Managers; Moskovitz is a manager, not chair, which is how card 3 words it.
+Claim: Good Ventures Foundation's FY2025 990-PF lists Cari Tuna as president, board chair and director; Coefficient's governance page names her Chair of the Board of Managers and lists Dustin Moskovitz as a manager.
+Why it matters: Card 3 words the governance line from this row: Tuna chairs Coefficient's Board of Managers; Moskovitz is a manager.
 Source: https://coefficientgiving.org/about/governance/
 
 
 Claim: Value Aligned Research Advisors Form ADV (CRD 319135, SEC 801-123703): four clients, half of them invested in VAR AI Fund; charitable separate accounts hold 0% non-exchange-traded securities — ADV Schedule D 7.B(1): 50% of VARA's clients invested in the fund; VARA has four clients (master fund, Cayman feeder, two charitable organizations — Good Ventures Foundation is one by its own 990-PF); the master cannot invest in itself, so at least one charitable client is a limited partner. Item 5.K: charitable separate accounts 0% non-exchange-traded. RAUM $9.14B in 4 accounts; 25% non-US clients; Field and Hoskin own 50–75% each; EIN 87-4771771; CRS advertises advising foundations and DAFs USD (2026-09-14, SEC Form ADV via IAPD (verified by review agent G))
-Why it matters: VARA's Form ADV shows at least one of its two charitable clients is an LP in the AI fund; which one is not stated.
+Why it matters: VARA's Form ADV shows at least one of its two charitable clients is an LP in the AI fund; the filing does not say which. Saved ADV PDF under research/audit3-evidence/sec/.
 Source: https://adviserinfo.sec.gov/firm/summary/319135
 
 
-Claim: Benjamin Hoskin (VARA co-owner) sits on the board of the Alignment Research Center (ARC), METR's parent — VARA co-owner and VAR AI Fund GP executive officer is an ARC director (people.csv) (2026-09-14, SEC Form ADV + ARC filings (review agent G))
-Why it matters: The AI fund's co-owner sits on the board of ARC, METR's parent; a join between the endowment's manager and the evaluator's parent.
+Claim: Benjamin Hoskin, co-owner of Value Aligned Research Advisors, appears as a board member in the Alignment Research Center's FY2024 filing; ARC is METR's former parent.
+Why it matters: A join between the endowment's manager and the evaluator's former parent. Sources: the saved ADV and ARC's FY2024 return.
 Source: https://adviserinfo.sec.gov/firm/summary/319135
 
 
-Claim: Good Ventures Foundation → Open Philanthropy Advisors Inc (now Coefficient Giving Advisors): $10,000,000 GENERAL SUPPORT, FY2024 (Jul 2023–Jun 2024) 990-PF Part XV — 10000000 USD (2024-06-30, IRS 990-PF e-file)
-Why it matters: The foundation's $10M FY2024 grant to Open Philanthropy Advisors (now Coefficient Giving Advisors), the line on the Good Ventures node.
+Claim: Good Ventures Foundation paid $10,000,000 general support to Open Philanthropy Advisors Inc (now Coefficient Giving Advisors) in FY2024 (Jul 2023–Jun 2024). Saved source: research/990pf-goodventures-202501349349105365.xml, IRS object 202501349349105365.
+Why it matters: The line on the Good Ventures node; the filing names the historical entity.
 Source: research/990pf-goodventures-202501349349105365.xml
 
 
 == Anthropic's funding rounds and named investors ==
 
-Claim: Anthropic Series A, 2021-05-28: $124,000,000 raised; post-money not disclosed by Anthropic; Forge/Dealroom secondary estimate ~$623M post (unverified); named investors: Jaan Tallinn (lead); Dustin Moskovitz; Eric Schmidt; James McClave; Center for Emerging Risk Research; others
-Why it matters: The 2021 Series A: Tallinn led; Moskovitz, Schmidt, McClave and CERR joined. The origin of every equity link on the figure.
+Claim: Anthropic's Series A, May 28 2021: $124M; Jaan Tallinn led, with Dustin Moskovitz, Eric Schmidt, James McClave and the Center for Emerging Risk Research. Anthropic did not disclose a post-money valuation.
+Why it matters: The 2021 Series A: the origin of every equity link on the figure. The issuer names the investors, not their purchasing vehicles.
 Source: https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems
 
 
-Claim: Anthropic Series B (funded Oct 2021–Mar 2022), 2022-04-29: $580,000,000 raised; post-money not disclosed; FTX bankruptcy motion: Alameda's ~$500M bought ~8% (7.84% fully diluted by Feb 2024), implying ~$6.3B post if 8% of post-money; named investors: Sam Bankman-Fried / Alameda ~$500M (lead); Caroline Ellison ~$10M; Nishad Singh ~$40M; Jaan Tallinn; James McClave; CERR
-Why it matters: The Series B: Alameda/FTX's ~$500M plus the same early investors; Jane Street later bought the FTX estate's shares.
+Claim: Anthropic's Series B, announced Apr 29 2022: $580M; Sam Bankman-Fried, Caroline Ellison, Nishad Singh, Jaan Tallinn, James McClave and CERR participated. FTX bankruptcy filings later put Alameda's stake at about $500M.
+Why it matters: The Series B: Alameda/FTX's stake plus three of the Series A investors; Jane Street later bought the FTX estate's shares.
 Source: https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai ; https://unchainedcrypto.com/ftx-seeks-bankruptcy-court-approval-to-sell-1-4-billion-stake-in-ai-startup-anthropic/
 
 
-Claim: Anthropic FTX estate secondary sale #1 (29.5M shares @ ~$30), 2024-03-25: $884,000,000 raised; post-money ~18000000000 implied; named investors: ATIC $500M / 16.66M sh; Jane Street Global Trading $100M / 3.3M sh; Fidelity funds $50M; Ford Foundation; HOF Capital; ~20 others
-Why it matters: The court-supervised FTX estate sale at ~$30 a share, where Jane Street bought 3,332,833 shares for $99,999,988.
+Claim: FTX estate secondary sale reported March 2024: about $884M of estate proceeds, not capital raised by Anthropic. The court exhibit (D.I. 10241-1) totals $884,109,327 for 29,465,891 shares; Jane Street Global Trading's line is 3,332,833 shares for $99,999,988.
+Why it matters: The court-supervised estate sale at about $30 a share, where Jane Street bought 3,332,833 shares. Primary: the CourtListener exhibit cited in.
 Source: https://www.theblock.co/post/284480/ftx-to-sell-two-thirds-of-anthropic-stake-for-884-million-with-buyers-including-jane-street-and-funds-managed-by-fidelity
 
 
-Claim: Anthropic FTX estate secondary sale #2 (15M shares @ $30), 2024-06: $452,000,000 raised; post-money ~18000000000 implied; named investors: G Squared $135M; Fund FG-BLU; ~20 other buyers
-Why it matters: The second estate sale at the same price; fixes the 2024 per-share mark.
+Claim: The FTX estate's sale of its remaining Anthropic shares, reported Jun 1 2024, generated over $450M for about 15M shares at about $30; G Squared bought 4.5M shares for $135M.
+Why it matters: The second estate sale at the same price. Saved article: research/agents-2026-09-14/-stakes/docs/wb-theblock-ftx-sale2.txt.
 Source: https://www.theblock.co/post/298010/ftx-offloads-remaining-anthropic-shares-as-bankruptcy-cost-surpasses-700-million
 
 
-Claim: Anthropic Series E, 2025-03-03: $3,500,000,000 raised; post-money $61,500,000,000; named investors: Lightspeed (~$1B lead); Bessemer; Cisco; D1; Fidelity; General Catalyst; Jane Street; Menlo; Salesforce Ventures
-Why it matters: Series E at $61.5B post-money, March 2025, the valuation in force when the stake was donated.
+Claim: Anthropic's Series E, Mar 3 2025: $3.5B at a $61.5B post-money valuation; Jane Street among the named investors. The exact date of the Moskovitz stake transfer is not established.
+Why it matters: The valuation in force in March 2025, the quarter Forbes says the stake moved; the transfer date itself is unknown.
 Source: https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
 
 
@@ -261,21 +261,381 @@ Why it matters: Series H at $965B, May 2026: the valuation behind the $7.7B ceil
 Source: https://www.anthropic.com/news/series-h
 
 
-Claim: Anthropic IPO reporting (not a transaction), 2026-09-12: up to 100000000000 (raise, reported) raised; post-money ~2000000000000 (reported target); named investors: n/a
-Why it matters: WSJ's reported IPO target of ~$2T; reporting, not a transaction, and labelled so.
+Claim: WSJ reported on Sep 12 2026 that a prospective Anthropic IPO could raise up to $100B at around a $2T valuation; this is reporting, not a completed financing.
+Why it matters: WSJ's reported IPO ambition; labelled as reporting on the figure. Saved: research/press-pdfs/wsj-2026-09-12-anthropic-boss-warns-slow-the-pace.txt.
 Source: https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56
 
 
 == Money into METR's network ==
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Alignment Research Center: $265,000 (grant), 2022-03-01. General Support
+Why it matters: One of the two Coefficient awards to ARC (2022) that make the $1.5M Coefficient → ARC pipe.
+Source: https://coefficientgiving.org/grants/alignment-research-center-general-support/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Alignment Research Center: $1,250,000 (grant), 2022-11-18. General Support
+Why it matters: One of the two Coefficient awards to ARC (2022) that make the $1.5M Coefficient → ARC pipe.
+Source: https://coefficientgiving.org/grants/alignment-research-center-general-support-november-2022/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → RAND Corporation: $10,000,000 (grant), 2025-09-20. AI Evaluation and Testing
+Why it matters: The $10.0M 'AI Evaluation and Testing' award to RAND (Sep 2025): the Coefficient → RAND pipe. An award to RAND for its own programme, not a payment routed to METR.
+Source: https://coefficientgiving.org/grants/ai-evaluation-and-testing/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $500,000 (grant), 2022-04-06. Nuclear Security Grantmaking
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-nuclear-security-grantmaking/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $60,000 (grant), 2022-11-30. Far-UVC Event
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-far-uvc-event/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $74,557 (grant), 2023-01-18. Research Support for Kacper Kowalczyk
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-research-support-for-kacper-kowalczyk/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $57,500 (grant), 2023-01-19. Film Project Scoping Work
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-film-project-scoping-work/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $47,500 (grant), 2023-01-20. Support for Richard Chappell
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-support-for-richard-chappell/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $165,000 (grant), 2023-02-17. Far-UVC Event
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-far-uvc-event-2023/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $770,076 (grant), 2023-02-28. AI Policy Development at the OECD
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-ai-policy-development-at-the-oecd/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $4,020,258 (grant), 2023-12-15. General Support
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-general-support/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $595,426 (grant), 2024-01-23. Effective Giving Information Sharing
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-effective-giving-information-sharing/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $15,961,273 (grant), 2024-10-29. General Support
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/longview-philanthropy-general-support-october-2024/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → Longview Philanthropy: $4,000,000 (grant), 2025-06-06. RFP on Hardware-Enabled Mechanisms for AI Compliance
+Why it matters: One of eleven Coefficient awards to Longview (2022–25) that sum to the $26.3M Coefficient → Longview pipe; Longview's own programmes, not METR money.
+Source: https://coefficientgiving.org/grants/rfp-on-hardware-enabled-mechanisms-for-ai-compliance/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $425,800 (grant), 2021-10-20. Language Model Misalignment
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/language-model-safety-fund-language-model-misalignment/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $463,693 (grant), 2022-08-15. Language Model Misalignment
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/fund-for-alignment-research-language-model-misalignment-2022/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $50,000 (grant), 2022-12-05. Interpretability Research
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-interpretability-research/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $49,500 (grant), 2022-12-06. Inverse Scaling Prize
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-inverse-scaling-prize/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $625,000 (grant), 2022-12-12. General Support
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-general-support/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $280,000 (grant), 2023-03-14. FAR Labs Office Space
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-far-labs-office-space/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $100,000 (grant), 2023-03-30. AI Interpretability Research
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-ai-interpretability-research/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $460,000 (grant), 2023-07-09. General Support
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-general-support-2023/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $166,500 (grant), 2023-09-25. Alignment Workshop
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-alignment-workshop/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $645,750 (grant), 2024-01-16. AI Alignment Research Projects
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-ai-alignment-research-projects/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $2,160,000 (grant), 2024-04-19. General Support
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-general-support-2024/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $1,700,000 (grant), 2024-04-19. FAR Labs Office Space
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-far-labs-office-space-2024/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $1,800,000 (grant), 2024-04-19. AI Field Building
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-ai-field-building/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $12,000,000 (grant), 2024-06-16. AI Safety Regranting
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/ai-safety-regranting/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $676,180 (grant), 2024-07-25. AI Alignment Research Projects
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/far-ai-ai-alignment-research-projects-2024/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $2,420,253 (grant), 2025-04-13. AI Communications and Outreach
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/ai-communications-and-outreach/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $6,650,000 (grant), 2025-04-13. AI Field Building
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/ai-field-building/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → FAR AI: $28,675,000 (grant), 2025-09-14. AI Safety Research and Field-building
+Why it matters: One of eighteen Coefficient awards to FAR AI (2021–25) that sum to the $59.3M Coefficient → FAR AI pipe; FAR AI's CEO sits on METR's board.
+Source: https://coefficientgiving.org/grants/ai-safety-research-and-field-building/
+
+
+Claim: Coefficient Giving (formerly Open Philanthropy) → METR (Model Evaluation and Threat Research): $0 (grant), 2026-09-11. none
+Why it matters: The bounded negative behind 'Direct: none found': no METR-named grant in Coefficient's 2,911-row index snapshot of Sep 11 2026.
+Source: /mnt/f/projects/memes/anthropic-investors/research/04-openphil-grants-raw-2026-09-11.json
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Alignment Research Center: $2,179,000 (recommendation incl. match), SFF-2022-H2. General Support
+Why it matters: One of three SFF recommendations to ARC / ARC Evals (2022–24) that make the $5.6M SFF → ARC pipe; recommendations, not paid grants.
+Source: https://survivalandflourishing.fund/sff-2022-h2-recommendations
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Alignment Research Center (Evals Team): $3,247,000 (recommendation incl. match), SFF-2023-H1. General Support of Evals Team
+Why it matters: One of three SFF recommendations to ARC / ARC Evals (2022–24) that make the $5.6M SFF → ARC pipe; recommendations, not paid grants.
+Source: https://survivalandflourishing.fund/sff-2023-h1-recommendations
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Alignment Research Center: $197,000 (recommendation incl. match), SFF-2024. General support
+Why it matters: One of three SFF recommendations to ARC / ARC Evals (2022–24) that make the $5.6M SFF → ARC pipe; recommendations, not paid grants.
+Source: https://survivalandflourishing.fund/sff-2024-recommendations
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Model Evaluation and Threat Research: $204,000 (recommendation incl. match), SFF-2024. General support
+Why it matters: One of two SFF recommendations to METR (2024–25) that make the $752K SFF → METR pipe, including a $428K conditional match.
+Source: https://survivalandflourishing.fund/sff-2024-recommendations
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Model Evaluation & Threat Research (METR): 120000 + 428000 matching pledge (recommendation incl. match), SFF-2025. General support
+Why it matters: One of two SFF recommendations to METR (2024–25) that make the $752K SFF → METR pipe, including a $428K conditional match.
+Source: https://survivalandflourishing.fund/
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Redwood Research Group: $1,274,000 (recommendation incl. match), SFF-2022-H1. General support
+Why it matters: One of two SFF recommendations to Redwood (2022–23) that make the $2.4M SFF → Redwood pipe.
+Source: https://survivalandflourishing.fund/
+
+
+Claim: Survival and Flourishing Fund (Jaan Tallinn) → Redwood Research Group: $1,098,000 (recommendation incl. match), SFF-2023-H1. General Support
+Why it matters: One of two SFF recommendations to Redwood (2022–23) that make the $2.4M SFF → Redwood pipe.
+Source: https://survivalandflourishing.fund/
+
+
+Claim: The Audacious Project (TED) → Canary (RAND + METR): $38,000,000 (commitment), 2024-10-09. Canary: evaluations of frontier AI for dangerous capabilities
+Why it matters: The ~$38M Audacious commitment to Canary, per RAND's Oct 9 2024 release: the grey pipe. A commitment, not a payment.
+Source: https://www.rand.org/news/press/2024/10/09.html
+
+
+Claim: The Audacious Project (TED) → METR: $17,000,000 (commitment), 2024-10-09. METR share of Canary
+Why it matters: METR's own Oct 9 2024 statement that ~$17M of the Audacious commitment would support METR; the grey pipe into METR. Later revised by Barnes to 'a bit under $16m'.
+Source: https://metr.org/blog/2024-10-09-new-support-through-the-audacious-project/
+
+
+Claim: Longview Philanthropy (public fund) → METR (then ARC Evals, division of ARC): $220,000 (grant), 2023. General support
+Why it matters: Giving What We Can reports that Longview recommended a $220K grant to METR in 2023: the Longview → METR pipe. A reported recommendation, not a confirmed disbursement.
+Source: https://www.givingwhatwecan.org/charities/arc-evals
+
+
+Claim: Longview Philanthropy → METR: undisclosed (pooled-fund pass-through), undated. general
+Why it matters: Longview's undisclosed pooled-fund support for METR, confirmed by both organizations without an amount.
+Source: https://www.longview.org/artificial-intelligence/
+
+
+Claim: Alignment Research Center → METR: $4,553,935 (grant), 2024-04-30. Program spin-off: assets and liabilities of the evaluations program
+Why it matters: ARC's FY2024 Schedule I transfer of the evaluation programme's assets to METR ($4,477,169 cash + $76,766 non-cash, Apr 30 2024): the ARC → METR pipe. Not attributable to any one ARC funder.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202513219349323246_public.xml
+
 
 Claim: individuals from Jane Street → METR: undisclosed (grant), undated. general support
 Why it matters: METR names 'individuals from Jane Street' as donors, not the firm; the figure keeps that distinction.
 Source: https://metr.org/about
 
 
+Claim: Founders Pledge Inc → Alignment Research Center: $2,179,000 (grant (990-PF Part XV)), 2022. GENERAL SUPPORT
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202301999349100115_public.xml
+
+
+Claim: Founders Pledge Inc → Alignment Research Center: $1,846,000 (grant (990-PF Part XV)), 2023. GENERAL SUPPORT OF ARC EVALS TEAM
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202402359349100515_public.xml
+
+
+Claim: Founders Pledge Inc → METR: $184,000 (grant (990 Schedule I)), 2024. FUND CHARITABLE ACTIVITIES
+Why it matters: One of the three filed DAF/regrantor grants to METR (Vanguard $4.0M, Founders Pledge $184K, SVCF $20K) that make the $4.2M yellow pipe into METR; the Founders Pledge and SVCF lines match Tallinn's public ledger.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202523079349303352_public.xml
+
+
+Claim: Founders Pledge Inc → Alignment Research Center: $147,000 (grant (990 Schedule I)), 2024. FUND CHARITABLE ACTIVITIES
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202523079349303352_public.xml
+
+
+Claim: Silicon Valley Community Foundation → Alignment Research Center: $1,401,000 (grant (990 Schedule I)), 2023. Sciences
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202413129349304911_public.xml
+
+
+Claim: Silicon Valley Community Foundation → Alignment Research Center: $50,450 (grant (990 Schedule I)), 2024. Sciences
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202543149349305759_public.xml
+
+
+Claim: Silicon Valley Community Foundation → METR: $20,000 (grant (990 Schedule I)), 2024. Sciences
+Why it matters: One of the three filed DAF/regrantor grants to METR (Vanguard $4.0M, Founders Pledge $184K, SVCF $20K) that make the $4.2M yellow pipe into METR; the Founders Pledge and SVCF lines match Tallinn's public ledger.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202543149349305759_public.xml
+
+
+Claim: Vanguard Charitable Endowment Program → Alignment Research Center: $201,000 (grant (990 Schedule I)), FY2023 (2022-07-01 to 2023-06-30). FOR RECIPIENT'S EXEMPT PURPOSE
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202441359349309439_public.xml
+
+
+Claim: Vanguard Charitable Endowment Program → Alignment Research Center: $1,000,000 (grant (990 Schedule I)), FY2024 (2023-07-01 to 2024-06-30). FOR RECIPIENT'S EXEMPT PURPOSE
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202511349349313096_public.xml
+
+
+Claim: Vanguard Charitable Endowment Program → Alignment Research Center: $1,500,000 (grant (990 Schedule I)), FY2025 (2024-07-01 to 2025-06-30). FOR RECIPIENT'S EXEMPT PURPOSE
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://projects.propublica.org/nonprofits/organizations/232888152/202621329349306657/IRS990ScheduleI
+
+
+Claim: Vanguard Charitable Endowment Program → METR: $4,000,000 (grant (990 Schedule I)), FY2025 (2024-07-01 to 2025-06-30). FOR RECIPIENT'S EXEMPT PURPOSE
+Why it matters: One of the three filed DAF/regrantor grants to METR (Vanguard $4.0M, Founders Pledge $184K, SVCF $20K) that make the $4.2M yellow pipe into METR; the Founders Pledge and SVCF lines match Tallinn's public ledger.
+Source: https://projects.propublica.org/nonprofits/organizations/232888152/202621329349306657/IRS990ScheduleI
+
+
+Claim: Effective Ventures Foundation USA → Alignment Research Center: $1,500,000 (grant (990 Schedule I)), FY2023 (2022-07-01 to 2023-06-30). GENERAL NONPROFIT SUPPORT
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202411359349306381_public.xml
+
+
+Claim: Effective Ventures Foundation USA → Alignment Research Center: $54,543 (grant (990 Schedule I)), FY2023 (2022-07-01 to 2023-06-30). RESEARCH AND COLLABORATION ON AI ALIGNMENT
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202411359349306381_public.xml
+
+
+Claim: Effective Ventures Foundation USA → Alignment Research Center: $100,000 (grant (990 Schedule I)), FY2024 (2023-07-01 to 2024-06-30). RESEARCH ON AI SAFETY
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202541349349311654_public.xml
+
+
+Claim: Good Ventures Foundation → Alignment Research Center: $265,000 (grant (990-PF Part XV)), FY2022 (2021-07-01 to 2022-06-30). GENERAL SUPPORT
+Why it matters: Good Ventures' filed payment counterpart of a Coefficient award to ARC; excluded from the yellow total to avoid double counting.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202341359349105939_public.xml
+
+
+Claim: Good Ventures Foundation → Alignment Research Center: $1,250,000 (grant (990-PF Part XV)), FY2023 (2022-07-01 to 2023-06-30). RESEARCH RELATED TO AI ALIGNMENT
+Why it matters: Good Ventures' filed payment counterpart of a Coefficient award to ARC; excluded from the yellow total to avoid double counting.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202441369349105564_public.xml
+
+
+Claim: Every.org → Alignment Research Center: $223,805 (grant (990-PF Part XV)), 2023. ONLINE SUPPORT FOR CHARITABLE PURPOSES
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202423199349106002_public.xml
+
+
+Claim: Every.org → Alignment Research Center: $132,837 (grant (990-PF Part XV)), 2024. GENERAL SUPPORT
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202502749349100700_public.xml
+
+
+Claim: American Endowment Foundation → Alignment Research Center: $400,000 (grant (990 Schedule I)), 2023. GENERAL OPERATING SUPPORT
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202442479349301654_public.xml
+
+
+Claim: Fidelity Investments Charitable Gift Fund → Alignment Research Center: $100,000 (grant (990 Schedule I)), FY2024 (2023-07-01 to 2024-06-30). For grant recipient's exempt purposes
+Why it matters: One of the filed DAF/regrantor grants to ARC (2022–25) that sum to the $10.8M yellow pipe; donor named only where Tallinn's ledger matches.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202521349349310887_public.xml
+
+
+Claim: Good Ventures Foundation → METR: $0 (grant (990-PF Part XV)), FY2022-FY2025. no grant to METR found in 990-PF FY2022-FY2025 (FYE June 2025)
+Why it matters: The bounded negative behind 'Direct: none found': no METR grantee in Good Ventures Foundation's 990-PFs FY2022–FY2025 (to June 2025).
+Source: https://projects.propublica.org/nonprofits/organizations/461008520/202641359349102829/IRS990PF
+
+
+Claim: Good Ventures Foundation (Moskovitz/Tuna; EIN 46-1008520) → The Audacious Project (TED): undisclosed (membership of funding collective), partner listing 2026-09-14. Good Ventures is a listed partner of the Audacious Project collective that committed ~$38M to Canary (RAND + METR); per-project donors are not disclosed
+Why it matters: Good Ventures is a listed Audacious partner today but was absent from the partner list on the day Canary was announced; no Canary payment traced through June 2025.
+Source: https://www.audaciousproject.org/about (partners section, fetched 2026-09-14); Good Ventures 990-PF TY2014–TY2023 XMLs (gt990datalake mirror) and FY2025 (Jul 2024–Jun 2025, ProPublica object 202641359349102829, rendered full_text route, fetched 2026-09-14) grepped for Audacious / TED / Canary / METR / ARC: 0 hits in every filing
+
+
+Claim: TED Foundation Inc (EIN 82-1934592; houses The Audacious Project) → METR / RAND (Canary): $0 (grant (990-PF Part XV)), TY2021–TY2024. no METR, RAND or Canary grant in TED Foundation Inc TY2021–TY2024 990-PF Part XV XML; the four returns contain 3, 6, 1 and 2 readable paid-grant groups respectively, and TY2024 reports two grants totaling $100,253; the ~$38M/$17M commitment has no TED-filing confirmation
+Why it matters: TED Foundation's own 990-PF Part XV (TY2021–TY2024) lists no Canary, RAND or METR grant; Audacious says partners fund grantees directly, so this says nothing about partner payments.
+Source: https://projects.propublica.org/nonprofits/organizations/821934592
+
+
+Claim: Valhalla Foundation (Scott Cook and Signe Ostby; EIN 20-0478828; Audacious partner) → RAND Corporation (Project Canary): $10,000,000 (grant (990-PF Part XV)), 2024 (TY2024 990-PF Part XV). "PROJECT CANARY, AN ARTIFICIAL INTELLIGENCE SAFETY INITIATIVE"; paid direct to RAND, Santa Monica
+Why it matters: Valhalla Foundation's filed $10M 'Project Canary' payment to RAND, one of two filed Canary payments found.
+Source: https://projects.propublica.org/nonprofits/organizations/200478828/202502559349100000/full (XML copy research/990pf-valhalla-ty2024-202502559349100000.xml); research/audacious-partners.csv AP06
+
+
 Claim: Coefficient Giving (grantmakers Jake Mendel and Matt MacDermott) → Redwood Research: 70000000+ (recommendation (internal; over two years)), 2026 (post dated 2026-09-09; "recently"). "recently recommended more than $70 million over the next two years to enable them to scale up their work"; the sentence sits inside the Redwood bullet, after naming Greenblatt's OpenAI incident investigation
-Why it matters: Coefficient's grantmakers recommended more than $70M over two years for Redwood, METR's contractor; a recommendation, not a paid grant.
+Why it matters: Coefficient's grantmakers recommended more than $70M over two years for Redwood, METR's contractor; a recommendation, not a paid grant. Post: coefficientgiving.org/research/were-urgently-scaling-our-work-on-ai-and-biosecurity/.
 Source: Coefficient Giving, "We're Urgently Scaling Our Work on AI and Biosecurity", Emily Oehlsen, 2026-09-09; Kevin's browser save research/independence/coefficient-2026-09-09-urgently-scaling.pdf (text .txt alongside), read first-hand 2026-09-14
+
+
+Claim: Coefficient Giving (Open Philanthropy) → Constellation Research Center Inc (EIN 93-2465256; now Constellation Institute): $3,000,000 (grant (Coworking Space; Global Catastrophic Risks Opportunities)), 2023-06-06. co-working space for the Berkeley research center METR works from (METR May 2026: "shared research center (Constellation) which hosts some AI lab staff")
+Why it matters: One of three Coefficient awards to Constellation (2023–24) that sum to the $22.95M Coefficient → Constellation pipe; Constellation is the Berkeley office METR works from.
+Source: https://coefficientgiving.org/grants/constellation-coworking-space/ ; https://metr.org/blog/2026-05-19-frontier-risk-report/
+
+
+Claim: Coefficient Giving (Open Philanthropy) → Constellation Research Center Inc (EIN 93-2465256): $3,200,000 (grant (General Support; Navigating Transformative AI)), 2024-04-18. general support
+Why it matters: One of three Coefficient awards to Constellation (2023–24) that sum to the $22.95M Coefficient → Constellation pipe; Constellation is the Berkeley office METR works from.
+Source: https://coefficientgiving.org/grants/constellation-general-support/
+
+
+Claim: Coefficient Giving (Open Philanthropy) → Constellation Research Center Inc (EIN 93-2465256): $16,750,000 (grant (Programmatic Activities and Operating Expenses; Navigating Transformative AI)), 2024-06-19. programmatic activities and operating expenses; Constellation 990 TY2024 contributions $10,679,955, membership fees $2,070,598, 23 employees, grants paid $0
+Why it matters: One of three Coefficient awards to Constellation (2023–24) that sum to the $22.95M Coefficient → Constellation pipe; Constellation is the Berkeley office METR works from.
+Source: https://coefficientgiving.org/grants/constellation-programmatic-activities-and-operating-expenses/ ; https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202503199349302910_public.xml
 
 
 Claim: Center for Emerging Risk Research / Macroscopic Ventures (Anthropic Series A and B investor) → Redwood Research: undisclosed (grant (self-reported on grantee list)), undated (live page 2026-09-14). "Redwood Research is a nonprofit AI safety and security research organization…"
@@ -298,6 +658,33 @@ Why it matters: Macroscopic holds Halcyon Venture Partners, the venture arm besi
 Source: https://macroscopic.org/grants
 
 
+Claim: High Tide Foundation (EIN 20-1164239; Audacious partner on the 2024-10-09 list) → RAND Corporation (Project Canary): $333,334 (grant (990-PF Part XV)), 2024 (TY2024 990-PF Part XV). "To support tTHE PROJECT CANARY" (as filed); no METR line
+Why it matters: High Tide Foundation's filed $333,334 'PROJECT CANARY' payment to RAND, the second filed Canary payment found.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202503179349100135_public.xml
+
+
+== The Audacious Project and Canary ==
+
+Claim: High Tide Foundation (EIN 20-1164239; ProPublica alias 'Overlook International Foundation Inc'): RAND Corporation $333,334 2024 — "To support tTHE PROJECT CANARY" (as filed); no METR line
+Why it matters: High Tide Foundation's filed Canary payment, missed by the first partner census.
+Source: https://gt990datalake-rawdata.s3.amazonaws.com/EfileData/XmlFiles/202503179349100135_public.xml
+
+
+Claim: Partner-list churn 2024-10-09 → 2026-09-14: n/a  2024-10-09 / 2026-09-14 — 46 names on the announcement-day capture, 60 live; added: 10X Better, AKO, Arrow Impact, Najafi Family, Dovetail, Good Ventures, Growald, Hoag, Rothschild, Ford, Skip, The Just Trust, The Patchwork Collective, Tepper; renamed Gates Foundation, Climate Lead; none dropped
+Why it matters: The Wayback diff showing Good Ventures joined the Audacious partner list after Canary was announced.
+Source: https://web.archive.org/web/20241009220522id_/https://www.audaciousproject.org/about
+
+
+Claim: Sea Grape Foundation: RAND Corporation (CAST, directed)  undated — named by RAND as a directed-grant funder of CAST and as a >$1M Campaign Grantmaker
+Why it matters: Sea Grape Foundation, named by RAND as a Canary-center funder, has no filer of that name found; a lead, not a fact on the figure.
+Source: https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/funding.html
+
+
+Claim: Coverage note: n/a  2026-09-14 — filing-level Canary payments to RAND found: Valhalla $10,000,000 (/), High Tide $333,334 (/); none to METR; 2025-period filings checked negative: Lyda Hill FYE Nov 2025 (verified), ELMA, Oak USA, Rippleworks, Someland (lane-stated); Galaxy Gives and Tsai TY2025 exist in IRS index_2026 but S3 mirror 404 (not pulled); TED Foundation TY2021–TY2024 990-PF Part XV XML has 3, 6, 1 and 2 readable paid-grant groups respectively and no METR, RAND or Canary grant; Overdeck TY2024 grants in Statement 26 attachment (unread)
+Why it matters: Coverage note for the Audacious partner census: two filed Canary payments found, both to RAND, none to METR, in the filings read.
+Source: research/grok-out/G69-canary.csv
+
+
 == METR's own budget statements ==
 
 Claim: METR Audacious commitment (METR share, METR's own later figure): <16000000 ("a bit under $16m") (3 years), stated 2025-09-28
@@ -308,28 +695,60 @@ Source: https://www.greaterwrong.com/posts/yrephKDBFL6h9zAFv/beth-barnes-s-short
 == Tarbell Center funding ==
 
 Claim: grant award: Tarbell Center for AI Journalism, General Support, $816,000, 2024-11-17
-Why it matters: First Coefficient award to the Tarbell Center; part of the $5.29M on the Tarbell pipe.
+Why it matters: First Coefficient award to the Tarbell Center; with and it makes the $5,291,930 on the Tarbell pipe. Grant pages now 404; amounts and dates from the saved Sep 11 2026 index (bylines pack).
 Source: https://coefficientgiving.org/grants/general-support-3/
 
 
 Claim: grant award: Tarbell Center for AI Journalism, General Support, $1,587,930, 2025-07-15
-Why it matters: Third Coefficient award to the Tarbell Center.
+Why it matters: Third Coefficient award to the Tarbell Center; saved index record.
 Source: https://coefficientgiving.org/grants/general-support-49/
 
 
 Claim: grant award: Tarbell Center for AI Journalism, Operating Costs, $2,888,000, 2025-03-06
-Why it matters: Largest Coefficient award to the Tarbell Center.
+Why it matters: Largest Coefficient award to the Tarbell Center; saved index record.
 Source: https://coefficientgiving.org/grants/operating-costs/
 
 
-Claim: sff recommendation: Tarbell Fellowship (via Players Philanthropy Fund), SFF 2024 recommendations, $520,000, 2024
-Why it matters: SFF's 2024 recommendation for the Tarbell Fellowship, paid via Players Philanthropy Fund; a recommendation, kept separate from awards.
+Claim: SFF recommended $520,000 in 2024 for the Tarbell Fellowship, with Players Philanthropy Fund listed as the receiving charity; disbursement is not established.
+Why it matters: A recommendation, kept separate from awards; the receiving charity differs from's.
 Source: https://survivalandflourishing.fund/2024/recommendations
 
 
 Claim: sff recommendation: Tarbell Center for AI Journalism, SFF 2025 recommendations (including $200,000 conditional match), $783,000, 2025
 Why it matters: SFF's 2025 recommendation for the Tarbell Center, including a $200K conditional match.
 Source: https://survivalandflourishing.fund/2025/recommendations
+
+
+== Tarbell fellows' articles by outlet ==
+
+Claim: TIME: 45 articles by Tarbell fellows classified as AI, 2025-09-12 to 2026-09-11 (of 242 AI articles found in that window)
+Why it matters: Count behind the TIME chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares.
+Source: /mnt/f/projects/memes/ai-machine/01-tarbell-bylines/research/outlet_windows.csv
+
+
+Claim: The Verge: 37 articles by Tarbell fellows classified as AI, 2026-06-25 to 2026-09-11 (of 282 AI articles found in that window)
+Why it matters: Count behind the The Verge chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares.
+Source: /mnt/f/projects/memes/ai-machine/01-tarbell-bylines/research/outlet_windows.csv
+
+
+Claim: MIT Technology Review: 26 articles by Tarbell fellows classified as AI, 2025-09-12 to 2026-09-11 (of 443 AI articles found in that window)
+Why it matters: Count behind the MIT Technology Review chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares.
+Source: /mnt/f/projects/memes/ai-machine/01-tarbell-bylines/research/outlet_windows.csv
+
+
+Claim: Lawfare: 22 articles by Tarbell fellows classified as AI, 2025-09-15 to 2026-08-20 (of 85 AI articles found in that window)
+Why it matters: Count behind the Lawfare chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares.
+Source: /mnt/f/projects/memes/ai-machine/01-tarbell-bylines/research/outlet_windows.csv
+
+
+Claim: The Guardian: 20 articles by Tarbell fellows classified as AI, 2025-09-18 to 2026-09-11 (of 493 AI articles found in that window)
+Why it matters: Count behind the The Guardian chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares.
+Source: /mnt/f/projects/memes/ai-machine/01-tarbell-bylines/research/outlet_windows.csv
+
+
+Claim: Los Angeles Times: 14 articles by Tarbell fellows classified as AI, 2026-06-05 to 2026-08-31 (of 94 AI articles found in that window)
+Why it matters: Count behind the the Los Angeles Times chip on the Tarbell branch: Coefficient-funded fellows' AI articles found in the captured window. Counts mix publisher tags and a keyword fallback and windows are partial, so they are not comparable full-year shares.
+Source: /mnt/f/projects/memes/ai-machine/01-tarbell-bylines/research/outlet_windows.csv
 
 
 == Redwood Research and METR ==
@@ -359,19 +778,19 @@ Why it matters: Redwood's own post: 'Several staff from Redwood have been subcon
 Source: https://x.com/redwood_ai/status/2098795673248550984;https://api.fxtwitter.com/i/status/2098795673248550984
 
 
-Claim: 2026-09-12 statement: Subcontract scope and staff (search closure) — No Redwood or METR web page names the subcontracted staff or the terms;
-Why it matters: Search closure: no page names the subcontracted staff or terms; Anthropic's announcement names only METR.
+Claim: The reviewed METR and Redwood web pages did not name the full subcontracted staff or the terms as of Sep 14 2026; Greenblatt publicly identified his participation, and Anthropic's announcement names only METR.
+Why it matters: Search closure for the subcontract's terms; a bounded negative, not proof no page exists.
 Source: https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents;https://x.com/METR_Evals/status/2097765966088487290;https://x.com/RyanGreenblatt/status/2098799055573045589
 
 
 == Donors shared between METR and the labs ==
 
-Claim: James McClave / BEMC Foundation (EIN 85-4281986): gives to METR — no: not named on metr.org/about; BEMC 990-PF FY2020-2024 grants go only to Vox Media Future Perfect and GiveWell; gives to or invests in a lab — Anthropic Series A 2021 and Series B 2022 investor (James McClave, "of Jane Street")
-Why it matters: McClave is a Series A and B investor; his BEMC Foundation is not a METR donor on any checked filing.
+Claim: James McClave is a named Anthropic Series A and B investor; his BEMC Foundation was not found as a METR donor in the checked records (metr.org/about and the BEMC filings read).
+Why it matters: McClave is a Series A and B investor; the negative is bounded to the records checked.
 Source: /mnt/f/projects/memes/anthropic-investors/research/01-funding-rounds.csv
 
 
-Claim: Schmidt Sciences / Eric Schmidt: gives to METR — yes: named on metr.org/about and funding update; gives to or invests in a lab — Eric Schmidt: Anthropic Series A 2021 investor (amount not disclosed)
+Claim: Schmidt Sciences is named on metr.org/about as a METR supporter; Eric Schmidt is a named Anthropic Series A investor.
 Why it matters: Schmidt Sciences is a named METR supporter; Schmidt is a Series A investor.
 Source: /mnt/f/projects/memes/anthropic-investors/research/01-funding-rounds.csv
 
@@ -386,13 +805,13 @@ Source: https://metr.org/team/adam-gleave/;https://gleave.me/;https://www.far.ai
 == In-kind support from labs ==
 
 Claim: 2026-09-13 frontier AI companies (unspecified): METR has not accepted funding from AI companies, though we make use of significant free tokens, which we use for evaluations, research, and engineering, as noted above. (quantified: no; not quantified)
-Why it matters: METR says it takes no money from AI companies but receives 'significant free tokens' from unnamed frontier companies; unbooked and unquantified.
+Why it matters: METR reports significant free tokens from unnamed frontier AI companies; the quoted statement gives no quantity or dollar value.
 Source: https://metr.org/about
 
 
 == Staff moves ==
 
-Claim: Joe Benton, Technical Staff (incident investigations), joined METR 2026-09 from Anthropic (led a safety research team (human/weak-AI oversight of stronger AI))
-Why it matters: Joe Benton left Anthropic's alignment team to join METR's incident-investigation staff in September 2026, the month METR began investigating Anthropic.
-Source: https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086
+Claim: On Sep 2 2026 Joe Benton announced he had left Anthropic's alignment team the previous week to join METR for embedded AI-risk assessment; NBC reported the move on Sep 10.
+Why it matters: Benton's move from Anthropic's alignment team to METR's incident-investigation staff was announced the week METR began investigating Anthropic. Primary: his own Sep 2 2026 post.
+Source: https://x.com/JoeJBenton/status/2095179369966960905;https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086
 

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Anthropic",
+    "box": {
+      "x": 30,
+      "y": 60,
+      "w": 200,
+      "h": 1270,
+      "ownx": 50
+    },
+    "own_text_count": 68,
+    "nonempty": 62,
+    "last_text_bottom": 1253.0146884918213,
+    "foreign_collisions": []
+  },
+  {
+    "name": "Card 1",
+    "box": {
+      "x": 1040,
+      "y": 1402,
+      "w": 320,
+      "h": 480,
+      "ownx": 1060
+    },
+    "own_text_count": 15,
+    "nonempty": 15,
+    "last_text_bottom": 1715.0147829055786,
+    "foreign_collisions": []
+  },
+  {
+    "name": "Card 2",
+    "box": {
+      "x": 1375,
+      "y": 1402,
+      "w": 320,
+      "h": 480,
+      "ownx": 1395
+    },
+    "own_text_count": 16,
+    "nonempty": 16,
+    "last_text_bottom": 1731.014660835266,
+    "foreign_collisions": []
+  },
+  {
+    "name": "Card 3",
+    "box": {
+      "x": 1710,
+      "y": 1402,
+      "w": 320,
+      "h": 480,
+      "ownx": 1730
+    },
+    "own_text_count": 20,
+    "nonempty": 20,
+    "last_text_bottom": 1788.014660835266,
+    "foreign_collisions": []
+  }
+]

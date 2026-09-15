@@ -1,0 +1,257 @@
+000 [DIV] Figure 10a (with Anthropic) · Funders → intermediaries → the evaluator, and the lab → the funders
+001 [H1] Funders that reach METR through ARC, RAND, Longview and pooled funds include Anthropic's Series A investors, two of them its board observers by their own account; Moskovitz donated a stake now worth up to $7.7B to what he calls "our foundation", and no filing checked shows where it sits; Good Ventures has no METR grant on its books
+002 [P] Dustin Moskovitz and Cari Tuna's philanthropy is the money: Good Ventures Foundation, their $10.1B endowment, and Coefficient's other funding partners, accounts at SVCF and NPT whose principals are not public, pay what Coefficient Giving recommends. No METR grant is on its books; its grants went to METR's parent, joint-project partner, pooled-fund donor, a board member's organization, and the Tarbell Center, whose fellows write for TIME, The Verge and others. Moskovitz and Jaan Tallinn, both Anthropic board observers by their own account, bought into the 2021 Series A; Moskovitz donated his stake, under 0.8% of Anthropic, in 2025 to what he calls "our foundation". Forbes estimated it at $500M in Nov 2025; at the $965B Series H valuation the same bound is $7.7B, and no filing checked shows where it sits.
+003 [SPAN] Anthropic equity held by a funder: solid band = Moskovitz's donated stake, drawn at 1/30 of the grant-pipe scale; dashed = undisclosed or unattributed
+004 [SPAN] Coefficient / Open Philanthropy awards (paid by Good Ventures Foundation or its funding partners at SVCF/NPT) and SFF / Tallinn recommendations, labelled as such (width: 6 px + 1.4 px per $1M)
+005 [SPAN] Audacious Project commitment
+006 [SPAN] Grants booked in donor-advised funds' and regrantors' filings; donor inferred only where Tallinn's public ledger matches
+007 [SPAN] Relationship to METR: parent, partner, pooled donor, board, contractor, office (dashed: no grant on record)
+008 [text] Dustin Moskovitz
+009 [text] and Cari Tuna: Good Ventures Foundation and
+010 [text] the funding partners that pay what Coefficient
+011 [text] recommends
+012 [text] Coefficient Giving
+013 [text] Formerly Open Philanthropy.
+014 [text] Recommends grants; Coefficient
+015 [text] Giving Advisors or its funding
+016 [text] partners, Good Ventures Foundation
+017 [text] and accounts at SVCF and NPT,
+018 [text] approve and pay. The account
+019 [text] principals are not public (,
+020 [text] )
+021 [text] Good Ventures Foundation
+022 [text] Moskovitz and Tuna's $10.1B
+023 [text] endowment (Jun 2025);
+024 [text] Coefficient's named funding
+025 [text] partner; $10M to
+026 [text] Open Philanthropy Advisors, now
+027 [text] Coefficient Giving Advisors,
+028 [text] FY2024
+029 [text] the money
+030 [text] Jaan Tallinn / SFF
+031 [text] Anthropic Series A lead, board
+032 [text] observer by his own account (,
+033 [text] )
+034 [text] The Audacious Project
+035 [text] TED-run funding collective: donors
+036 [text] pool multi-year commitments to
+037 [text] chosen projects and pay grantees
+038 [text] directly. Its 2024 cohort funded
+039 [text] Canary (RAND + METR). Filed
+040 [text] payments found: Valhalla → RAND
+041 [text] $10.0M, High Tide → RAND $333K;
+042 [text] none to METR in the filings read.
+043 [text] Good Ventures joined the partner
+044 [text] list after Canary was announced;
+045 [text] none traced.
+046 [text] DAFs and regrantors
+047 [text] Donor-advised funds and
+048 [text] regrantors. Founders Pledge grants
+049 [text] match Tallinn's ledger to the
+050 [text] dollar, SVCF within $450.
+051 [text] Vanguard, Effective Ventures,
+052 [text] Every.org, AEF, Fidelity: donor
+053 [text] unnamed.
+054 [text] Alignment Research Center
+055 [text] METR's parent until Dec 2023
+056 [text] (Christiano); handed METR $4.55M
+057 [text] at the spin-out
+058 [text] RAND Corporation
+059 [text] METR's partner in Canary, the
+060 [text] Audacious-funded joint project
+061 [text] (~$38M: ~$21M RAND, ~$17M METR;
+062 [text] METR later: "a bit under $16m"
+063 [text] over 3 years)
+064 [text] Longview Philanthropy
+065 [text] METR's pooled-fund donor; regrants
+066 [text] to METR
+067 [text] FAR AI
+068 [text] Founder Adam Gleave sits on METR's
+069 [text] board
+070 [text] Redwood Research
+071 [text] Worked with METR on the OpenAI
+072 [text] investigation; Redwood
+073 [text] says its staff are subcontracted
+074 [text] by METR on the Anthropic one,
+075 [text] terms undisclosed
+076 [text] Constellation
+077 [text] The Berkeley office METR works
+078 [text] from
+079 [text] METR
+080 [text] Model Evaluation and Threat
+081 [text] Research. Says it takes no money
+082 [text] from frontier labs or their staff.
+083 [text] $1.5M 2022 → ARC
+084 [text] $10.0M 2025 "AI Evaluation and Testing" → RAND
+085 [text] $26.3M 2022–25 → Longview
+086 [text] $59.3M 2021–25 → FAR AI
+087 [text] $5.6M 2022–24 SFF recs → ARC / ARC Evals
+088 [text] $752K SFF recs 2024–25 → METR incl. conditional match
+089 [text] $38.0M Audacious commitment to Canary (RAND + METR), 2024 (grey pipe)
+090 [text] $70M+ 2026 recommendation → Redwood
+091 [text] $2.4M SFF recs 2022–23 → Redwood
+092 [text] $22.9M 2023–24 → Constellation
+093 [text] $10.0M 2024 SVCF → Constellation
+094 [text] contractor on the OpenAI investigation; Anthropic per Redwood; terms undisclosed
+095 [text] office; no grant on record
+096 [text] $10.8M 2022–25 → ARC; $4.2M matches Tallinn's ledger
+097 [text] $4.2M → METR 2024–25: Vanguard $4.0M (donor unnamed); FP $184K + SVCF $20K match Tallinn's ledger
+098 [text] ~$17M committed to METR
+099 [text] $4.6M spin-out transfer, Apr 2024 (ARC 990)
+100 [text] $220K 2023 (per GWWC)
+101 [text] + pooled fund, undisclosed
+102 [text] board seat (Gleave); no grant on record
+103 [text] $5.3M Coefficient awards 2024–25 → Tarbell Center
+104 [text] SFF recommended $1.3M more, 2024–25, incl. a $200K conditional match
+105 [text] Tarbell Center for AI Journalism
+106 [text] Fellowship whose reporters work at
+107 [text] outlets. Coefficient-funded.
+108 [text] Fellows' AI articles found in each
+109 [text] outlet's captured window →
+110 [text] TIME · 45
+111 [text] The Verge · 37
+112 [text] MIT Tech Review · 26
+113 [text] Lawfare · 22
+114 [text] The Guardian · 20
+115 [text] LA Times · 14
+116 [text] Anthropic
+117 [text] The lab METR evaluates
+118 [text] and now investigates.
+119 [text] Series H, May 2026: $965B
+120 [text] post-money. WSJ:
+121 [text] IPO target ~$2T.
+122 [text] Board observers, by their
+123 [text] own account: Moskovitz
+124 [text] and Tallinn (,
+125 [text] ).
+126 [text] Investors among METR's
+127 [text] funders:
+128 [text] Moskovitz: named Series A
+129 [text] investor 2021; under 0.8%
+130 [text] (Forbes); donated in 2025
+131 [text] to what he calls "our
+132 [text] foundation"; Good
+133 [text] Ventures Foundation's
+134 [text] return to Jun 2025 shows
+135 [text] no such gift;
+136 [text] Coefficient's CEO: "not
+137 [text] to us"; the recipient
+138 [text] account is not public
+139 [text] Tallinn: Series A lead,
+140 [text] Series B; "we do not
+141 [text] announce percentages"
+142 [text] Schmidt: Series A;
+143 [text] Hillspire owns 20% of
+144 [text] D.E. Shaw, whose venture
+145 [text] arm is in Series H;
+146 [text] Schmidt Sciences is a
+147 [text] named METR supporter
+148 [text] Jane Street, the firm:
+149 [text] $100M for 3.3M shares at
+150 [text] ~$30 in the FTX estate
+151 [text] sale, Mar 2024; then
+152 [text] Series E–H, undisclosed.
+153 [text] METR names "individuals
+154 [text] from Jane Street"
+155 [text] McClave: Series A and B;
+156 [text] BEMC is not a METR donor
+157 [text] CERR / Macroscopic:
+158 [text] Series A and B; funds
+159 [text] Redwood and Longview,
+160 [text] holds Apollo and
+161 [text] Halcyon's venture arm
+162 [text] Good Ventures' own book,
+163 [text] Jun 2025: TSMC $509M, SK
+164 [text] Hynix $400M, Broadcom
+165 [text] $290M, Vistra, Micron,
+166 [text] Vertiv; its manager
+167 [text] launched VAR AI Fund in
+168 [text] Mar 2025, $4.35B sold to
+169 [text] 116 investors by Jun
+170 [text] 2026; at least one of the
+171 [text] manager's two charitable
+172 [text] clients is an LP, which
+173 [text] one is not stated; the
+174 [text] manager's co-owner sits
+175 [text] on the board of METR's
+176 [text] parent ARC (,
+177 [text] )
+178 [text] ≤ $7.7B
+179 [text] stake, donated
+180 [text] drawn at 1/30 scale
+181 [text] Tallinn: Series A lead; percentage undisclosed
+182 [text] or in a DAF account at SVCF/NPT: a possible route no source
+183 [text] confirms; NPT took in $1.18B of closely held stock in 19
+184 [text] gifts in FY2025, donor and issuer unattributed (,
+185 [text] )
+186 [text] Frontier AI companies, unnamed by METR → METR: free tokens, unbooked and unquantified;
+187 [text] Joe Benton, Anthropic alignment staff → METR, Sep 2026
+188 [text] Two published bounds on the donated stake, at different dates
+189 [text] Forbes' Nov 2025 estimate for a stake it says moved in early 2025, vs the ceiling implied by "less than 0.8%" at the Series H
+190 [text] valuation. No filing checked states the number of shares.
+191 [text] $500M
+192 [text] early 2025 transfer
+193 [text] Forbes estimate, published Nov 2025, for
+194 [text] the stake moved into "a nonprofit
+195 [text] vehicle"
+196 [text] ≤ $7.7B
+197 [text] Sep 2026 ceiling
+198 [text] 0.8% × $965B Series H post-money =
+199 [text] $7.72B, a ceiling with no floor (,
+200 [text] ); "already skyrocketed in value"
+201 [text] (Forbes)
+202 [text] ×15 at the ceiling
+203 [text] Forbes, Nov 7 2025
+204 [text] "Their Anthropic stake (worth an
+205 [text] estimated $500 million) was
+206 [text] moved into a nonprofit vehicle
+207 [text] in early 2025 so they could
+208 [text] invest any 'significant
+209 [text] financial return' back into
+210 [text] philanthropy and 'dispel any
+211 [text] perception of conflict of
+212 [text] interest,' she says."
+213 [text] Phoebe Liu, Forbes, quoting Cari Tuna.
+214 [text] The vehicle is not named. Forbes' Apr
+215 [text] 2026 reranking adds the only percentage
+216 [text] bound found, "less than 0.8%",
+217 [text] which sets the $7.7B ceiling.
+218 [text] Moskovitz on Bluesky, Mar 30 and
+219 [text] Apr 11 2026
+220 [text] "Our Anthropic shares are
+221 [text] entirely in our foundation - no
+222 [text] personal benefit." · "all
+223 [text] Anthropic holdings are in the
+224 [text] foundation, dedicated to
+225 [text] charity" · "we have about $20B
+226 [text] more in the foundation … The
+227 [text] foundation is invested in
+228 [text] Anthropic as well."
+229 [text] Good Ventures Foundation's return to
+230 [text] June 2025 lists two contributors and no
+231 [text] private stock; Coefficient's
+232 [text] CEO: "not to us". Which account
+233 [text] holds them is unattributed.
+234 [text] Moskovitz to Stratechery, Oct 20
+235 [text] 2025; elsewhere in the
+236 [text] same interview: "I'm a board
+237 [text] observer at Anthropic"
+238 [text] "I'm a chair of at Open
+239 [text] Philanthropy and I'm a business
+240 [text] guy and I'm also in the
+241 [text] boardroom in at Anthropic and I
+242 [text] know all the players. I'm sure
+243 [text] I'm naive in some ways, but I
+244 [text] think the collection of people
+245 [text] is not quite that naive."
+246 [text] Board observer, not a director, by his
+247 [text] own account; Tallinn says the same of
+248 [text] himself. Coefficient, on whose
+249 [text] Board of Managers he sits (Tuna chairs
+250 [text] it), makes grants to METR's
+251 [text] parent, joint-project partner, pooled
+252 [text] donor and contractor for their own
+253 [text] programs. No motive is asserted.
+254 [text] Direct: none found. No METR-named grant in Coefficient's 2,911-row index (Sep 11 2026) or Good Ventures' 990-PFs to Jun 2025
+255 [B] Coverage:
+256 [DIV]  Every number cites a row id in research/*.csv of the figure repo; money types are never summed: blue = Coefficient awards (index snapshot 2026-09-11) and SFF recommendations, grey = the Audacious commitment, yellow = grants filed by DAF sponsors and regrantors, orange = relationships. Pipe width is 6 px + 1.4 px per $1M, no cap. The equity band is a ceiling, 0.8% × the $965B Series H valuation, drawn at 1/30 of the pipe scale; the SVCF/NPT accounts and the location of the donated stake are unattributed. "None found" negatives are bounded to the sources named. Full notes, every source file, the e-files and four independent audits: github.com/kevinnbass/metr-money-figure (NOTES.md). Source: memes/ai-machine/10-metr/research/ (built 2026-09-14; second audit research/AUDIT-2.md applied).

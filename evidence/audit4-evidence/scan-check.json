@@ -1,0 +1,117 @@
+{
+  "scan_done": true,
+  "scanned_file_total": 1134796,
+  "batches_done": 24,
+  "hits": [
+    {
+      "year": "2026",
+      "batch": "02A",
+      "file": "202620479349201197_public.xml",
+      "ein": "863756455",
+      "name": "HOLMQUIST LIEWALD LLP",
+      "period": "2025-12-31",
+      "form": "990EZ",
+      "n_matches": "1"
+    },
+    {
+      "year": "2026",
+      "batch": "03A",
+      "file": "202640669349200124_public.xml",
+      "ein": "821211324",
+      "name": "Bor-Duan Shieh CPA",
+      "period": "2025-12-31",
+      "form": "990EZ",
+      "n_matches": "1"
+    },
+    {
+      "year": "2026",
+      "batch": "04A",
+      "file": "202620999349201252_public.xml",
+      "ein": "010702612",
+      "name": "INSTITUTE FOR DYNAMIC EDUCATION ADVANCEMENT INC",
+      "period": "2025-12-31",
+      "form": "990EZ",
+      "n_matches": "1"
+    },
+    {
+      "year": "2026",
+      "batch": "05B",
+      "file": "202621409349100717_public.xml",
+      "ein": "873664806",
+      "name": "JUN ZHOU CPA LTD",
+      "period": "2025-12-31",
+      "form": "990PF",
+      "n_matches": "1"
+    },
+    {
+      "year": "2026",
+      "batch": "06A",
+      "file": "202631539349200008_public.xml",
+      "ein": "883708086",
+      "name": "321 FITNESS AND NUTRITION INC",
+      "period": "2025-12-31",
+      "form": "990EZ",
+      "n_matches": "1"
+    },
+    {
+      "year": "2025",
+      "batch": "05B",
+      "file": "202531359349103428_public.xml",
+      "ein": "873664806",
+      "name": "JUN ZHOU CPA LTD",
+      "period": "2024-12-31",
+      "form": "990PF",
+      "n_matches": "1"
+    },
+    {
+      "year": "2025",
+      "batch": "05B",
+      "file": "202531339349307208_public.xml",
+      "ein": "364813119",
+      "name": "RSM US LLP",
+      "period": "2024-12-31",
+      "form": "990",
+      "n_matches": "1"
+    },
+    {
+      "year": "2025",
+      "batch": "11B",
+      "file": "202543169349101824_public.xml",
+      "ein": "237093201",
+      "name": "CLARK NUBER PS",
+      "period": "2024-12-31",
+      "form": "990PF",
+      "n_matches": "1"
+    },
+    {
+      "year": "2025",
+      "batch": "11B",
+      "file": "202533119349100948_public.xml",
+      "ein": "261635908",
+      "name": "Gish Seiden LLP",
+      "period": "2024-12-31",
+      "form": "990PF",
+      "n_matches": "1"
+    },
+    {
+      "year": "2025",
+      "batch": "11D",
+      "file": "202522889349100622_public.xml",
+      "ein": "854307164",
+      "name": "FOLEY &amp; LARDNER LLP",
+      "period": "2024-11-30",
+      "form": "990PF",
+      "n_matches": "1"
+    },
+    {
+      "year": "2025",
+      "batch": "11D",
+      "file": "202513219349323246_public.xml",
+      "ein": "863605182",
+      "name": "ABBOTT STRINGHAM &amp; LYNCH",
+      "period": "2024-12-31",
+      "form": "990",
+      "n_matches": "1"
+    }
+  ]
+}

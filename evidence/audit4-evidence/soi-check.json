@@ -1,0 +1,10 @@
+{
+  "path": "research/audit3-evidence/filings/sit-2022.csv",
+  "sha256": "8afc7482511b133a239209d5ad1d03be24d8447ff5abd346e566063f4e61251f",
+  "rows": 98802,
+  "family_name_matching_row_numbers": [
+    5989,
+    17563
+  ],
+  "scope": "Only the saved 2022 SOI extract; does not determine legal status or holdings in other years."
+}

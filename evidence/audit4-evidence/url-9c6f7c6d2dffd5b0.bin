@@ -1,0 +1,2272 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>TY 2024 Form 990 Schedule D</title>
+      
+      
+      
+      
+      <meta name="Desc" content="IRS Form 990 Schedule D">
+<style type="text/css">
+    .styIRS990ScheduleDRightSideSection { /*Style for sections H, I, and M of information before part one*/
+      width:75mm;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 0px; border-left-width: 1px; border-right-width: 0px;
+    }
+    .styIRS990ScheduleDRightSideLeftNumBox{ /* Item number to the left of the page for sections H, I, and M of information before part one */
+      width:8mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      font-weight:bold;
+      float:left; clear:none;
+    }
+    .styIRS990ScheduleDVTImageBox{ /* Vertical image holder box */
+      width:5mm;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+      float:left;clear:none;
+    }
+    .styIRS990ScheduleDLNYesNoBox{ /* Box for storing Yes/No Values */
+      width:10mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      text-align:center;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 0px;
+      float:left; clear: none;
+    }
+    .styIRS990ScheduleDLNDescBB{ /* Line item description */
+      width:138mm;height:4mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      float:left; clear: none;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styIRS990ScheduleDDollarUnderlined {   /* Underline for dollar sign*/
+      width:1mm;height:4mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      text-align:left;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+      float:left; clear: none;
+    }
+    .styIRS990ScheduleDLNAmountBoxNLB {   /* Amount Box with no left border (only a bottom border)*/
+      width:32mm;height:4mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      text-align:right;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+      float:left; clear: none;
+    }
+    .styIRS990ScheduleDLNAmountBoxNLBSmall {   /* Small Amount Box with no left border (only a bottom border)*/
+      width:25mm;height:4mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      font-size:6pt;
+      text-align:right;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+      float:left; clear: none;
+    }
+    .styIRS990ScheduleDTableLB {   /* Table with left border*/
+      display:table-header-group;
+      font-size: 6pt;
+      text-align: left;
+      border-style: solid; border-color: black;
+      border-top-width: 0px; border-bottom-width: 0px; border-left-width: 1px; border-right-width: 0px;
+    }
+    .styIRS990ScheduleDTableCellHeaderLB {   /* Table Cell Header with left border */
+      width: 32mm;
+      color: black;
+      text-align: center;
+      border-style: solid;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 1px;
+    }
+    .styIRS990ScheduleDTableCellLB {   /* Table Cell with left border */
+      width: 32mm;
+      color: black;
+      text-align: right;
+      border-style: solid;
+      border-top-width: 0px; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 1px;
+    }
+    .styIRS990ScheduleD_DotSpacing { /* dot line spacing */
+ 	 letter-spacing:2mm;
+}
+	.styIRS990ScheduleDLNLeftLtrBoxLI{ /* Item letter to the left of the page with a small left indentation*/
+      width:8mm;height:4mm;
+      padding-top:.5mm;
+      padding-bottom:.5mm;
+      padding-left:1.5mm;
+      font-weight:bold;
+      float:left; clear: none;
+    }
+    .styIRS990ScheduleDUnderlineAmount{ /* Box for storing underlined amounts. */
+			width:22mm;
+			padding-top:.5mm;
+			padding-bottom:.5mm;
+			text-align:right;
+			border-style: solid; border-color: black;
+			border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 0px;
+			float:left; clear: none;
+	}
+	.styIRS990ScheduleDShadingCellSmall {   /* Small Shading Cell has the same width as styLNAmountBoxSmall */
+			width:26mm;
+			background-color:lightgrey;
+			border-style: solid; border-color: black;
+			border-top-width: 0px; border-bottom-width: 1px; border-left-width: 1px; border-right-width: 0px;
+			float: left; clear: none;
+}
+ styIRS990ScheduleDTextCell {   /* ll */
+			width:36mm;
+			border-style: solid; border-color: black;
+			border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+			float: left; clear: none;
+}
+.styIRS990ScheduleDShadingCell {   /* Small Shading Cell has the same width as styLNAmountBoxSmall */
+			width:72mm;
+			background-color:lightgrey;
+			border-style: solid; border-color: black;
+			border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+			float: left; clear: none;
+}
+.styIRS990ScheduleDLineIndexMid { /* subline index 2 */
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+  border-style: solid; border-color: black;
+  border-top-width: 0px; border-bottom-width: 1px; border-left-width: 0px; border-right-width: 1px;
+  float:left;
+  height:4mm;
+  width:8mm;text-align:center;font-weight:bold;
+}
+
+
+
+    * {box-sizing:border-box;}
+    input[type=checkbox] {box-sizing:content-box;}
+    span {display:inline-block;}
+    div {display:inline-block;vertical-align:bottom;}
+    
+    .styBodyClass {   /* body style for all stylesheets */
+      width: 187mm; height: auto;
+      margin-top: 6px; margin-right: 0px; margin-bottom: 0px; margin-left: 6px;
+      color: black; background-color: white;
+      
+      background-repeat: no-repeat;  /*  repeat || repeat-x || repeat-y || no-repeat  */
+      background-attachment: scroll;  /*  IE Only: scroll || fixed  */
+      background-position: center center;  /*  IE Only: {x}% {y}% || {x}px|pt|in|cm|mm {y}px|pt|in|cm|mm || top|center|bottom left|center|right  */
+      font-family: verdana, arial, sans-serif; font-style: normal;
+      font-size: 7pt; font-weight: normal;
+      line-height: normal;
+      text-align: left; vertical-align: middle;
+      text-indent: 0px; text-decoration: none; white-space: normal;
+      padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+      border-style: none; border-color: gray;
+      border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px;
+      float: none; clear: none;
+      display: block;
+      cursor: default;
+      zoom: 100%;
+    }
+    .styDepTitle {   /* Dependency Document Title  */        
+      background-color: gold;
+      font-family: verdana, arial, sans-serif; font-size: 11pt;
+      font-weight: bold;
+      text-align: left;
+      padding-left: 8px; padding-right: 8px; padding-top:0px; padding-bottom:0px;
+    }
+    .styDepTitleLine {   /* Dependency Document Title Line */
+      width:187mm;
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styDepTitleLineLandscape {   /* Dependency Document Title Line */
+      width:256mm;
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styDepTbl {   /* Dependency Table */
+      width: 187mm;
+      font-family: verdana, arial, sans-serif; font-size: 9pt;
+      font-weight: normal;
+      text-align: center;
+      border-style: ridge; border-color: black;   /* set in User Preferences */
+      border-top-width: 4px; border-bottom-width: 4px; border-left-width: 4px; border-right-width: 4px;
+      border-collapse: collapse;
+    }
+    .styDepTblLandscape {   /* Dependency Table */
+      width: 256mm;
+      font-family: verdana, arial, sans-serif; font-size: 9pt;
+      font-weight: normal;
+      text-align: center;
+      border-style: ridge; border-color: black;   /* set in User Preferences */
+      border-top-width: 4px; border-bottom-width: 4px; border-left-width: 4px; border-right-width: 4px;
+      border-collapse: collapse;
+    }
+
+    .styDepTblHdr {   /* Dependency Table Header */
+      background-color: black;   /* set in User Preferences */
+      color: white;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .styDepTblRow1 {   /* Dependency Table Row 1 */
+      background-color: #8cdaff;   /* set in User Preferences */
+      cursor: default;
+      vertical-align: middle;
+    }
+    .styDepTblRow2 {   /* Dependency Table Row 2 */
+      background-color: #d9f2ff;   /* set in User Preferences */
+      cursor: default;
+      vertical-align: middle;
+    }
+    .styDepTblCell {   /* Dependency Table Cell */
+      padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4px;vertical-align: top; 
+      border:1px solid black;
+    }    
+    .styDepTblRow1Cell {   /* Dependency Table Cell with Background Color for Row 1 */
+      background-color: #8cdaff;   /* set in User Preferences */
+      padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4px;vertical-align: top; 
+      border:1px solid black;
+    }    
+    .styDepTblRow2Cell {   /* Dependency Table Cell with Background Color for Row 2 */
+      background-color: #d9f2ff;   /* set in User Preferences */
+      padding-top: 4px; padding-bottom: 4px; padding-left: 4px; padding-right: 4px;vertical-align: top; 
+      border:1px solid black;
+    }    
+    .styDepTableThead{ /* Style for Dependency HTML 'thead' element  */
+      display:table-header-group;
+    }          
+    .styTopSectionLine { /* Style for Bold Text Listings at the Top of Dependencies */
+      font-size: 10pt;
+      margin-top: 5px;
+      margin-bottom:5px;
+      width:187mm;
+      display:table;
+    }
+    .styTopSectionLineLbl {
+      font-weight: bold;
+      width: 250px;
+      text-align: right;
+      margin-right: 10px;
+    }
+    .styTopSectionLineLandscape { /* Style for Bold Text Listings at the Top of Landscape Dependencies */
+      font-size: 10pt;
+      margin-top: 5px;
+      margin-bottom:5px;
+      width:256mm;
+      display:table;
+    }
+    .styDepTableCellPad {   /* Dependency Table Cell Padding */
+      width: 4px;
+    }  
+    .styDepGenericDiv {
+      float:left;
+      clear:none;
+    }  
+    .styExplanationLine {
+      width: 118mm;
+      float:left;
+      clear:none;
+    }
+            
+    .styLeftOverTitleLine {   /* Left Over Document Title Line */
+      width: 187mm;      
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styLeftOverTitle {   /* Left Over Document Title */
+      width:35mm;
+      font-size:10pt;
+      font-family: verdana, arial, sans-serif; 
+      font-weight: bold;
+      float:left;
+      height:5mm;
+      background-color: gold;
+      text-align: left;
+      padding-left: 8px; padding-right: 0px; padding-top:0px; padding-bottom:0px;
+    }
+    .styLeftOverButtonContainer { /* Style for Container of Left Over Table Button */
+      width:151mm;
+      text-align:right;
+      
+    }
+    .styLeftoverTableBtn { /* Left Over Table Button Style */
+      height:5mm;
+      width: 130px;
+      font-family: verdana, arial, sans-serif; font-size: 8pt;
+      font-weight: bold; font-style: normal;
+    }
+    .styLeftOverTbl {   /* Left Over Table */
+      width:187mm;
+    }
+    .styLeftOverTableRowDesc { /* Left Over Table Row Description Field */
+      width: 100mm;
+      font-size: 8pt;
+      font-weight: bold;
+      text-align: right;
+      padding-right: 2mm;
+    }
+    .styLeftOverTableRowAmount { /* Left Over Table Row Amount Field */
+      width:87mm;
+      font-size: 8pt;
+      text-align:left;
+      margin-top: 5px; margin-bottom:5px;
+    }
+    .styLeftOverTitleLineLandscape {   /* Left Over Document Title Line in Landscape Format */
+      width: 256mm;      
+      border-style: solid; border-color: gold;
+      border-top-width: 0px; border-bottom-width: 2px; border-left-width: 0px; border-right-width: 0px;
+    }
+    .styLeftOverButtonContainerLandscape { /* Style for Container of Left Over Table Button in Landscape Format */
+      width:220.5mm;
+      text-align:right;
+      
+    }
+    .styLeftOverTblLandscape {   /* Left Over Table in Landscape Format */
+      width:256mm;
+    }
+    .styTableThead{ /* Style for HTML 'thead' element  */
+      display:table-header-group;
+    }
+    .styRepeatingDataTitle{ /* Style for the titles of repeating data tables */
+      font-weight:bold;
+      font-size:8pt;
+      width:187mm;
+    }
+    
+    /***** Beginning of styles for displaying attachment document list div (after click on pushpin) ****/
+    .styAttachmentDocListDiv { /* The attachment document list DIV class (for pushpin) */
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      padding-top: 0px;
+      left:0;
+      top:0;
+      width: 300px; /* Full width */
+      height: 120px; /* Full height */
+      overflow: auto;   /* Enable scroll if needed */
+      background-color: white;
+      border: 2px solid gray;
+      margin:0px;
+      align-content: center;
+      resize: both; /* Div can be resized by dragging the bottom right corner */
+    }
+    .styAttachmentDocListDivTitle { /* The attachment document list title class (for pushpin) */
+      height:auto;
+      min-height:8mm;
+      width:300px;
+      color:black;
+      font-size:9pt;
+      font-weight:bold;
+      position:sticky; /* Ensure the title bar stays in place even if the body is scrolled */
+      top:0;
+      background-color:#95c0ff;
+    }
+    .styAttachmentDocListDivBody { /* The attachment document list title class (for pushpin) */
+      font-family: verdana, arial, sans-serif; 
+      font-style: normal;
+      font-size: 8pt; 
+      font-weight: normal;
+      line-height: normal;
+      text-align: left; 
+      vertical-align: middle;
+      top:20px;
+      width:300px;
+      height:100px;
+    }
+    .lineItemClearLink{
+      box-sizing:border-box;
+      height:auto;width:100%;
+      padding-left:4mm;
+      padding-top:1px;
+      padding-bottom:2px;
+      clear:both;
+      cursor:pointer;
+    }
+    .lineItemGrayLink{
+      box-sizing:border-box;
+      height:auto;width:100%;
+      padding-left:4mm;
+      padding-top:1px;
+      padding-bottom:2px;
+      clear:both;
+      cursor:pointer;
+    }
+    .styButton  /* button style */
+    {
+      font-family: verdana, arial, sans-serif;
+      font-size: 8pt;
+      font-weight: bold;
+    }
+    /***** End of styles for displaying attachment document list div (after click on pushpin) *****/    
+  </style>
+      <link rel="stylesheet" type="text/css" name="HeaderStyleSheet" href="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/styles/header.css">
+      <link rel="stylesheet" type="text/css" name="BodyStyleSheet" href="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/styles/body.css">
+      <link rel="stylesheet" type="text/css" name="General" href="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/styles/general.css">
+   <style> .propublica-divider { width: 100%; margin: 20px auto; height: 7px; border-bottom: 1px solid #ff5555; text-align: center;} .propublica-divider span { padding: 0 10px; font-size: 10px; color: #ff5555; background-color: white; } </style>
+<style type="text/css">table {table-layout: fixed !important;} .IRS990ScheduleC_TableContainer { overflow-x: hidden; }</style>
+<style type="text/css">th.styIRS990VTImageBox { float: none !important; }</style>    <style type="text/css">
+      .IRS990ScheduleF_TableContainer {
+        height: auto !important;
+      }
+      .styTableContainerLandscape {
+        height: auto !important;
+      }
+      div.styTableContainer,
+      .styTableContainer table {
+        width: 103% !important;
+        height: auto !important;
+      }
+    </style>
+</head>
+   <body class="styBodyClass">
+      <form name="Form990ScheduleD">
+         <div class="styDocHeader" style="width:187mm;" id="PageHeader">
+<span class="styDoNotProcess" style="overflow:hidden;"> efile Public Visual Render <span style="width:12px;"></span><span class="styDataStage">ObjectId: 202601289349302480
+                  						-
+                  						Submission: 2026-05-08</span></span><span class="styDLN">
+               							TIN:
+               							23-7825575</span>
+</div>
+         <div class="styTBB" style="width:187mm;">
+            <div class="styFNBox" style="width:28mm;height:auto;">
+               <div style="padding-top:1mm;font-weight:bold;font:8pt">
+<span style="font-size:10pt;font-weight:bold;font-familiy:'Arial Narrow';">SCHEDULE D</span><br><span style="font-size:8pt;font-weight:bold;font-family:'Arial ';">(Form 990)</span><br><br><span style="font-size:6pt;font-weight:normal;">(Rev. January 2025)</span>
+</div>
+               <div style="padding-top:1mm;">
+<span class="styAgency">Department of the Treasury</span><br><span class="styAgency">Internal Revenue Service</span>
+</div>
+            </div>
+            <div class="styFTBox" style="width:128mm;">
+               <div class="styMainTitle" style="padding-top:2mm">Supplemental Financial Statements</div>
+               <div class="styFBT" style="height:5mm;padding-top:0mm">
+<img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"> 
+                  Complete if the organization answered "Yes," on
+                  		Form 990, <br>Part IV, line 6, 7, 8, 9, 10, 11a, 11b, 11c, 11d, 11e, 11f, 12a, or 12b.<br><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"> 
+                  Attach to Form 990. 
+                  <br><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow">
+                  Go to 
+                  								<a href="http://www.irs.gov/form990" title="Link to IRS.gov"><i>www.irs.gov/Form990</i></a> for instructions and the latest information.
+                  
+                  </div>
+            </div>
+            <div class="styTYBox" style="width:30mm;">
+               <div class="styOMB" style="height:10mm;padding-top:4mm">OMB No. 1545-0047</div>
+               <div class="styPartName" style="height:12mm; width:30.5mm;padding-top:0.3mm">Open to Public Inspection</div>
+            </div>
+         </div>
+         <div class="styBB" style="width:187mm;clear:both;font-family:verdana;font-size:7pt;">
+            <div class="styFNBox" style="width:134mm;height:auto;padding-left:2mm">
+<span class="styBoldText">Name of the organization</span><br><div style="font-family:verdana;font-size:6pt;height:6.25mm">
+<span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/ReturnHeader[1]/Filer[1]/BusinessName[1]/BusinessNameLine1Txt[1]">NATIONAL PHILANTHROPIC TRUST</span><br><span style="display:inline;" id="/..">
+                      
+                     </span>
+</div>
+            </div>
+            <div class="styGenericDiv" style="width:52mm;height:auto;padding-left:1mm;">
+<span class="styBoldText">Employer identification number</span><br><br><span id="/AppData/SubmissionHeaderAndDocument/ReturnHeader[1]/Filer[1]/EIN[1]">23-7825575</span>
+</div>
+         </div>
+         <div class="styBB" style="width:187mm;float:none;">
+            <div class="styPartName" style="float:left;width:14mm;height:auto;">Part I</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Organizations Maintaining Donor Advised Funds or Other Similar Funds or Accounts.
+               
+               <span style="font-size: 8pt;font-weight:normal;height:auto;">
+                  Complete if the organization answered "Yes" on Form 990, Part IV, line 6.
+                  </span>
+</div>
+         </div>
+         <table class="styTable" style="font-size:7pt;width:187mm;border-bottom-width:1px" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th scope="col" colspan="2" align="center" style="width:66mm;height:4mm;padding-top:0mm; border-top:0px solid black"></th>
+                  <th scope="col" align="center" style="width:120mm;font-size:7pt;border-left:1px solid black;padding-top:0mm;  border-bottom:1px solid black">(a)
+                     <span class="styNormalText"> Donor advised funds</span>
+</th>
+                  <th scope="col" align="center" style="width:120mm;font-size:7pt;border-left:1px solid black; padding-top:0mm; border-bottom:1px solid black">
+                     (b) <span class="styNormalText"> Funds and other accounts</span>
+</th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left: 1mm;height:4.5mm;float:none;">1</td>
+                  <td class="styLNDesc" style="height:4.5mm;padding-left:2mm;float:none;">
+                     Total number at end of year
+                     <span class="styIRS990ScheduleD_DotSpacing">.........</span>
+</td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DonorAdvisedFundsHeldCnt[1]">20,691</span></td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left: 1mm;height:4.5mm;float:none;">2</td>
+                  <td class="styLNDesc" style="height:4.5mm;padding-left:2mm;float:none;">
+                     Aggregate value of contributions to (during year)
+                     <span class="styIRS990ScheduleD_DotSpacing"></span>
+</td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DonorAdvisedFundsContriAmt[1]">15,153,667,777</span></td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left: 1mm;height:4.5mm;float:none;">3</td>
+                  <td class="styLNDesc" style="height:4.5mm;padding-left:2mm;float:none;">
+                     Aggregate value of grants from (during year)
+                     <span class="styIRS990ScheduleD_DotSpacing"></span>
+</td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DonorAdvisedFundsGrantsAmt[1]">6,415,072,479</span></td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;float:none;">4</td>
+                  <td class="styLNDesc" style="height:4.5mm;padding-left:2mm;float:none;">
+                     Aggregate value at end of year
+                     <span class="styIRS990ScheduleD_DotSpacing"> ........</span>
+</td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DonorAdvisedFundsVlEOYAmt[1]">55,895,378,438</span></td>
+                  <td class="styLNAmountBox" style="width:62mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:none;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-top:1mm">5</div>
+            <div class="styLNDesc" style="width:155mm;border-right-width:0;padding-top:1mm">
+               Did the organization inform all donors and donor advisors in writing that the assets
+               held in donor advised funds are the organization’s property, subject to the organization’s
+               exclusive legal control?
+               <span class="styIRS990ScheduleD_DotSpacing">............</span>
+</div>
+<span style="padding-top:1mm;padding-top:4mm;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedOrgLegCtrlInd[1]"><input type="checkbox" class="styCkbox" onclick="return false;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedOrgLegCtrlInd[1]Yes" tabindex="-1" checked></span><label style="font-weight:bold;padding-top:4mm" for="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedOrgLegCtrlInd[1]Yes">            
+               Yes
+               </label><span style="width:4mm;padding-top:4mm;display:inline;"></span><span id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedOrgLegCtrlInd[1]"><input type="checkbox" class="styCkbox" onclick="return false;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedOrgLegCtrlInd[1]No" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedOrgLegCtrlInd[1]No">            
+               No
+               </label>
+</div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">6</div>
+            <div class="styLNDesc" style="width:155mm;border-right-width:0;padding-top:1mm">
+               Did the organization inform all grantees, donors, and donor advisors in writing that
+               grant funds can be used only for charitable purposes and not for the benefit of the
+               donor or donor advisor, or for any other purpose conferring impermissible private
+               benefit?
+               <span class="styIRS990ScheduleD_DotSpacing">...................................</span>
+</div>
+<span style="padding-top:1mm;padding-top:7mm;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedForCharitablePrpsInd[1]"><input type="checkbox" class="styCkbox" onclick="return false;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedForCharitablePrpsInd[1]Yes" tabindex="-1" checked></span><label style="font-weight:bold;padding-top:7mm" for="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedForCharitablePrpsInd[1]Yes">            
+               Yes
+               </label><span style="width:4mm;padding-top:7mm;display:inline;"></span><span id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedForCharitablePrpsInd[1]"><input type="checkbox" class="styCkbox" onclick="return false;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedForCharitablePrpsInd[1]No" tabindex="-1"></span><label style="font-weight:bold;padding-top:7mm" for="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/DisclosedForCharitablePrpsInd[1]No">            
+               No
+               </label>
+</div>
+         <div class="styBB" style="width:187mm;float:none;border-top-width:1px">
+            <div class="styPartName" style="float:left;width:14mm;height:auto;">Part II</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Conservation Easements. <br><span style="font-size: 8pt;font-weight:normal">
+                  Complete if the organization answered "Yes" on Form 990, Part IV, line 7.
+                  </span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">1</div>
+            <div class="styLNDesc" style="width:170mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Purpose(s) of conservation easements held by the organization (check all that apply).</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:0mm;"></div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:0mm;height:auto;">
+<span style="width:90mm;height:auto;"><span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDPreservationForPublicUse" onclick="return false;"></span><label style="padding-top:0mm;padding-left:1mm" for="IRS990ScheduleDPreservationForPublicUse">            
+                     Preservation of land for public use (e.g., recreation or education)</label></span><span style="width:80mm;padding-left:4mm;height:auto;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDHistoricLandArea" onclick="return false;"><label style="padding-top:0mm;padding-left:2mm" for="IRS990ScheduleDHistoricLandArea">            
+                     Preservation of an historically important land area
+                     </label></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left:2mm;padding-top:1mm"></div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:0mm;height:auto;">
+<span style="width:90mm;height:auto;"><span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDProtectionOfNaturalHabitat" onclick="return false;"></span><label style="padding-left:1mm" for="IRS990ScheduleDProtectionOfNaturalHabitat">            
+                     Protection of natural habitat
+                     </label></span><span style="width:80mm;padding-left:4mm;height:auto;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDHistoricStructure" onclick="return false;"><label style="padding-top:0mm;padding-left:2mm" for="IRS990ScheduleDHistoricStructure">            
+                     Preservation of a certified historic structure
+                     </label></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:0mm;"></div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:0mm;height:auto;"><span style="width:90mm;height:auto;"><span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDPreservationOfOpenSpace" onclick="return false;"></span><label style="padding-left:1mm" for="IRS990ScheduleDPreservationOfOpenSpace">            
+                     Preservation of open space
+                     
+                     </label></span></div>
+         </div>
+         <div style="width:187mm;">
+            <div class="styLNLeftNumBox" style="padding-left:1mm;padding-top:1mm;">2</div>
+            <div class="styLNDesc" style="width:160mm;border-right-width:0;padding-top:1mm;">
+               Complete lines 2a through 2d if the organization held a qualified conservation contribution
+               
+               in the form of a conservation easement on the last day of the tax year. 
+               </div>
+         </div>
+         <table class="styTable" style="font-size:7pt;width:187mm;border-bottom-width:1px" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th scope="col" style="width:7.2mm; border:0px 0px 0px 0px; height:4mm;"><span class="styNBSP"></span></th>
+                  <th scope="col" style="border:0px 0px 0px 0px; height:4mm;"><span class="styNBSP"></span></th>
+                  <th scope="col" style="width:8mm; border:1px 1px 1px 1px solid black; height:4mm;background-color:lightgrey;float:left;"><span class="styNBSP"></span></th>
+                  <th scope="col" style="width:45mm; border: 1px solid black; height:4mm;font-weight:bold; text-align:center;float:left;">Held at the End of the Year </th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:4.2mm; height:4.5mm;padding-left:3mm">a</td>
+                  <td style="border:0px 0px 0px 0px; height:4.5mm;width:125mm;">
+                     			Total number of conservation easements
+                     			<span class="styIRS990ScheduleD_DotSpacing">......................</span>
+</td>
+                  <td class="styLNRightNumBox" style="border:1px solid black; border-top: 0px;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;">2a</td>
+                  <td class="styLNAmountBox" style="width:45mm;border: 1px solid black; border-left: 0px; border-top:0px; vertical-align:bottom;padding-right:0.75mm;height:4.5mm;text-align:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:4.2mm; height:4.5mm;padding-left:3mm">b</td>
+                  <td style="border:0px 0px 0px 0px; height:4.5mm;width:125mm;">
+                     			Total acreage restricted by conservation easements
+                     			<span class="styIRS990ScheduleD_DotSpacing">....................</span>
+</td>
+                  <td class="styLNRightNumBox" style="border:1px solid black; border-top: 0px;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;">2b</td>
+                  <td class="styLNAmountBox" style="width:45mm;border: 1px solid black; border-left: 0px; border-top:0px; vertical-align:bottom;padding-right:0.75mm;height:4.5mm;text-align:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:4.2mm; height:4.5mm;padding-left:3mm">c</td>
+                  <td style="border:0px 0px 0px 0px; height:4.5mm;width:125mm;">
+                     			Number of conservation easements on a certified historic structure included in
+                     (a)
+                     			<span class="styIRS990ScheduleD_DotSpacing">.....</span>
+</td>
+                  <td class="styLNRightNumBox" style="border:1px solid black; border-top: 0px;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;">2c</td>
+                  <td class="styLNAmountBox" style="width:45mm;border: 1px solid black; border-left: 0px; border-top:0px; vertical-align:bottom;padding-right:0.75mm;height:4.5mm;text-align:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:4.2mm; height:4.5mm;padding-left:3mm">d</td>
+                  <td style="border:0px 0px 0px 0px; height:4.5mm;width:125mm;">
+                     			Number of conservation easements included in (c) acquired after July 25, 2006,
+                     and not on a historic structure listed in the National Register
+                     			<span class="styIRS990ScheduleD_DotSpacing">...</span>
+</td>
+                  <td class="styLNRightNumBox" style="border:1px solid black; border-top: 0px;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;">2d</td>
+                  <td class="styLNAmountBox" style="width:45mm;border: 1px solid black; border-left: 0px; border-top:0px; vertical-align:bottom;padding-right:0.75mm;height:4.5mm;text-align:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">3</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Number of conservation easements modified, transferred, released, extinguished, or
+               terminated by the organization during the<br> tax year
+               <img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"><span class="styIRS990ScheduleDUnderlineAmount" style="width:34mm;float:none;padding-left:2mm;text-align:right;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:2mm">4</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Number of states where property subject to conservation easement is located 
+               
+               <img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"><span class="styIRS990ScheduleDUnderlineAmount" style="width:34mm;float:none;padding-left:2mm;text-align:right;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">5</div>
+            <div class="styLNDesc" style="width:145mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Does the organization have a written policy regarding the periodic monitoring, inspection,
+               handling of violations, and enforcement of the conservation easements it holds?
+               <span class="styIRS990ScheduleD_DotSpacing">............</span>
+</div>
+<span style="padding-top:1mm;padding-top:4mm" id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDWrittenPolicyMonitoringYes" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDWrittenPolicyMonitoringYes">            
+               Yes
+               </label><span style="width:4mm;padding-top:4mm"></span><span id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDWrittenPolicyMonitoringNo" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDWrittenPolicyMonitoringNo">            
+               No
+               </label>
+</div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:2mm">6</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Staff and volunteer hours devoted to monitoring, inspecting, handling of violations,
+               and enforcing conservation easements during the year <br><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"><span class="styIRS990ScheduleDUnderlineAmount" style="width:34mm;float:none;padding-left:.5mm;text-align:right;"><span style="display:inline;" id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:2mm">7</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Amount of expenses incurred in monitoring, inspecting, handling of violations, and
+               enforcing conservation easements during the year  <br><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"> $
+               <span class="styIRS990ScheduleDUnderlineAmount" style="width:34mm;float:none;text-align:right;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">8</div>
+            <div class="styLNDesc" style="width:145mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Does each conservation easement reported on line 2(d) above satisfy the requirements
+               of section 170(h)(4)(B)(i) and section 170(h)(4)(B)(ii)?
+               <span class="styIRS990ScheduleD_DotSpacing">.............................</span>
+</div>
+<span style="padding-top:1mm;padding-top:4mm" id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDSect170hRequirementsSatisfiedYes" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDSect170hRequirementsSatisfiedYes">            
+               Yes
+               </label><span style="width:4mm;padding-top:4mm"></span><span id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDSect170hRequirementsSatisfiedNo" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDSect170hRequirementsSatisfiedNo">            
+               No
+               </label>
+</div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">9</div>
+            <div class="styLNDesc" style="width:170mm;border-right-width:0;padding-top:1mm;height:auto;">
+               In Part XIII, describe how the organization reports conservation easements in its
+               revenue and expense statement, and <br>balance sheet, and include, if applicable, the text of the footnote to the organization’s
+               financial statements that describes<br>the organization’s accounting for conservation easements.
+               </div>
+         </div>
+         <div class="styBB" style="width:187mm;float:none;border-top-width:1px">
+            <div class="styPartName" style="float:left;width:14mm;">Part III</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Organizations Maintaining Collections of Art, Historical Treasures, or Other Similar
+               Assets. <br><span style="font-size: 8pt;font-weight:normal">
+                  Complete if the organization answered "Yes" on Form 990, Part IV, line 8.
+                  </span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">1a</div>
+            <div class="styLNDesc" style="width:170mm;border-right-width:0;padding-top:.5mm;height:auto;">
+               If the organization elected, as permitted under FASB ASC 958, not to report in its
+               revenue statement and balance sheet works of art, historical treasures, or other similar
+               assets held for public exhibition, education, or research in furtherance of public
+               service, provide, in Part XIII, the text of the footnote to its financial statements
+               that describes these items.</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">b</div>
+            <div class="styLNDesc" style="width:170mm;border-right-width:0;padding-top:.5mm;height:auto;">
+               If the organization elected, as permitted under FASB ASC 958, to report in its revenue
+               statement and balance sheet works of art, historical treasures, or other similar assets
+               held for public exhibition, education, or research in furtherance of public service,
+               provide the following amounts relating to these items:</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 5mm;padding-top:1mm">(i)</div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:.5mm;padding-left:1.15mm;height:auto;">
+               Revenue included on Form 990, Part VIII, line 1  <span class="styIRS990ScheduleD_DotSpacing">.........................</span><span style="padding-left:1.5mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"></span> 
+               $
+               
+               <span class="styIRS990ScheduleDUnderlineAmount" style="float:none;width:32mm;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+            <div class="styLNLeftNumBox" style="padding-left: 4mm;padding-top:1mm;">(ii)</div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:.5mm;padding-left:.5mm;height:auto;">
+               Assets included in Form 990, Part X
+               <span class="styIRS990ScheduleD_DotSpacing">...............................</span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"> 
+               $
+               <span class="styIRS990ScheduleDUnderlineAmount" style="float:none;width:32mm;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">2</div>
+            <div class="styLNDesc" style="width:170mm;border-right-width:0;padding-top:.5mm;height:auto;">
+               If the organization received or held works of art, historical treasures, or other
+               similar assets for financial gain, provide the <br>following amounts required to be reported under FASB ASC 958 relating to these items:</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">a</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:.5mm;height:auto;">
+               Revenue included on Form 990, Part VIII, line 1  <span class="styIRS990ScheduleD_DotSpacing">..........................</span><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"> 
+               $
+               
+               <span class="styIRS990ScheduleDUnderlineAmount" style="float:none;width:32mm;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">b</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:.5mm;height:auto;">
+               Assets included in Form 990, Part X
+               <span class="styIRS990ScheduleD_DotSpacing">...............................</span><span style="padding-left: 0.7mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"></span> 
+               $
+               
+               <span class="styIRS990ScheduleDUnderlineAmount" style="float:none;width:32mm;"><span style="color:darkblue;" id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style="width:187mm;float:none;clear:both;border-top:solid 1px" class="pageEnd">
+            <div class="styGenericDiv" style="width:107mm;font-weight:bold">For Paperwork Reduction Act Notice, see the Instructions for Form 990.</div>
+            <div class="styGenericDiv" style="width:23mm;">Cat. No. 52283D</div>
+            <div class="styGenericDiv" style="float:right;"><span class="styBoldText">Schedule D (Form 990) (Rev. 1-2025)</span></div>
+         </div>
+<div class="propublica-divider"><span>Page 2</span></div>
+<br><div style="width:187mm;clear:both;padding-bottom:.5mm;float:none;clear:both;" class="styBB">
+            <div style="width:90mm;" class="styGenericDiv">Schedule D (Form 990) (Rev. 1-2025)</div>
+            <div style="width:55mm;text-align:center;" class="styGenericDiv"></div>
+            <div style="float:right;" class="styGenericDiv">Page <span class="styBoldText" style="font-size:8pt;">2</span>
+</div>
+         </div>
+         <div class="styBB" style="width:187mm;float:none;">
+            <div class="styPartName" style="float:left;width:13mm;height:auto;">Part III</div>
+            <div class="styPartDesc" style="width:173mm;float:right;height:auto;">Organizations Maintaining Collections of Art, Historical Treasures, or Other Similar
+               Assets 
+               <span style="font-size: 7pt;font-weight:normal;font-style:italic ">
+                  (continued)
+                  </span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">3</div>
+            <div class="styLNDesc" style="width:170mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Using the organization’s acquisition, accession, and other records, check any of the
+               following that are a significant use of its collection items (check all that apply):</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:0mm">a</div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:0mm;height:auto;">
+<span style="width:85mm;"><span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDCollectUsedForPublicExhibition" onclick="return false;"></span><label style="padding-top:0mm;padding-left:2mm" for="IRS990ScheduleDCollectUsedForPublicExhibition">            
+                     Public exhibition
+                     </label></span><span style="width:85mm;">
+                  <div class="styLNLeftNumBox" style="padding-left: 2mm;padding-top:0mm">d</div>
+<span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDCollectUsedForLoanOrExchPrgrms" onclick="return false;"></span><label style="padding-top:0mm;padding-left:2mm" for="IRS990ScheduleDCollectUsedForLoanOrExchPrgrms">            
+                     Loan or exchange programs
+                     </label></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">b</div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:0mm;height:auto;">
+<span style="width:85mm;vertical-align:top;padding-top:1mm;height:auto;"><span style="padding-top:1mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDCollectUsedForScholarResearch" onclick="return false;"></span><label style="padding-left:2mm;padding-top:1mm;" for="IRS990ScheduleDCollectUsedForScholarResearch">            
+                     Scholarly research
+                     </label></span><span style="width:85mm;padding-top:1mm;height:auto;">
+                  <div class="styLNLeftNumBox" style="padding-left: 2mm;padding-top:0mm">e</div>
+<span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDCollectionUsedForOtherPurposes" onclick="return false;"></span><label style="padding-top:1mm;padding-left:2mm" for="IRS990ScheduleDCollectionUsedForOtherPurposes">            
+                     Other
+                     </label><span class="styIRS990ScheduleDUnderlineAmount" style="float:none;width:52mm;text-align:left;padding-left:1mm;padding-top:0mm;vertical-align:top;border-style:dotted"><span style="display:inline;" id="/..">
+                         
+                        </span></span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">c</div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:1mm;height:auto;"><span style="width:85mm;height:auto;"><span style="padding-top:0mm;" id="/.."><input type="checkbox" class="styCkbox" tabindex="-1" id="IRS990ScheduleDCollectUsedForPreservation" onclick="return false;"></span><label style="padding-left:2mm" for="IRS990ScheduleDCollectUsedForPreservation">            
+                     Preservation for future generations
+                     
+                     </label></span></div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">4</div>
+            <div class="styLNDesc" style="width:175mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Provide a description of the organization’s collections and explain how they further
+               the organization’s exempt purpose in <br>Part XIII.</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">5</div>
+            <div class="styLNDesc" style="width:145mm;border-right-width:0;padding-top:1mm;height:auto;">
+               During the year, did the organization solicit or receive donations of art, historical
+               treasures or other similar
+               <br>assets to be sold to raise funds rather than to be maintained as part of the organization’s
+               collection?<span class="styIRS990ScheduleD_DotSpacing">...</span>
+</div>
+<span style="padding-top:1mm;padding-top:4mm" id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDSolicitedAssetsForSaleYes" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDSolicitedAssetsForSaleYes">            
+               Yes
+               </label><span style="width:4mm;padding-top:4mm"></span><span id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDSolicitedAssetsForSaleNo" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDSolicitedAssetsForSaleNo">            
+               No
+               </label>
+</div>
+         <div class="styBB" style="width:187mm;float:none;border-top:solid 1px;">
+            <div class="styPartName" style="float:left;width:14mm;height:auto;">Part IV</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Escrow and Custodial Arrangements.   
+               <span style="font-size: 8pt;font-weight:normal">
+                  Complete if the organization answered "Yes" on Form 990, Part IV, line 9, or reported
+                  an amount on Form 990, Part X, line 21.
+                  </span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">1a</div>
+            <div class="styLNDesc" style="width:145mm;border-right-width:0;padding-top:1mm">
+               Is the organization an agent, trustee, custodian or other intermediary for contributions
+               or other assets not
+               <br>included on Form 990, Part X?
+               <span class="styIRS990ScheduleD_DotSpacing">....................................</span>
+</div>
+<span style="padding-top:1mm;padding-top:4mm" id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDAgentTrusteeEtcYes" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDAgentTrusteeEtcYes">            
+               Yes
+               </label><span style="width:4mm;padding-top:4mm"></span><span id="/.."><input type="checkbox" class="styCkbox" onclick="return false;" id="IRS990ScheduleDAgentTrusteeEtcNo" tabindex="-1"></span><label style="font-weight:bold;padding-top:4mm" for="IRS990ScheduleDAgentTrusteeEtcNo">            
+               No
+               </label>
+</div>
+         <table class="styTable" style="font-size:7pt;width:187mm;border-bottom-width:1px;" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th scope="col" colspan="2" align="center" style="width:130mm;height:auto;padding-top:0mm; border-bottom:0px solid black;"></th>
+                  <th scope="col" align="center" style="float:left;width:8mm;border-left:0px solid black; border-bottom:0px solid black;border-top:0px solid black;border-left:0px solid black"><span class="styNBSP"></span></th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left:3mm;padding-top:1mm;">b</td>
+                  <td class="styLNDesc" style="width:117mm;border-right-width:0;padding-top:1mm;height:auto;">
+                     If "Yes," explain the arrangement in Part XIII and complete the following table:
+                     <span class="styIRS990ScheduleD_DotSpacing"></span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;border-top-width:1px;"></td>
+                  <td class="styLNAmountBox" style="width:45mm;height:4.5mm;text-align:center;padding-right:0.75mm;border-top-width:1px;"><b>Amount</b></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left:3mm;height:4.5mm;">c</td>
+                  <td class="styLNDesc" style="height:auto;width:117mm;border-right-width:0;padding-top:1mm;padding-left:0mm">
+                     Beginning balance 
+                     <span class="styIRS990ScheduleD_DotSpacing">.............................</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">1c</td>
+                  <td class="styLNAmountBox" style="width:45mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left: 3mm;height:4.5mm;">d</td>
+                  <td class="styLNDesc" style="height:auto;width:117mm;border-right-width:0;padding-top:1mm;padding-left:0mm">
+                     Additions during the year
+                     <span class="styIRS990ScheduleD_DotSpacing">............................</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">1d</td>
+                  <td class="styLNAmountBox" style="width:45mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left: 3mm;height:4.5mm;">e</td>
+                  <td class="styLNDesc" style="width:117mm;border-right-width:0;padding-top:1mm;padding-left:0mm">
+                     Distributions during the year 
+                     
+                     <span class="styIRS990ScheduleD_DotSpacing">..........................</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">1e</td>
+                  <td class="styLNAmountBox" style="width:45mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="padding-left: 3mm;height:4.5mm;">f</td>
+                  <td class="styLNDesc" style="width:117mm;border-right-width:0;padding-top:1mm;padding-left:0mm">
+                     Ending balance        
+                     <span class="styIRS990ScheduleD_DotSpacing">................................</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">1f</td>
+                  <td class="styLNAmountBox" style="width:45mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;float:right"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:2mm">2a</div>
+            <div class="styLNDesc" style="width:145mm;border-right-width:0;padding-top:2mm;height:auto;">
+               Did the organization include an amount on Form 990, Part X, line 21, for escrow or
+               custodial
+               account liability?  
+               <span style="letter-spacing:1.25mm; font-weight:bold; font-size:7pt; margin-left:0.25mm;">...</span>
+</div>
+<span style="padding-top:1mm;" id="/.."><input type="checkbox" class="styCkbox" alt="YesEscrowOrCustodialAccountLiabilityAmountIncludedOnForm990PartXLine21" onclick="return false;" id="IRS990ScheduleDIncludedOnFSYes" tabindex="-1"></span><label style="font-weight:bold;" for="IRS990ScheduleDIncludedOnFSYes">            
+               Yes
+               </label><span style="width:4mm;padding-top:1mm"></span><span id="/.."><input type="checkbox" class="styCkbox" alt="NoEscrowOrCustodialAccountLiabilityAmountIncludedOnForm990PartXLine21" onclick="return false;" id="IRS990ScheduleDIncludedOnFSNo" tabindex="-1"></span><label style="font-weight:bold;" for="IRS990ScheduleDIncludedOnFSNo">            
+               No
+               </label>
+</div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">b</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:0mm;height:auto;">
+               If "Yes," explain the arrangement in Part XIII. Check here if the explanation has
+               been provided in Part XIII
+               
+               							
+               							<span style="letter-spacing:1.5mm; font-weight:bold; font-size:7pt; margin-left:1.45mm">....</span><span id="/.."><input type="checkbox" class="styCkbox" alt="IRS990ScheduleDExplanationInPartXIII" tabindex="-1" id="IRS990ScheduleDExplanationInPartXIII" onclick="return false;"></span><label for="IRS990ScheduleDExplanationInPartXIII"></label>
+</div>
+         </div>
+         <div class="styBB" style="width:186mm;float:none;border-top-width:1px;">
+            <div class="styPartName" style="float:left;width:14mm;">Part V</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Endowment Funds.<br><span style="font-size: 8pt;font-weight:normal">
+                  Complete if the organization answered "Yes" on Form 990, Part IV, line 10.
+                  </span>
+</div>
+         </div>
+         <table class="styTable" style="font-size:7pt;width:187mm;" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th scope="col" colspan="2" align="center" style="width:65mm;padding-top:0mm; border-bottom:0px solid black;"><span class="styItalicText" style="font-weight:normal;"></span></th>
+                  <th scope="col" align="center" style="width:24mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black;">
+                     (a) <span class="styNormalText">Current year</span>
+</th>
+                  <th scope="col" align="center" style="width:24mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black;">
+                     (b) <span class="styNormalText">Prior year</span>
+</th>
+                  <th scope="col" align="center" style="width:24mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black">
+                     (c) <span class="styNormalText">Two years back</span>
+</th>
+                  <th scope="col" align="center" style="width:24mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black">
+                     (d) <span class="styNormalText">Three years back</span>
+</th>
+                  <th scope="col" align="center" style="width:24mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black">
+                     (e) <span class="styNormalText">Four years back</span>
+</th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+         </table>
+         <table class="styTable" style="font-size:7pt;width:187mm;" cellspacing="0">
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;">1a</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     Beginning of year balance
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">b</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     Contributions
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">c</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     Net investment earnings, gains, and losses
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm"></span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm;padding-top:0mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm;padding-top:0mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm;padding-top:0mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm;padding-top:0mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm; padding-top:0mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">d</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     Grants or scholarships
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">e</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     Other expenditures for facilities<br>and programs
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:7.5mm;width:24mm;padding-top:3mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:7.5mm;width:24mm;padding-top:3mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:7.5mm;width:24mm;padding-top:3mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:7.5mm;width:24mm;padding-top:3mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:7.5mm;width:24mm; padding-top:3mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">f</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     Administrative expenses
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">g</td>
+                  <td class="styLNDesc" style="width:59mm;height:auto;">
+                     End of year balance
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">......</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="height:4.5mm;width:24mm"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:1mm">2</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:1mm;height:auto;">
+               Provide the estimated percentage of the current year end balance (line 1g, column
+               (a)) held as:
+               </div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">a</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:0mm;height:auto;">
+               Board designated or quasi-endowment
+               <img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"><span class="styIRS990ScheduleDUnderlineAmount" style="float:none;padding-left:2mm;text-align:center;border-style:dotted"><span id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">b</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:0mm;height:auto;">
+               Permanent endowment
+               <img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"><span class="styIRS990ScheduleDUnderlineAmount" style="float:none;padding-left:2mm;text-align:center;border-style:dotted"><span id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm">c</div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:0mm;height:auto;">
+               Term endowment
+               <img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"><span class="styIRS990ScheduleDUnderlineAmount" style="float:none;padding-left:2mm;text-align:center;border-style:dotted"><span id="/..">
+                      
+                     </span></span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:1mm"></div>
+            <div class="styLNDesc" style="width:179mm;border-right-width:0;padding-top:0mm;height:auto;">
+               The percentages on lines 2a, 2b, and 2c should equal 100%.
+               
+               </div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:0mm">3a</div>
+            <div class="styLNDesc" style="border-right-width:0px; width: 150mm;padding-top:0mm;height:auto;">
+               Are there endowment funds not in the possession of the organization that are held
+               and administered for the 
+               <br>organization by:
+               </div>
+<br><div class="styIRS990ScheduleDLineIndexMid" style="width: 10mm;border-left:1px"></div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="border-top-width:1px;">Yes</div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="border-right-width:0px;border-top-width:1px;">No</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 1mm;padding-top:0mm"></div>
+            <div class="styLNDesc" style="border-right-width:0px; width: 150mm;padding-top:0mm;height:auto;">
+<span style="font-weight:bold;text-align:center;">(i)</span>
+               Unrelated organizations
+               <span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.................</span>
+</div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="width:10mm;border-left-width:1px">3a(i)</div>
+            <div class="styIRS990ScheduleDLineIndexMid"><span style="font-weight: normal"><span id="/..">
+                      
+                     </span></span></div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="border-right-width:0px;"><span style="font-weight: normal"><span id="/..">
+                      
+                     </span></span></div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:0mm"></div>
+            <div class="styLNDesc" style="border-right-width:0px; width: 150mm;height:auto;">
+<span style="font-weight:bold;text-align:center;">(ii)</span>
+               Related organizations
+               <span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.................</span>
+</div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="width: 10mm;border-left-width:1px">3a(ii)</div>
+            <div class="styIRS990ScheduleDLineIndexMid"><span style="font-weight: normal"><span id="/..">
+                      
+                     </span></span></div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="border-right-width:0px;"><span style="font-weight: normal"><span id="/..">
+                      
+                     </span></span></div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left: 3mm;padding-top:0mm">b</div>
+            <div class="styLNDesc" style="border-right-width:0px; width:150mm;padding-top:0mm;height:auto;">
+               If "Yes" on 3a(ii), are the related organizations listed as required on Schedule R?
+               
+               <span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.........</span>
+</div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="width: 10mm;border-left-width:1px">3b</div>
+            <div class="styIRS990ScheduleDLineIndexMid"><span style="font-weight: normal"><span id="/..">
+                      
+                     </span></span></div>
+            <div class="styIRS990ScheduleDLineIndexMid" style="border-right-width:0px;"><span style="font-weight: normal"><span id="/..">
+                      
+                     </span></span></div>
+         </div>
+         <div style=" width: 187mm; ">
+            <div class="styLNLeftNumBox" style="padding-left:1mm;padding-top:0mm">4</div>
+            <div class="styLNDesc" style="border-right-width:0px; width:150mm;padding-top:0mm;height:auto;">
+               Describe in Part XIII the intended uses of the organization's endowment funds.
+               </div>
+         </div>
+         <div class="styBB" style="width:187mm;float:none;border-top:solid 1px;">
+            <div class="styPartName" style="float:left;width:14mm;">Part VI</div>
+<span class="styPartDesc" style="width:172mm;height:auto;">Land, Buildings, and Equipment.<br><span style="font-size: 8pt;font-weight:normal">Complete if the organization answered "Yes" on Form 990, Part IV, line 11a.  
+                  See Form 990, Part X, line 10.
+                  </span></span>
+</div>
+         <table class="styTable" style="font-size:7pt;width:187mm;" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th scope="col" colspan="2" align="center" style="width:43mm;height:9mm;padding-left:0mm; border-bottom:1px solid black;vertical-align:top;"><span style="font-weight:normal;font-size:7pt;">
+                        Description of property
+                        </span></th>
+                  <th scope="col" align="center" style="height:9mm;float:left;width:36mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black;vertical-align:top;"><span class="styNormalText"><b>(a)</b> Cost or other basis <br>(investment) </span></th>
+                  <th scope="col" align="center" style="height:9mm;float:left;width:36mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black; vertical-align:top;">
+                     (b) <span class="styNormalText"> Cost or other basis (other)</span>
+</th>
+                  <th scope="col" align="center" style="height:9mm;float:left;width:36mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black;vertical-align:top;">
+                     (c) <span class="styNormalText"> Accumulated depreciation</span>
+</th>
+                  <th scope="col" align="center" style="height:9mm;float:left;width:35mm;font-size:6pt;border-left:1px solid black; border-bottom:1px solid black;vertical-align:top;">
+                     (d) <span class="styNormalText"> Book value</span>
+</th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+         </table>
+         <table class="styTable" style="font-size:7pt;width:187mm;" cellspacing="0">
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;">1a</td>
+                  <td class="styLNDesc" style="width:37mm;height:auto;">
+                     Land
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.....</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;background-color:lightgrey;"></td>
+                  <td class="styLNAmountBoxSmall" style="width:35mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">b</td>
+                  <td class="styLNDesc" style="width:37mm;height:auto;">
+                     Buildings
+                     <span style="width:1px"></span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:35mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">c</td>
+                  <td class="styLNDesc" style="width:37mm;height:auto;">
+                     Leasehold improvements
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm"></span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/LeaseholdImprovementsGrp[1]/OtherCostOrOtherBasisAmt[1]">1,719,850</span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/LeaseholdImprovementsGrp[1]/DepreciationAmt[1]">1,211,988</span></td>
+                  <td class="styLNAmountBoxSmall" style="width:35mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/LeaseholdImprovementsGrp[1]/BookValueAmt[1]">507,862</span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;">d</td>
+                  <td class="styLNDesc" style="width:37mm;height:auto;">
+                     Equipment
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/EquipmentGrp[1]/OtherCostOrOtherBasisAmt[1]">6,530,668</span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/EquipmentGrp[1]/DepreciationAmt[1]">5,295,877</span></td>
+                  <td class="styLNAmountBoxSmall" style="width:35mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/EquipmentGrp[1]/BookValueAmt[1]">1,234,791</span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="width:6mm;height:4.5mm;padding-left:3mm;border-bottom:1 solid black">e</td>
+                  <td class="styLNDesc" style="width:37mm;height:auto;border-bottom:1px solid black">
+                     Other
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.....</span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-  right:0.75mm;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLandBuildingsGrp[1]/OtherCostOrOtherBasisAmt[1]">313,949</span></td>
+                  <td class="styLNAmountBoxSmall" style="width:36mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLandBuildingsGrp[1]/DepreciationAmt[1]">313,949</span></td>
+                  <td class="styLNAmountBoxSmall" style="width:35mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLandBuildingsGrp[1]/BookValueAmt[1]">0</span></td>
+               </tr>
+               <tr>
+                  <td class="styLNDesc" colspan="5" style="border-right-width:0px; width:151mm;padding-top:0mm;border-bottom:1px solid black">
+<span style="font-weight:bold">Total.</span> Add lines 1a through 1e. <span class="styItalicText">  (Column (d) must equal Form 990, Part X, column (B), line 10(c).)</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">..</span><span style="padding-left:2mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Md.gif" alt="right arrow"></span>
+</td>
+                  <td class="styLNAmountBoxSmall" style="width:35mm;padding-right:0.75mm;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/TotalBookValueLandBuildingsAmt[1]">1,742,653</span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div style="width:187mm;float:none;clear:both;padding-top:.5mm;" class="pageEnd">
+            <div class="styGenericDiv" style="float:right;"><span class="styBoldText">Schedule D (Form 990) (Rev. 1-2025)</span></div>
+         </div>
+<div class="propublica-divider"><span>Page 3</span></div>
+<br><div style="width:187mm;clear:both;padding-bottom:.5mm;float:none;clear:both;" class="styBB">
+            <div style="width:90mm;" class="styGenericDiv">Schedule D (Form 990) (Rev. 1-2025)</div>
+            <div style="width:55mm;text-align:center;" class="styGenericDiv"></div>
+            <div style="float:right;" class="styGenericDiv">Page <span class="styBoldText" style="font-size:8pt;">3</span>
+</div>
+         </div>
+         <div class="styBB" style="width:187mm;float:none;border-top-width:0px;">
+            <div class="styPartName" style="float:left;width:14mm;height:auto;">Part VII</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Investments - Other Securities. <br><span style="font-size: 8pt;font-weight:normal">
+                  Complete if the organization answered "Yes" on Form 990, Part IV, line 11b.
+                  </span><span style="font-size: 8pt;font-weight:normal">
+                  See Form 990, Part X, line 12.
+                  </span>
+</div>
+         </div>
+         <table class="styTable" style="font-size: 7pt; border-color:black" cellspacing="0">
+            <thead style="font-size: 7pt">
+               <tr>
+                  <th class="styTableCellHeader" scope="col" style="width:100mm;font-weight:normal;border-color:black;vertical-align:top;">
+<span style="font-weight:bold">(a)</span> Description of security or category<br>(including name of security)</th>
+                  <th class="styTableCellHeader" scope="col" style="width:35mm;font-weight:normal; text-align:center;border-right-width:1px;border-color:black;vertical-align:top;">
+<span style="font-weight:bold">(b)</span> Book value</th>
+                  <th class="styTableCellHeader" scope="col" colspan="2" style="width:52mm;font-weight:normal;text-align:center;border-right-width:0px;border-color:black;vertical-align:top;">
+<span style="font-weight:bold">(c)</span> Method of valuation: <br>Cost or end-of-year market value</th>
+               </tr>
+               <tr>
+                  <td class="styTableCell" style="width:100mm;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-bottom:0px;border-color:black">
+<span class="styGenericDiv" style="float:left;height:auto;"><b>(1)</b> Financial derivatives</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm;">.........</span>
+</td>
+                  <td class="styTableCell" style="width:35mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styTableCell" style="width:52mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"><span style="display:inline;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCell" style="width:100mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-bottom:0px;border-color:black">
+<span class="styGenericDiv" style="float:left;height:auto;"><b>(2)</b> Closely-held equity interests</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm;">........</span>
+</td>
+                  <td class="styTableCell" style="width:35mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/CloselyHeldEquityInterestsGrp[1]/BookValueAmt[1]">1,734,031,057</span></td>
+                  <td class="styTableCell" style="width:52mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/CloselyHeldEquityInterestsGrp[1]/MethodValuationCd[1]">F</span></td>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <tr>
+                  <td class="styTableCell" style="width:100mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;text-align:left;border-color:black;"><span class="styGenericDiv" style="float:left;height:auto;"><b>(3)</b> Other <span class="styTableCell" style="width:65mm;float:none;padding-left:2mm;text-align:center;"></span><br>(A)
+                        
+                        <span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[1]/Desc[1]">ALTERNATIVE INVESTMENTS</span></span></td>
+                  <td class="styTableCell" style="width:35mm;height:7.5;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-top:0px;border-color:black;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[1]/BookValueAmt[1]">3,460,518,315</span></td>
+                  <td class="styTableCell" style="width:52mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[1]/MethodValuationCd[1]">F</span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCell" style="width:100mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;text-align:left;border-color:black;"><span class="styGenericDiv" style="float:left;height:auto;"><br>(B)
+                        
+                        <span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[2]/Desc[1]">LIMITED PARTNERSHIPS</span></span></td>
+                  <td class="styTableCell" style="width:35mm;height:7.5;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-top:0px;border-color:black;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[2]/BookValueAmt[1]">958,561,071</span></td>
+                  <td class="styTableCell" style="width:52mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[2]/MethodValuationCd[1]">F</span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCell" style="width:100mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;text-align:left;border-color:black;"><span class="styGenericDiv" style="float:left;height:auto;"><br>(C)
+                        
+                        <span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[3]/Desc[1]">PREFERRED STOCK &amp; CRYPTO</span></span></td>
+                  <td class="styTableCell" style="width:35mm;height:7.5;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-top:0px;border-color:black;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[3]/BookValueAmt[1]">162,706,505</span></td>
+                  <td class="styTableCell" style="width:52mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherSecuritiesGrp[3]/MethodValuationCd[1]">F</span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">(C)<br><span style="width:8px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">(D)<br><span style="width:8px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">(E)<br><span style="width:8px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">(F)<br><span style="width:8px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">(G)<br><span style="width:8px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">(H)<br><span style="width:8px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styIRS990ScheduleDTableCellLB" style="width:100mm;height:auto;vertical-align:bottom;border-left:0px;border-color:black">
+<span class="styItalicText" style="float:left;font-size:6pt;height:auto;"><span style="font-weight:bold;font-style:normal;height:auto;">Total.</span>
+                        (Column (b) must equal Form 990, Part X, col. (B) line 12.)</span><span style="padding-left:0mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Sm.gif" alt="right arrow"></span>
+</td>
+                  <td class="styIRS990ScheduleDTableCellLB" style="width:35mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/TotalBookValueSecuritiesAmt[1]">6,315,816,948</span></td>
+                  <td class="styIRS990ScheduleDShadingCell" style="width:52;height:4.5mm;vertical-align:bottom;padding-right:0.75mm;"></td>
+               </tr>
+            </tbody>
+         </table>
+         <div class="styBB" style="width:187mm;float:none;border-top-width:1px;">
+            <div class="styPartName" style="float:left;width:15mm;height:7.5mm;">Part VIII</div>
+            <div class="styPartDesc" style="width:172mm;height:7.5mm;">Investments - Program Related.  
+               <span style="font-size: 8pt;font-weight:normal;height:4.5mm;">
+                  Complete if the organization answered 'Yes' on Form 990, Part IV, line 11c.
+                  
+                  <span style="font-size: 8pt;font-weight:normal;padding-bottom:2px;">
+                     See Form 990, Part X, line 13.
+                     </span></span>
+</div>
+         </div>
+         <table class="styTable" style="font-size: 7pt; border-color:black" cellspacing="0">
+            <thead style="font-size: 7pt">
+               <tr>
+                  <th class="styTableCellHeader" style="width:100mm;font-weight:normal;border-color:black;vertical-align:top;text-align:center;">
+<b>(a)</b> Description of investment</th>
+                  <th class="styTableCellHeader" scope="col" style="width:35mm;font-weight:normal; text-align:center;border-right-width:1px;border-color:black;vertical-align:top;">
+<b>(b)</b> Book value</th>
+                  <th class="styTableCellHeader" scope="col" style="width:52mm;font-weight:normal;border-right-width:0px;border-color:black;vertical-align:top;text-align:center;">
+<b>(c)</b> Method of valuation:<br>Cost or end-of-year market value</th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <td class="styTableCell" style="width:187mm;vertical-align:bottom;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"></td>
+               <td class="styTableCell" style="width:35mm;vertical-align:bottom;"></td>
+               <td class="styTableCell" style="width:52mm;vertical-align:bottom;border-left:0px;border-right-width:0px;border-color:black;text-align:center;"></td>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(1)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(2)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(3)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(4)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(5)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(6)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(7)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(8)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styTableCellText" style="width:100mm;border-color:black">
+<b>(9)</b><br><span style="width:4px;"></span>
+</td>
+                  <td class="styTableCell" style="width:35mm;text-align:left;border-color:black"><span style="width:4px"></span></td>
+                  <td class="styTableCell" style="width:52mm;border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+               </tr>
+               <tr>
+                  <td class="styIRS990ScheduleDTableCellLB" style="width:149mm;height:4.5mm;vertical-align:bottom;border-left:0px;border-color:black">
+<span class="styItalicText" style="float:left;font-size:6pt;height:auto;"><span style="font-weight:bold;font-style:normal">Total.</span>
+                        (Column (b) must equal Form 990, Part X, col.(B) line 13.)</span><span style="padding-left:mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Sm.gif" alt="right arrow"></span>
+</td>
+                  <td class="styIRS990ScheduleDTableCellLB" style="width:35mm;height:4.5mm;vertical-align:bottom;border-left:0px;border-color:black; "><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+                  <td class="styIRS990ScheduleDShadingCell" style="height:4.5mm;border-color: black; width: 52mm; border-right-width: 0px;border-bottom-width:1px;"><span style="width: 4px;"></span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div class="styBB" style="width:187mm;float:none;border-top:solid 1px;">
+            <div class="styPartName" style="float:left;width:14mm;height:auto;">Part IX</div>
+            <div class="styPartDesc" style="width:172mm;height:auto;">Other Assets.  <br><span style="font-size: 8pt;font-weight:normal">
+                  Complete if the organization answered 'Yes' on Form 990, Part IV, line 11d. </span><span style="font-size: 8pt;font-weight:normal;padding-left:1mm;">See Form 990, Part X, line 15.
+                  
+                  </span>
+</div>
+            <div style=" width: 187mm; ">
+               <table class="styTable" style="font-size:7pt;float:none;clear:both;" cellspacing="0">
+                  <thead class="styTableThead">
+                     <tr>
+                        <th class="styTableCellHeader" scope="col" colspan="4" style="height:auto;width:149mm;font-weight:normal;border-top-width:1px;border-color:black;">
+<span style="font-weight:bold">(a)</span> Description</th>
+                        <th class="styTableCellHeader" scope="col" style="height:auto;font-weight:normal; text-align:center;border-top-width:1px;border-right-width:0px;border-color:black">
+<span style="font-weight:bold">(b)</span> Book value</th>
+                     </tr>
+                  </thead>
+                  <tfoot></tfoot>
+                  <tbody>
+                     <tr>
+                        <td class="styTableCell" style="width:187mm;vertical-align:bottom;border-left:1px;border-right-width:1px;border-color:black;text-align:left;"></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(1)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(2)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(3)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(4)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(5)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(6)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(7)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(8)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styTableCellText" colspan="4" style="border-color:black;width:149mm;">
+<b>(9)</b><br><span style="width:4px;"></span>
+</td>
+                        <td class="styTableCell" style="border-right-width:0px;border-color:black"><span style="width:4px;"></span></td>
+                     </tr>
+                     <tr>
+                        <td class="styIRS990ScheduleDTableCellLB" colspan="4" style="width:149mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black">
+<span class="styItalicText" style="float:left;"><span style="font-weight:bold;font-style:normal">Total.</span> (Column (b) must equal Form 990, Part X, col.(B)  line 15.)</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span><span style="padding-left:2mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Sm.gif" alt="right arrow"></span>
+</td>
+                        <td class="styIRS990ScheduleDTableCellLB" style="width:38mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right:0px;border-color:black"><span style="color:darkblue;" id="/..">
+                               
+                              </span></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+         <div class="styBB" style="width:187mm;clear:both;border-top-width:1px">
+            <div class="styPartName" style="float:left;width:14mm;padding-left:1mm;height:auto;">Part X</div>
+            <div class="styPartDesc" style="float:left;width:164mm;height:auto;">
+               Other Liabilities.  <br><span style="font-size: 8pt;font-weight:normal;height:auto;">
+                  Complete if the organization answered 'Yes' on Form 990, Part IV, line 11e or 11f.</span><span style="font-size: 8pt;font-weight:normal">
+                  See Form 990, Part X, line 25.
+                  </span>
+</div>
+         </div>
+         <div style=" width: 187mm; ">
+            <table class="styTable" style="font-size:7pt;float:none;clear:both;display:table;" cellspacing="0">
+               <thead class="styTableThead">
+                  <tr>
+                     <th class="styTableCellHeader" scope="col" style="height:auto;width:140mm;font-weight:normal;border-color:black;border-right-width:1px;">
+<span class="styLNLeftNumBoxSD" style="text-align:left;padding-left:0mm;font-weight:normal"><b>1.</b></span><span style="font-weight:bold">(a)</span> Description of liability</th>
+                     <th class="styTableCellHeader" scope="col" style="height:auto;width:39mm;font-weight:normal; text-align:center;border-right-width:0px;border-color:black;vertical-align:top;">
+<span style="font-weight:bold">(b)</span> Book value</th>
+                  </tr>
+               </thead>
+               <tfoot></tfoot>
+               <tbody>
+                  <tr>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:149mm;vertical-align:top;padding-right:0.75mm;border-left:0px;border-color:black"><span class="styGenericDiv" style="float:left;"><b>(1) </b>Federal income taxes</span></td>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:38mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-right:0px;border-color:black"><span style="color:darkblue;" id="/..">
+                            
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:100mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;text-align:left;border-color:black"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLiabilitiesOrgGrp[1]/Desc[1]">ASSET MANAGEMENT FEES PAYABLE</span></td>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:35mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black;border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLiabilitiesOrgGrp[1]/Amt[1]">400,480</span></td>
+                  </tr>
+                  <tr>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:100mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;text-align:left;border-color:black"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLiabilitiesOrgGrp[2]/Desc[1]">LEASE LIABILITY</span></td>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:35mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black;border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/OtherLiabilitiesOrgGrp[2]/Amt[1]">2,399,759</span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styTableCellText" style="width:149mm;border-color:black">
+<b></b><br><span style="width:4px;"></span>
+</td>
+                     <td class="styTableCell" style="text-align:left;border-color:black;border-right-width:0px;"><span style="width:4px"></span></td>
+                  </tr>
+                  <tr>
+                     <td class="styIRS990ScheduleDTableCellLB" style="width:149mm;height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;float:left;border-color:black;">
+<span class="styItalicText" style="float:left;font-size:6pt;"><span style="font-weight:bold;font-style:normal">Total.</span>
+                           (Column (b) must equal Form 990, Part X, col.(B) line 25.)</span><span style="padding-left:1mm"><img src="https://static.propublica.org/projects/nonprofits/mef/rrprd/sdi/versioned/2024/images/990SchD_Bullet_Sm.gif" alt="right arrow"></span>
+</td>
+                     <td class="styIRS990ScheduleDTableCellLB" style="height:auto;vertical-align:bottom;padding-right:0.75mm;border-left:0px;border-color:black;border-right-width:0px;"><span style="color:darkblue;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/TotalLiabilityAmt[1]">2,800,239</span></td>
+                  </tr>
+                  <tr>
+                     <td class="styIRS990ScheduleDTableCellLB" colspan="6" style="width:187mm;height:auto;vertical-align:bottom;border-left:0px;text-align:left;border-right:0px;border-top-width:1px;border-style:solid;border-color:black">
+<b>2.</b> Liability for uncertain tax positions. In Part XIII, provide the text of the footnote
+                        to the organization's financial statements that reports the organization's liability
+                        for uncertain tax positions under FIN 48 (ASC 740). Check here if the text of the
+                        footnote has been provided in Part XIII
+                        
+                        										<span style="padding-left:1mm"></span><span id="/.."><input type="checkbox" class="styCkbox" alt="IRS990ScheduleDFootnoteInPartXIII" tabindex="-1" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/FootnoteTextInd[1]" onclick="return false;" checked></span><label for="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/FootnoteTextInd[1]"></label>
+</td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div style="width:187mm;float:none;clear:both;padding-top:.5mm;" class="pageEnd">
+            <div class="styGenericDiv" style="float:right;"><span class="styBoldText">Schedule D (Form 990) (Rev. 1-2025)</span></div>
+         </div>
+<div class="propublica-divider"><span>Page 4</span></div>
+<br><div style="width:187mm;clear:both;padding-bottom:.5mm;float:none;clear:both;" class="styBB">
+            <div style="width:90mm;" class="styGenericDiv">Schedule D (Form 990) (Rev. 1-2025)</div>
+            <div style="width:55mm;text-align:center;" class="styGenericDiv"></div>
+            <div style="float:right;" class="styGenericDiv">Page <span class="styBoldText" style="font-size:8pt;">4</span>
+</div>
+         </div>
+         <table class="styTable" style="font-size:7pt;width:187mm;border-top-width:1px" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th class="styBB" colspan="6" scope="col" style="padding-bottom:0;padding-top:0;border-top-width:0px;border-bottom-width:1px">
+<span class="styPartName" style="width:15mm;height:auto;">Part XI</span><span class="styPartDesc" style="width:141mm;height:auto;text-align:left;">
+                        Reconciliation of Revenue per Audited Financial Statements With Revenue per Return.
+                        <span style="width:171mm;font-size: 8pt;font-weight:normal;border-bottom:1px;text-align:left;"> 
+                           Complete if the organization answered 'Yes' on Form 990, Part IV, line 12a.     
+                           </span></span>
+</th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">1</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Total revenue, gains, and other support per audited financial statements
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.......</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">1</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px; border-top-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">2</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Amounts included on line 1 but not on Form 990, Part VIII, line 12:</td>
+                  <td class="styShadingCell" style="width:8mm;height:4.5mm;border-left-width:1px;"><span class="styTableCellPad"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">a</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Net unrealized gains (losses) on investments
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;width:8mm">2a</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">b</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Donated services and use of facilities
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;width:8mm">2b</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">c</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Recoveries of prior year grants
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;width:8mm">2c</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">d</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Other (Describe in Part XIII.) 
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;width:8mm">2d</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;vertical-align:bottom;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">e</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Add lines <span class="styBoldText">2a</span> through <span class="styBoldText">2d</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">
+                        .....................</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">2e</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">3</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Subtract line <span class="styBoldText">2e</span> from line <span class="styBoldText">1</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">..................</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">3</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">4</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Amounts included on Form 990, Part VIII, line 12, but not on line <span class="styBoldText">1</span>:</td>
+                  <td class="styShadingCell" style="width:8mm;height:4.5mm;border-left-width:1px;"><span class="styTableCellPad"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">a</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Investment expenses not included on  Form 990, Part  VIII, line 7b
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;width:8mm">4a</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">b</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Other (Describe in Part XIII.)  
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;width:8mm">4b</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;vertical-align:bottom;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;m"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">c</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Add lines <span class="styBoldText">4a</span> and <span class="styBoldText">4b</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....................</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">4c</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;border: solid black 1px; border-top-width:0; border-left-width:0;border-right-width:0px;">5</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;border: solid black 1px; border-top-width:0; border-left-width:0;border-right-width:0px;" colspan="3">
+                     Total revenue. Add lines <span class="styBoldText">3</span> and <span class="styBoldText">4c. </span> (This must equal Form 990, Part I, line 12.)
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">......</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0;border-bottom-width:1px;">5</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+            </tbody>
+         </table>
+         <table class="styTable" style="font-size:7pt;width:187mm;" cellspacing="0">
+            <thead>
+               <tr scope="col">
+                  <th class="styBB" colspan="6" scope="col" style="padding-bottom:0;padding-top:0;">
+<span class="styPartName" style="width:15mm;height:auto;">Part XII</span><span class="styPartDesc" style="width:171mm;height:auto;text-align:left;">
+                        Reconciliation of Expenses per Audited Financial Statements With Expenses per Return.
+                        
+                        <span style="font-size: 8pt;font-weight:normal"> 
+                           Complete if the organization answered 'Yes' on Form 990, Part IV, line 12a.     
+                           </span></span>
+</th>
+               </tr>
+            </thead>
+            <tfoot></tfoot>
+            <tbody valign="top">
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">1</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Total expenses and losses per audited financial statements
+                     
+                     
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">1</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">2</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Amounts included on line 1 but not on Form 990, Part IX, line 25:</td>
+                  <td class="styShadingCell" style="width:8mm;height:4.5mm;border-left-width:1px;"><span class="styTableCellPad"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">a</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Donated services and use of facilities
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">2a</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">b</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Prior year adjustments
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">............</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">2b</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">c</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Other losses
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">................</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">2c</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">d</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Other (Describe in Part XIII.) 
+                     <span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">2d</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;vertical-align:bottom;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">e</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Add lines <span class="styBoldText">2a</span> through <span class="styBoldText">2d</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">....................</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">2e</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">3</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Subtract line <span class="styBoldText">2e</span> from line <span class="styBoldText">1</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...................</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">3</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;">4</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Amounts included on Form 990, Part IX, line 25, but not on line <span class="styBoldText">1:</span>
+</td>
+                  <td class="styShadingCell" style="width:8mm;height:4.5mm;border-left-width:1px;"><span class="styTableCellPad"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">a</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Investment expenses not included on Form 990, Part VIII, line 7b
+                     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">..</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">4a</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">b</td>
+                  <td class="styLNDesc" style="width:98mm;height:auto;">Other (Describe in Part XIII.) 
+                     <span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">...........</span>
+</td>
+                  <td class="styLNRightNumBox" style="height:4.5mm;">4b</td>
+                  <td class="styLNAmountBox" style="height:4.5mm;vertical-align:bottom;">
+<span style="color:darkblue;" id="/..">
+                         
+                        </span><span style="width:1px;"></span>
+</td>
+                  <td class="styShadingCellRB" style="width:8mm;height:4.5mm; border-right:0"><span style="width:1px;"></span></td>
+                  <td class="styLNAmountBoxNBB" style="height:4.5mm; border-left-width: 1px;"><span class="styTableCellPad"></span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;padding-left:3mm;">c</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;" colspan="3">Add lines <span class="styBoldText">4a</span> and <span class="styBoldText">4b</span><span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">.....................</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">4c</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+               <tr>
+                  <td class="styLNLeftNumBox" style="height:4.5mm;border: solid black 1px; border-top-width:0; border-left-width:0;border-right-width:0px;">5</td>
+                  <td class="styLNDesc" style="width:138mm;height:auto;border: solid black 1px; border-top-width:0; border-left-width:0;border-right-width:0px;" colspan="3">Total expenses. Add lines <span class="styBoldText">3</span> and <span class="styBoldText">4c.</span>
+                     (This must equal Form 990, Part I, line 18.)     
+                     									<span style="letter-spacing:4mm; font-weight:bold; font-size:7pt; margin-left:2mm">......</span>
+</td>
+                  <td class="styLNRightNumBox" style="width:8mm;height:4.5mm; border-right:0">5</td>
+                  <td class="styLNAmountBox" style="height:4.5mm; border-left-width: 1px;"><span style="color:darkblue;" id="/..">
+                         
+                        </span></td>
+               </tr>
+            </tbody>
+         </table>
+         <div class="styGenericDiv" style="width: 187mm;display:inline;display:table;">
+            <div class="styPartName" style="width:18mm;">Part XIII</div>
+            <div class="styPartDesc" style="width:169mm;font-weight:bold; ">
+               Supplemental Information
+               </div>
+            <div class="styIRS990ScheduleDLNDescBB" style="width:187mm;height:auto; border-top-width:1px;padding-top:1mm;border-bottom-width:1px;border-right-width:0px;padding-left:2mm;display:inline;display:table;">
+               Provide the descriptions required for Part II, lines 3, 5, and 9; Part III, lines
+               1a and 4; Part lV, lines 1b and 2b; Part V, line 4; Part X, line 2; Part XI, lines
+               2d and 4b; and Part XII, lines 2d and 4b. Also complete this part to provide any additional
+               information.<br>
+</div>
+         </div>
+         <div class="styTableContainer" style="width:187mm;clear:all;height:auto; border-bottom-width: 2px;display:table;display:inline;display:table;" id="SUPctn">
+            <table class="styTable" style="font-size: 7pt; border-color:black;display:table;" cellspacing="0">
+               <thead class="styTableThead">
+                  <tr class="styDepTblHdr">
+                     <th class="styDepTblCell" scope="col" style="width:50mm;text-align:center;font-size:7pt;font-weight:normal;border-color:black;">Return Reference</th>
+                     <th class="styDepTblCell" scope="col" style="width:87mm;text-align:center;font-size:7pt;font-weight:normal;border-color:black;">Explanation</th>
+                  </tr>
+               </thead>
+               <tfoot></tfoot>
+               <tbody valign="top">
+                  <tr>
+                     <td class="styTableCell" style="text-align:left; border-right-width: 1px; width: 50mm;"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/SupplementalInformationDetail[1]/FormAndLineReferenceDesc[1]">PART X, LINE 2:</span></td>
+                     <td class="styTableCell" style="text-align:left; border-right-width: 0px; width: 137mm"><span style="display:inline;" id="/AppData/SubmissionHeaderAndDocument/SubmissionDocument/IRS990ScheduleD[1]/SupplementalInformationDetail[1]/ExplanationTxt[1]">NATIONAL PHILANTHROPIC TRUST AND AFFILIATES (ORGANIZATIONS") ARE GENERALLY EXEMPT
+                           FROM FEDERAL INCOME TAXES UNDER THE PROVISIONS OF SECTION 501(C)(3) OF THE CODE. IN
+                           ADDITION, THE ORGANIZATIONS QUALIFY FOR CHARITABLE CONTRIBUTION DEDUCTIONS AND HAVE
+                           BEEN CLASSIFIED AS ORGANIZATIONS THAT ARE NOT PRIVATE FOUNDATIONS. THE ORGANIZATIONS
+                           ARE SUBJECT TO INCOME TAXES ON NET INCOME THAT IS DERIVED FROM A TRADE OR BUSINESS,
+                           REGULARLY CARRIED ON, AND NOT IN FURTHERANCE OF THE PURPOSES FOR WHICH IT WAS GRANTED
+                           EXEMPTION. THE ORGANIZATIONS' AGGREGATE OBLIGATION FOR UNRELATED BUSINESS INCOME TAX
+                           FOR THE YEARS ENDED JUNE 30, 2025 AND 2024, WAS APPROXIMATELY $778,000 AND $436,000,
+                           RESPECTIVELY. THE ORGANIZATIONS FILE U.S., UK AND STATE INCOME TAX RETURNS IN JURISDICTIONS,
+                           AS APPLICABLE, TO REPORT SUCH INCOME. THE ORGANIZATIONS FOLLOW THE ACCOUNTING GUIDANCE
+                           ON ACCOUNTING FOR UNCERTAINTY IN INCOME TAXES (FINANCIAL ACCOUNTING STANDARDS BOARD
+                           (FASB) ASC TOPIC 740-10), WHICH ADDRESSES THE DETERMINATION OF WHETHER TAX BENEFITS
+                           CLAIMED OR EXPECTED TO BE CLAIMED ON A TAX RETURN SHOULD BE RECORDED ON THE CONSOLIDATED
+                           FINANCIAL STATEMENTS. UNDER THIS GUIDANCE, THE ORGANIZATIONS MAY RECOGNIZE THE TAX
+                           BENEFIT FROM AN UNCERTAIN TAX POSITION ONLY IF IT IS MORE LIKELY THAN NOT THAT THE
+                           TAX POSITION WILL BE SUSTAINED ON EXAMINATION BY A TAX AUTHORITY. THE TAX BENEFITS
+                           RECOGNIZED IN THE CONSOLIDATED FINANCIAL STATEMENTS FROM SUCH A POSITION ARE MEASURED
+                           BASED ON THE LARGEST BENEFIT THAT HAS A GREATER THAN 50% LIKELIHOOD OF BEING REALIZED
+                           UPON ULTIMATE SETTLEMENT. THE GUIDANCE ON ACCOUNTING FOR UNCERTAINTY IN INCOME TAXES
+                           ALSO ADDRESSES DERECOGNITION, CLASSIFICATION, INTEREST AND PENALTIES ON INCOME TAXES,
+                           AND ACCOUNTING IN INTERIM PERIODS. MANAGEMENT EVALUATED THE ORGANIZATIONS' TAX POSITIONS
+                           AND CONCLUDED THAT THE ORGANIZATIONS HAVE TAKEN NO UNCERTAIN TAX POSITIONS THAT REQUIRE
+                           ADJUSTMENT TO THE CONSOLIDATED FINANCIAL STATEMENTS TO COMPLY WITH THE PROVISIONS
+                           OF THIS GUIDANCE. NO MATERIAL ACCRUAL FOR INTEREST AND PENALTIES WAS DEEMED NECESSARY
+                           FOR THE YEARS ENDED JUNE 30, 2025 AND 2024. THE ORGANIZATIONS FILE INFORMATIONAL TAX
+                           RETURNS IN U.S. AND UK JURISDICTIONS.</span></td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+<div style="width:187mm;float:none;clear:both;padding-top:.5mm;" class="pageEnd">
+            <div class="styGenericDiv" style="float:right;"><span class="styBoldText">Schedule D (Form 990) (Rev. 1-2025)</span></div>
+         </div>
+<div class="propublica-divider"><span></span></div>
+         <p style="page-break-before: always"></p>
+<br><div class="styLeftOverTitleLine" id="LeftoverData">
+            <div class="styLeftOverTitle">
+               Additional Data        
+               </div>
+            <div class="styLeftOverButtonContainer"><input class="styLeftoverTableBtn" tabindex="1" type="button" value="Return to Form" onclick="javascript:returnToWriteInImage();"></div>
+         </div>
+         <table class="styLeftOverTbl">
+<br><tr>
+               <td class="styLeftOverTableRowDesc" style="width:100mm;" scope="row">Software ID:</td>
+               <td class="styLeftOverTableRowAmount" style="width:87mm;"><span style="display:inline;" id="/..">
+                      
+                     </span></td>
+            </tr>
+            <tr>
+               <td class="styLeftOverTableRowDesc" style="width:100mm;" scope="row">Software Version:</td>
+               <td class="styLeftOverTableRowAmount" style="width:87mm;"><span style="display:inline;" id="/..">
+                      
+                     </span></td>
+            </tr>
+<br>
+</table>
+<br><br><br><br>
+</form>
+   <script src="https://projects.propublica.org/nonprofits/rendered-in-iframe.js"></script>
+</body>
+</html>

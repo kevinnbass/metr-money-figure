@@ -1,0 +1,52 @@
+{
+  "seed": 20260914,
+  "tracked_count": 2231,
+  "max_file": {
+    "path": "evidence/agents-2026-09-14/S3-lab-docs/docs/meta-frontier-ai-framework-v1-1-wayback-20260218.pdf",
+    "bytes": 14656123,
+    "sha256": "8f88ef32bba23ea9b386231c3bf10091e73bcae17fed6a900bb0c52b98d0d58b"
+  },
+  "over_50MB": [],
+  "manifest_count": 637,
+  "manifest_in_repo": 494,
+  "sample_count": 25,
+  "sample_mismatches": [],
+  "copies": [
+    {
+      "path": "figures/metr-01b-money-that-doesnt-show-up-with-anthropic.html",
+      "repo_exists": true,
+      "same": true
+    },
+    {
+      "path": "figures/metr-01b-money-that-doesnt-show-up-with-anthropic.png",
+      "repo_exists": true,
+      "same": true
+    },
+    {
+      "path": "scripts/generate.py",
+      "repo_exists": true,
+      "same": true
+    },
+    {
+      "path": "scripts/fig_common.py",
+      "repo_exists": true,
+      "same": true
+    },
+    {
+      "path": "scripts/build_evidence.py",
+      "repo_exists": true,
+      "same": true
+    },
+    {
+      "path": "research/evidence_significance.py",
+      "repo_exists": true,
+      "same": true
+    },
+    {
+      "path": "EVIDENCE.txt",
+      "repo_exists": true,
+      "same": true
+    }
+  ],
+  "disclosure": true
+}

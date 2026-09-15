@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, viewport-fit=cover">
+  <meta name="referrer" content="origin-when-cross-origin">
+  <!--
+    Preconnect to essential domains
+  -->
+  <link rel="preconnect" href="https://bsky.social">
+  <link rel="preconnect" href="https://go.bsky.app">
+  <title>@moskov.goodventures.org on Bluesky</title>
+
+  <!-- Hello Humans! API docs at https://atproto.com -->
+
+  <link rel="preload" as="font" type="font/woff2" href="https://web-cdn.bsky.app/static/media/InterVariable.c504db5c06caaf7cdfba.woff2" crossorigin>
+
+  <style>
+    /**
+     * Minimum styles required to render splash.
+     *
+     * ALL OTHER STYLES BELONG IN `src/style.css`
+     *
+     * THIS NEEDS TO BE DUPLICATED IN `bskyweb/templates/base.html`
+     */
+    @font-face {
+      font-family: 'InterVariable';
+      src: url("https://web-cdn.bsky.app/static/media/InterVariable.c504db5c06caaf7cdfba.woff2") format('woff2');
+      font-weight: 300 1000;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'InterVariableItalic';
+      src: url("https://web-cdn.bsky.app/static/media/InterVariable-Italic.01dcbad1bac635f9c9cd.woff2") format('woff2');
+      font-weight: 300 1000;
+      font-style: italic;
+      font-display: swap;
+    }
+    html,
+    body {
+      margin: 0px;
+      padding: 0px;
+      font-family: InterVariable, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Liberation Sans', Helvetica, Arial, sans-serif;
+      text-rendering: optimizeLegibility;
+      /* Platform-specific reset */
+      -webkit-overflow-scrolling: touch;
+      -webkit-text-size-adjust: 100%;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      -ms-overflow-style: scrollbar;
+      font-synthesis-weight: none;
+    }
+    :root {
+      --text: black;
+      --background: white;
+      --backgroundLight: #e2e7ee;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        color-scheme: dark;
+        --text: white;
+        --background: black;
+        --backgroundLight: #232e3e;
+      }
+    }
+    html,
+    body,
+    #root {
+      display: flex;
+      flex: 1 0 auto;
+      min-height: 100%;
+      width: 100%;
+    }
+    html.theme--light,
+    html.theme--light body,
+    html.theme--light #root {
+      background-color: white;
+      --text: black;
+      --background: white;
+      --backgroundLight: #DCE2EA;
+    }
+    html.theme--dark,
+    html.theme--dark body,
+    html.theme--dark #root {
+      color-scheme: dark;
+      background-color: black;
+      --text: white;
+      --background: black;
+      --backgroundLight: #232E3E;
+    }
+    html.theme--dim,
+    html.theme--dim body,
+    html.theme--dim #root {
+      color-scheme: dark;
+      background-color: #151D28;
+      --text: white;
+      --background: #151D28;
+      --backgroundLight: #2C3A4E;
+    }
+    #splash {
+      display: flex;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      align-items: center;
+      justify-content: center;
+    }
+    #splash svg {
+      position: relative;
+      top: -50px;
+      width: 100px;
+    }
+    /**
+     * We need these styles to prevent shifting due to scrollbar show/hide on
+     * OSs that have them enabled by default. This also handles cases where the
+     * screen wouldn't otherwise scroll, and therefore hide the scrollbar and
+     * shift the content, by forcing the page to show a scrollbar.
+     */
+    body {
+      width: 100%;
+      overflow-y: scroll;
+    }
+  </style>
+  <script>
+    const theme = localStorage.getItem('ALF_THEME')
+    if (theme) {
+      document.documentElement.classList.add(`theme--${theme}`)
+    }
+  </script>
+
+  <script defer="defer" src="https://web-cdn.bsky.app/static/js/3035.acfb0c22.js"></script>
+<link rel="stylesheet" href="https://web-cdn.bsky.app/static/css/main.dbb4f61c.css">
+<script defer="defer" src="https://web-cdn.bsky.app/static/js/main.6613a9b0.js"></script>
+  <link rel="apple-touch-icon" sizes="180x180" href="https://web-cdn.bsky.app/static/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://web-cdn.bsky.app/static/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://web-cdn.bsky.app/static/favicon-16x16.png">
+  <link rel="mask-icon" href="https://web-cdn.bsky.app/static/safari-pinned-tab.svg" color="#1185fe">
+  <meta name="theme-color">
+  <meta name="application-name" content="Bluesky">
+  <meta name="generator" content="bskyweb">
+  
+  <meta property="og:site_name" content="Bluesky Social">
+  <meta property="og:logo" content="https://web-cdn.bsky.app/static/favicon.png">
+  <meta name="twitter:site" content="@bluesky" />
+  <link type="application/activity+json" href="" />
+
+  <meta property="og:type" content="article">
+  <meta property="profile:username" content="moskov.goodventures.org">
+  
+  <meta property="og:url" content="https://bsky.app/profile/moskov.goodventures.org/post/3miawjaazyc24">
+  <link rel="canonical" href="https://bsky.app/profile/moskov.goodventures.org/post/3miawjaazyc24" />
+  
+  
+  <meta property="og:title" content="Dustin Moskovitz (@moskov.goodventures.org)">
+  
+  <meta name="description" content="Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.
+
+The “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand.">
+  <meta property="og:description" content="Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.
+
+The “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand.">
+  <meta property="twitter:description" content="Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.
+
+The “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand.">
+  
+  <meta property="og:image" content="https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:z7oad4td5k4tfb4dttzjym7r/bafkreiapds4x6n2sobfyijxfnel5dvcxbzycvrwa7trogzz62o5lkhc7y4">
+  <meta property="twitter:image" content="https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:z7oad4td5k4tfb4dttzjym7r/bafkreiapds4x6n2sobfyijxfnel5dvcxbzycvrwa7trogzz62o5lkhc7y4">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:label1" content="Posted At">
+  <meta name="twitter:value1" content="2026-03-30T05:28:20.553Z">
+  <meta name="twitter:label2" content="Likes">
+  <meta name="twitter:value2" content="3">
+  
+  <meta name="twitter:label3" content="Replies">
+  <meta name="twitter:value3" content="3">
+  <meta property="article:published_time" content="2026-03-30T05:28:20.553Z">
+  <link rel="alternate" type="application/json+oembed" href="https://embed.bsky.app/oembed?format=json&url=at%3A%2F%2Fdid%3Aplc%3Az7oad4td5k4tfb4dttzjym7r%2Fapp.bsky.feed.post%2F3miawjaazyc24" />
+  <link rel="alternate" href="at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miawjaazyc24" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","url":"https://bsky.app/profile/moskov.goodventures.org/post/3miawjaazyc24","mainEntity":{"@type":"DiscussionForumPosting","url":"https://bsky.app/profile/moskov.goodventures.org/post/3miawjaazyc24","identifier":"at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miawjaazyc24","author":{"@type":"Person","name":"Dustin Moskovitz","alternateName":"@moskov.goodventures.org","identifier":"did:plc:z7oad4td5k4tfb4dttzjym7r","url":"https://bsky.app/profile/moskov.goodventures.org","reviewedBy":[{"@type":"Person","name":"Bluesky","alternateName":"@bsky.app","identifier":"did:plc:z72i7hdynmk6r22z27h6tvur","url":"https://bsky.app/profile/bsky.app"}]},"text":"Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.\n\nThe “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand.","datePublished":"2026-03-30T05:28:20.553Z","interactionStatistic":[{"@type":"InteractionCounter","interactionType":"https://schema.org/LikeAction","userInteractionCount":3},{"@type":"InteractionCounter","interactionType":"https://schema.org/CommentAction","userInteractionCount":3},{"@type":"InteractionCounter","interactionType":"https://schema.org/ShareAction","userInteractionCount":0}],"commentCount":3,"comment":[{"@type":"Comment","url":"https://bsky.app/profile/icanfly42.bsky.social/post/3mibotcj7hk2k","identifier":"at://did:plc:zqytu7uu6wrnrduynshkoxni/app.bsky.feed.post/3mibotcj7hk2k","author":{"@type":"Person","name":"Friendly Neighborhood Transsexual","alternateName":"@icanfly42.bsky.social","identifier":"did:plc:zqytu7uu6wrnrduynshkoxni","url":"https://bsky.app/profile/icanfly42.bsky.social"},"text":"I don't care what your opinion of Ed is, but you know that asserting that the thing people don't like is going to change the world whether they like it or not does not convince people to like the thing, right?","datePublished":"2026-03-30T12:43:27.362Z"},{"@type":"Comment","url":"https://bsky.app/profile/moskov.goodventures.org/post/3miawnipfmk24","identifier":"at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3miawnipfmk24","author":{"@type":"Person","name":"Dustin Moskovitz","alternateName":"@moskov.goodventures.org","identifier":"did:plc:z7oad4td5k4tfb4dttzjym7r","url":"https://bsky.app/profile/moskov.goodventures.org"},"text":"I politely engaged Ed a dozen times with no acknowledgement and now I am simply recognizing him as a charlatan. I’m being direct so that people see it clearly instead of playing word games like he does.","datePublished":"2026-03-30T05:30:43.949Z"},{"@type":"Comment","url":"https://bsky.app/profile/txo.bsky.social/post/3miawnuurlc2w","identifier":"at://did:plc:6mkkeo42btv25yokamfue527/app.bsky.feed.post/3miawnuurlc2w","author":{"@type":"Person","name":"Gnome de guerre","alternateName":"@txo.bsky.social","identifier":"did:plc:6mkkeo42btv25yokamfue527","url":"https://bsky.app/profile/txo.bsky.social"},"text":"Dustin - can you share your brief pov re some of the positives that are coming? (sincere, neutral q)","datePublished":"2026-03-30T05:30:57.157Z"}],"isPartOf":"https://bsky.app/profile/edzitron.com/post/3miabmrzhh22m"}}</script>
+  
+</head>
+<body>
+  <div id="splash">
+    <!-- Bluesky SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 57"><path fill="#006AFF" d="M13.873 3.805C21.21 9.332 29.103 20.537 32 26.55v15.882c0-.338-.13.044-.41.867-1.512 4.456-7.418 21.847-20.923 7.944-7.111-7.32-3.819-14.64 9.125-16.85-7.405 1.264-15.73-.825-18.014-9.015C1.12 23.022 0 8.51 0 6.55 0-3.268 8.579-.182 13.873 3.805ZM50.127 3.805C42.79 9.332 34.897 20.537 32 26.55v15.882c0-.338.13.044.41.867 1.512 4.456 7.418 21.847 20.923 7.944 7.111-7.32 3.819-14.64-9.125-16.85 7.405 1.264 15.73-.825 18.014-9.015C62.88 23.022 64 8.51 64 6.55c0-9.818-8.578-6.732-13.873-2.745Z"/></svg>
+  </div>
+  <div id="root">
+  </div>
+
+  <noscript>
+    <h1 lang="en">JavaScript Required</h1>
+    <p lang="en">This is a heavily interactive web application, and JavaScript is required. Simple HTML interfaces are possible, but that is not what this is.
+    <p lang="en">Learn more about Bluesky at <a href="https://bsky.social">bsky.social</a> and <a href="https://atproto.com">atproto.com</a>.
+    <div id="bsky_post_summary">
+  <h3>Post</h3>
+  <p id="bsky_display_name">Dustin Moskovitz</p>
+  <p id="bsky_handle">moskov.goodventures.org</p>
+  <p id="bsky_did">did:plc:z7oad4td5k4tfb4dttzjym7r</p>
+  <p id="bsky_post_text">Per the other thread all Anthropic holdings are in the foundation, dedicated to charity.
+
+The “AI is a scam” narrative was annoying last year. It is itself the scam among the people who continue to peddle it. Great changes are coming and people need to stop burying their heads in the sand.</p>
+  <p id="bsky_post_indexedat">2026-03-30T05:28:20.553Z</p>
+</div>
+  </noscript>
+</body>
+</html>

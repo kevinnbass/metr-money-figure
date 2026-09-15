@@ -1,3 +1,4 @@
 __pycache__/
 *.pyc
 .DS_Store
+evidence/audit4-evidence/sponsor-filings.json

@@ -2,7 +2,7 @@
 import re,csv,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent.parent; sys.path.insert(0,str(ROOT/'research'))
-from evidence_significance import CLAIM,WHY
+from evidence_significance import CLAIM,WHY,default_why
 sys.path.insert(0,str(ROOT/'scripts')); from fig_common import strip_ids
 h=open(ROOT/'figures/metr-01b-money-that-doesnt-show-up-with-anthropic.html').read()
 ids=set()
@@ -34,7 +34,7 @@ def claim(p,i,r):
     if p=='S': return f"{r['name']}, {r['metr_title']}, joined METR {r['joined']} from {r['prior_org']} ({r['prior_role']})"
     if p=='B': return f"{r['name']}: {r['metr_role']}; also {r['other_current_org']} ({r['other_org_role']})"
 def url(r): return r.get('source_url') or r.get('url') or r.get('lab_source_url') or r.get('metr_source_url') or r.get('source_urls') or ''
-out=["EVIDENCE — every fact cited on figure 10a-anthropic (metr-01b), one block per row id","Format: Claim / Why it matters / Source, one block per fact. A keyed copy (EVIDENCE-keyed) maps each block to its row id in research/*.csv, where the verbatim quote, full note and fetch date live. Built 2026-09-14.","",""]
+out=["EVIDENCE — every fact cited on figure 10a-anthropic (metr-01b), one block per row id","Format: Claim / Why it matters / Source, one block per fact. A keyed copy maps each block to its row in the research tables, where the verbatim quote, full note and fetch date live. Built 2026-09-14; revised after audit 4.","",""]
 n=0; missing=[]; keyed=list(out)
 for p in ['ST','IV','M','AP','G','TB','TO','RW','J','B','K','S']:
     f,title=files[p]; rows={r['row_id']:r for r in csv.DictReader(open(ROOT/'research'/f,newline=''))}
@@ -43,7 +43,7 @@ for p in ['ST','IV','M','AP','G','TB','TO','RW','J','B','K','S']:
     keyed+=[f"== {title} ({f}) ==",""]; out+=[f"== {title} ==",""]
     for i in want:
         r=rows[i]; n+=1
-        w=WHY.get(i)
+        w=WHY.get(i) or default_why(i,r)
         if not w: missing.append(i); w=first(r.get('notes') or r.get('note') or r.get('quote_verbatim') or r.get('quote') or '')
         keyed+=[f"{i}. Claim: {claim(p,i,r)}", f"Why it matters: {w}", f"Source: {url(r)}","",""]
         out+=[f"Claim: {strip_ids(claim(p,i,r))}", f"Why it matters: {strip_ids(w)}", f"Source: {url(r)}","",""]

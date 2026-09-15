@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://coefficientgiving.org/wp-content/themes/coefficient-giving/dist/css/app.02453d9b.css" type="text/css">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/coefficient-giving/public/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/coefficient-giving/public/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/coefficient-giving/public/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" href="/wp-content/themes/coefficient-giving/public/favicons/favicon.ico">
+    <link rel="manifest" href="/wp-content/themes/coefficient-giving/public/favicons/site.webmanifest">
+    <meta name="theme-color" content="#064D49">
+
+          <meta name='robots' content='noindex, follow' />
+<script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/f15cab84201c16d08314588f115de68c/script.js"></script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->    <!-- Google Tag Manager -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MN7FMFSM');
+    </script>
+    <!-- End Google Tag Manager -->
+    
+	<!-- This site is optimized with the Yoast SEO Premium plugin v28.2 (Yoast SEO v28.3) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Page not found | Coefficient Giving</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found | Coefficient Giving" />
+	<meta property="og:site_name" content="Coefficient Giving" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/coefficientgiving.org\/#website","url":"https:\/\/coefficientgiving.org\/","name":"Coefficient Giving","description":"","publisher":{"@id":"https:\/\/coefficientgiving.org\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/coefficientgiving.org\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/coefficientgiving.org\/#organization","name":"Coefficient Giving","url":"https:\/\/coefficientgiving.org\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/coefficientgiving.org\/#\/schema\/logo\/image\/","url":"https:\/\/coefficientgiving.org\/wp-content\/uploads\/share-image.png","contentUrl":"https:\/\/coefficientgiving.org\/wp-content\/uploads\/share-image.png","width":1201,"height":631,"caption":"Coefficient Giving"},"image":{"@id":"https:\/\/coefficientgiving.org\/#\/schema\/logo\/image\/"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v10.2.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-MV05WBQCSF"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '10.2.2';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/coefficientgiving.org\/grants\/general-support-3\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-MV05WBQCSF',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-MV05WBQCSF', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+							<!-- / Google Analytics by MonsterInsights -->
+		<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='mci-footnotes-jquery-tooltips-pagelayout-none-css' href='https://coefficientgiving.org/wp-content/plugins/footnotes/css/footnotes-jqttbrpl0.min.css?ver=2.7.3' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://coefficientgiving.org/wp-includes/css/dist/block-library/style.min.css?ver=6.9.7' type='text/css' media='all' />
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<script type="text/javascript" src="https://coefficientgiving.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://coefficientgiving.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://coefficientgiving.org/wp-content/plugins/footnotes/js/jquery.tools.min.js?ver=1.2.7.redacted.2" id="mci-footnotes-jquery-tools-js"></script>
+<script type="text/javascript" src="https://coefficientgiving.org/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=10.2.2" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/coefficientgiving.org","hash_tracking":"false","v4_id":"G-MV05WBQCSF"};/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://coefficientgiving.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://coefficientgiving.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.7" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"404-error"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHHNFJLD');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="icon" href="https://coefficientgiving.org/wp-content/uploads/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://coefficientgiving.org/wp-content/uploads/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://coefficientgiving.org/wp-content/uploads/favicon.png" />
+<meta name="msapplication-TileImage" content="https://coefficientgiving.org/wp-content/uploads/favicon.png" />
+
+<style type="text/css" media="all">
+.footnotes_reference_container {margin-top: 24px !important; margin-bottom: 0px !important;}
+.footnote_container_prepare > p {border-bottom: 1px solid #aaaaaa !important;}
+.footnote_referrer_anchor, .footnote_item_anchor {bottom: 20vh;}
+.footnote_tooltip { font-size: 13.0px !important; color: #000000 !important; background-color: #ffffff !important; border-width: 1px !important; border-style: solid !important; border-color: #cccc99 !important; -webkit-box-shadow: 2px 2px 11px #666666; -moz-box-shadow: 2px 2px 11px #666666; box-shadow: 2px 2px 11px #666666; max-width: 450px !important;}
+
+.footnote_tooltip {
+  background-color: #f6f6f6 !important;
+  border: solid 1px #d7d7d7 !important;
+  box-shadow: 0px 4px 0px 0px rgba(0,0,0,0.10) !important;
+  font: 12px /1.375 "FK Grotesk Neue" !important;
+}
+
+</style>
+
+        
+
+
+  </head>
+
+  <svg style="display: none;">
+
+<defs>
+    <symbol id="logomark-full" viewbox="0 0 1125 134" fill="none">
+		<path d="M1115.53 56.2317C1115.53 71.3342 1103 80.3122 1087.34 80.3122C1083.03 80.3122 1078.85 79.6163 1075.23 78.2939C1072.8 80.3122 1071.2 82.4001 1071.2 85.3232C1071.2 89.9862 1075.37 91.7261 1081.64 92.3525L1100.64 94.0924C1114.7 95.4148 1124.86 99.1034 1124.86 110.587C1124.86 124.715 1110.38 133.832 1089.22 133.832C1069.87 133.832 1056.65 127.29 1056.65 115.667C1056.72 107.037 1065.21 102.792 1072.87 100.704C1066.12 98.6858 1062.15 94.9972 1062.15 88.8031C1062.15 83.0961 1066.6 79.6163 1071.96 76.902C1064.24 73.0046 1059.09 65.7665 1059.09 56.0229C1059.09 40.7116 1071.68 31.7336 1087.27 31.7336C1091.8 31.7336 1096.11 32.5688 1100.01 34.1695H1124.3V39.3892H1108.29C1112.75 43.5651 1115.53 49.272 1115.53 56.2317ZM1103.07 56.7885C1103.07 45.4442 1096.6 36.8142 1086.79 36.8142C1077.88 36.8142 1071.68 44.4698 1071.68 55.2573C1071.68 66.6016 1078.09 75.2317 1087.97 75.2317C1096.88 75.2317 1103.07 67.576 1103.07 56.7885ZM1068 114.624C1067.93 122.627 1075.93 128.612 1090.06 128.612C1104.26 128.612 1113.37 122.21 1113.37 113.788C1113.37 107.385 1108.22 105.437 1098.97 104.393L1080.38 102.166C1079.13 102.026 1077.88 101.818 1076.7 101.609C1072.17 104.532 1068 108.151 1068 114.624Z" fill="currentColor"/>
+		<path d="M1040.93 89.5686C1040.93 98.0595 1043.01 100.704 1051.99 101.609V104.323H1016.98V101.609C1026.38 100.704 1028.47 98.0595 1028.47 89.5686V55.6053C1028.47 45.305 1023.32 40.4332 1014.41 40.4332C1005.57 40.4332 999.794 45.7922 996.453 50.8727V89.5686C996.453 98.0595 998.541 100.704 1007.87 101.609V104.323H972.164V101.609C981.768 100.704 983.926 98.0595 983.926 89.5686V49.6896C983.926 42.0339 981.629 39.3197 972.86 39.5284V36.8838L994.922 31.7336L995.757 32.4991V46.2793C998.472 40.7116 1005.5 31.8032 1018.65 31.8032C1032.23 31.8032 1040.93 39.5284 1040.93 55.1182V89.5686Z" fill="currentColor"/>
+		<path d="M949.621 21.7116C944.401 21.7116 940.852 18.023 940.852 12.9424C940.852 7.86185 944.401 4.17322 949.621 4.17322C954.841 4.17322 958.39 7.86185 958.39 12.9424C958.39 18.023 954.841 21.7116 949.621 21.7116ZM956.859 89.5686C956.859 98.0595 958.947 100.704 967.925 101.609V104.323H932.57V101.609C942.174 100.704 944.332 98.0595 944.332 89.5686V49.6896C944.332 42.0339 942.035 39.3197 933.266 39.5285V36.8838L956.024 31.7336L956.859 32.4992V89.5686Z" fill="currentColor"/>
+		<path d="M886.616 33.4039V36.0486C879.239 36.9534 877.221 39.7373 880.631 48.1585L896.708 88.8727L913.063 48.1585C916.404 39.7373 914.455 36.9534 907.078 36.0486V33.4039H930.184V36.0486C925.034 36.9534 923.155 39.4589 920.093 47.1841L896.778 105.158H890.166L866.642 47.1841C863.58 39.4589 861.701 36.9534 856.481 36.0486V33.4039H886.616Z" fill="currentColor"/>
+		<path d="M838.896 21.7116C833.677 21.7116 830.127 18.023 830.127 12.9424C830.127 7.86185 833.677 4.17322 838.896 4.17322C844.116 4.17322 847.666 7.86185 847.666 12.9424C847.666 18.023 844.116 21.7116 838.896 21.7116ZM846.135 89.5686C846.135 98.0595 848.222 100.704 857.201 101.609V104.323H821.845V101.609C831.45 100.704 833.607 98.0595 833.607 89.5686V49.6896C833.607 42.0339 831.31 39.3197 822.541 39.5285V36.8838L845.299 31.7336L846.135 32.4992V89.5686Z" fill="currentColor"/>
+		<path d="M805.194 36.1182C800.74 18.371 789.535 7.72266 772.275 7.72266C750.909 7.72266 736.433 25.8875 736.433 52.6127C736.433 81.7738 752.579 100.495 773.876 100.495C783.967 100.495 791.623 96.3195 795.242 92.8397V72.4478C795.242 63.4002 791.693 60.5467 776.242 59.642V56.7885H817.026V59.4332C809.649 60.4075 807.839 63.0522 807.839 71.4734V95.206C803.037 98.9642 791.136 106.202 772.971 106.202C742.905 106.202 722.096 86.2976 722.096 54.2134C722.096 21.99 742.905 2.15491 772.762 2.15491C789.605 2.15491 801.227 8.55782 806.308 12.3161L808.535 36.1182H805.194Z" fill="currentColor"/>
+		<path d="M654.392 39.4588H641.586V36.4662C648.824 30.7592 655.993 24.9131 663.091 19.2061H666.014V34.1695H687.381V39.4588H666.014V87.4807C666.014 93.7445 669.355 97.2243 674.853 97.2243C679.864 97.2243 683.344 95.0668 686.406 91.7261L688.564 93.2573C685.919 98.9642 680.978 105.785 670.399 105.785C659.403 105.785 653.209 98.8946 653.417 86.924L654.392 39.4588Z" fill="currentColor"/>
+		<path d="M630.01 89.5686C630.01 98.0595 632.098 100.704 641.076 101.609V104.323H606.069V101.609C615.465 100.704 617.552 98.0595 617.552 89.5686V55.6053C617.552 45.305 612.402 40.4332 603.494 40.4332C594.655 40.4332 588.879 45.7922 585.538 50.8727V89.5686C585.538 98.0595 587.626 100.704 596.952 101.609V104.323H561.249V101.609C570.853 100.704 573.01 98.0595 573.01 89.5686V49.6896C573.01 42.0339 570.714 39.3197 561.945 39.5284V36.8838L584.007 31.7336L584.842 32.4991V46.2793C587.556 40.7116 594.586 31.8032 607.739 31.8032C621.311 31.8032 630.01 39.5284 630.01 55.1182V89.5686Z" fill="currentColor"/>
+		<path d="M553.992 63.8874H504.648C504.996 85.3928 514.739 95.4844 528.102 95.4844C539.168 95.4844 546.684 89.4294 550.582 80.0339L553.435 80.9386C551.347 91.7957 544.04 105.993 525.318 105.993C506.04 105.993 492.956 92.4221 492.956 68.8983C492.956 45.305 506.04 31.7336 525.179 31.7336C544.179 31.7336 553.992 44.5394 553.992 61.3819V63.8874ZM524.692 37.1621C513.487 37.1621 505.97 44.5394 504.787 58.7372H541.952C541.673 45.8618 536.384 37.1621 524.692 37.1621Z" fill="currentColor"/>
+		<path d="M468.255 21.7116C463.035 21.7116 459.486 18.023 459.486 12.9424C459.486 7.86185 463.035 4.17322 468.255 4.17322C473.475 4.17322 477.024 7.86185 477.024 12.9424C477.024 18.023 473.475 21.7116 468.255 21.7116ZM475.493 89.5686C475.493 98.0595 477.581 100.704 486.559 101.609V104.323H451.204V101.609C460.808 100.704 462.965 98.0595 462.965 89.5686V49.6896C462.965 42.0339 460.669 39.3197 451.9 39.5285V36.8838L474.658 31.7336L475.493 32.4992V89.5686Z" fill="currentColor"/>
+		<path d="M383.862 68.8983C383.862 45.305 397.364 31.7336 417.826 31.7336C434.25 31.7336 444.133 41.1988 444.133 51.0119C444.133 55.1877 441.906 57.7628 437.939 57.7628C433.902 57.7628 431.745 55.0486 431.049 49.968C429.587 40.9204 424.716 37.2317 416.99 37.2317C404.115 37.2317 395.833 48.7152 395.833 66.0449C395.833 84.4185 405.437 95.9715 419.566 95.9715C432.511 95.9715 438.844 88.3159 441.628 80.521L444.412 81.217C442.741 92.0741 435.921 105.993 416.99 105.993C397.364 105.993 383.862 92.4221 383.862 68.8983Z" fill="currentColor"/>
+		<path d="M271.509 89.6382C271.509 98.0595 273.945 100.704 284.315 101.609V104.323H247.219V101.609C256.824 100.704 259.051 98.0595 259.051 89.6382V39.4589H244.436V34.1695H259.051V30.8288C259.051 11.2025 270.604 1.80692 285.567 1.80692C294.754 1.80692 301.644 6.53951 301.644 11.4809C301.644 14.4736 299.904 16.6311 296.564 16.5615C293.223 16.5615 291.274 14.3344 289.534 11.4809C287.934 9.18419 285.985 7.37468 282.435 7.37468C274.849 7.37468 271.509 13.1512 271.509 24.7739V34.1695H306.446V30.968C306.446 10.4369 320.644 0.345383 340.27 0.345383C354.607 0.345383 365.813 6.53951 365.813 14.8911C365.813 18.8582 363.446 21.642 359.27 21.642C354.538 21.5724 352.589 18.6494 350.78 14.7519C348.065 9.045 344.238 5.91314 336.721 5.91314C325.446 5.91314 318.974 13.012 318.974 27.2098V34.1695H366.369V89.6382C366.369 98.0595 368.457 100.704 377.366 101.609V104.323H342.15V101.609C351.684 100.704 353.912 98.0595 353.912 89.6382V39.4589H318.974V89.6382C318.974 98.0595 321.34 100.704 331.78 101.609V104.323H294.685V101.609C304.289 100.704 306.446 98.0595 306.446 89.6382V39.4589H271.509V89.6382Z" fill="currentColor"/>
+		<path d="M239.159 63.8874H189.814C190.162 85.3928 199.906 95.4844 213.269 95.4844C224.334 95.4844 231.851 89.4294 235.748 80.0339L238.602 80.9386C236.514 91.7957 229.206 105.993 210.485 105.993C191.206 105.993 178.122 92.4221 178.122 68.8983C178.122 45.305 191.206 31.7336 210.345 31.7336C229.345 31.7336 239.159 44.5394 239.159 61.3819V63.8874ZM209.858 37.1621C198.653 37.1621 191.137 44.5394 189.954 58.7372H227.118C226.84 45.8618 221.551 37.1621 209.858 37.1621Z" fill="currentColor"/>
+		<path d="M168.936 68.8983C168.936 92.7701 153.347 105.993 133.581 105.993C113.816 105.993 98.1562 92.7701 98.1562 68.8983C98.1562 44.957 113.816 31.7336 133.581 31.7336C153.347 31.7336 168.936 44.957 168.936 68.8983ZM155.295 70.3599C155.295 50.316 146.178 37.1621 132.746 37.1621C120.427 37.1621 111.797 49.5504 111.797 67.3672C111.797 87.4111 120.914 100.565 134.347 100.565C146.735 100.565 155.295 88.1767 155.295 70.3599Z" fill="currentColor"/>
+		<path d="M83.7038 71.2646H87.0444L84.6085 96.3195C80.2935 99.9386 68.8796 106.202 51.202 106.202C21.0665 106.202 0.32666 86.2976 0.32666 54.2134C0.32666 21.99 21.0665 2.15491 51.202 2.15491C68.3925 2.15491 79.8759 8.55782 84.7477 12.1073L86.8356 36.3966H83.5646C78.6232 18.371 67.8357 7.72266 50.506 7.72266C29.1398 7.72266 14.6636 25.8875 14.6636 52.6127C14.6636 81.7738 30.8101 100.635 52.1068 100.635C68.3228 100.635 78.832 90.4734 83.7038 71.2646Z" fill="currentColor"/>
+  </symbol>
+
+    <symbol id="logomark-short" viewbox="0 0 990 153" fill="none" >
+    <path d="M130.319 102H135.119L131.619 138C125.419 143.2 109.019 152.2 83.619 152.2C40.319 152.2 10.519 123.6 10.519 77.5C10.519 31.2 40.319 2.69999 83.619 2.69999C108.319 2.69999 124.819 11.9 131.819 17L134.819 51.9H130.119C123.019 26 107.519 10.7 82.619 10.7C51.919 10.7 31.119 36.8 31.119 75.2C31.119 117.1 54.319 144.2 84.919 144.2C108.219 144.2 123.319 129.6 130.319 102ZM248.785 98.6C248.785 132.9 226.385 151.9 197.985 151.9C169.585 151.9 147.085 132.9 147.085 98.6C147.085 64.2 169.585 45.2 197.985 45.2C226.385 45.2 248.785 64.2 248.785 98.6ZM229.185 100.7C229.185 71.9 216.085 53 196.785 53C179.085 53 166.685 70.8 166.685 96.4C166.685 125.2 179.785 144.1 199.085 144.1C216.885 144.1 229.185 126.3 229.185 100.7ZM345.683 91.4H274.783C275.283 122.3 289.283 136.8 308.483 136.8C324.383 136.8 335.183 128.1 340.783 114.6L344.883 115.9C341.883 131.5 331.383 151.9 304.483 151.9C276.783 151.9 257.983 132.4 257.983 98.6C257.983 64.7 276.783 45.2 304.283 45.2C331.583 45.2 345.683 63.6 345.683 87.8V91.4ZM303.583 53C287.483 53 276.683 63.6 274.983 84H328.383C327.983 65.5 320.383 53 303.583 53ZM390.166 128.4C390.166 140.5 393.666 144.3 408.566 145.6V149.5H355.266V145.6C369.066 144.3 372.266 140.5 372.266 128.4V56.3H351.266V48.7H372.266V43.9C372.266 15.7 388.866 2.2 410.366 2.2C423.566 2.2 433.466 8.99999 433.466 16.1C433.466 20.4 430.966 23.5 426.166 23.4C421.366 23.4 418.566 20.2 416.066 16.1C413.766 12.8 410.966 10.2 405.866 10.2C394.966 10.2 390.166 18.5 390.166 35.2V48.7H440.366V44.1C440.366 14.6 460.766 0.0999923 488.966 0.0999923C509.566 0.0999923 525.666 8.99999 525.666 21C525.666 26.7 522.266 30.7 516.266 30.7C509.466 30.6 506.666 26.4 504.066 20.8C500.166 12.6 494.666 8.1 483.866 8.1C467.666 8.1 458.366 18.3 458.366 38.7V48.7H526.466V128.4C526.466 140.5 529.466 144.3 542.266 145.6V149.5H491.666V145.6C505.366 144.3 508.566 140.5 508.566 128.4V56.3H458.366V128.4C458.366 140.5 461.766 144.3 476.766 145.6V149.5H423.466V145.6C437.266 144.3 440.366 140.5 440.366 128.4V56.3H390.166V128.4ZM549.6 98.6C549.6 64.7 569 45.2 598.4 45.2C622 45.2 636.2 58.8 636.2 72.9C636.2 78.9 633 82.6 627.3 82.6C621.5 82.6 618.4 78.7 617.4 71.4C615.3 58.4 608.3 53.1 597.2 53.1C578.7 53.1 566.8 69.6 566.8 94.5C566.8 120.9 580.6 137.5 600.9 137.5C619.5 137.5 628.6 126.5 632.6 115.3L636.6 116.3C634.2 131.9 624.4 151.9 597.2 151.9C569 151.9 549.6 132.4 549.6 98.6ZM668.86 30.8C661.36 30.8 656.26 25.5 656.26 18.2C656.26 10.9 661.36 5.6 668.86 5.6C676.36 5.6 681.46 10.9 681.46 18.2C681.46 25.5 676.36 30.8 668.86 30.8ZM679.26 128.3C679.26 140.5 682.26 144.3 695.16 145.6V149.5H644.36V145.6C658.16 144.3 661.26 140.5 661.26 128.3V71C661.26 60 657.96 56.1 645.36 56.4V52.6L678.06 45.2L679.26 46.3V128.3ZM790.05 91.4H719.15C719.65 122.3 733.65 136.8 752.85 136.8C768.75 136.8 779.55 128.1 785.15 114.6L789.25 115.9C786.25 131.5 775.75 151.9 748.85 151.9C721.15 151.9 702.35 132.4 702.35 98.6C702.35 64.7 721.15 45.2 748.65 45.2C775.95 45.2 790.05 63.6 790.05 87.8V91.4ZM747.95 53C731.85 53 721.05 63.6 719.35 84H772.75C772.35 65.5 764.75 53 747.95 53ZM897.277 128.3C897.277 140.5 900.277 144.3 913.177 145.6V149.5H862.877V145.6C876.377 144.3 879.377 140.5 879.377 128.3V79.5C879.377 64.7 871.977 57.7 859.177 57.7C846.477 57.7 838.177 65.4 833.377 72.7V128.3C833.377 140.5 836.377 144.3 849.777 145.6V149.5H798.477V145.6C812.277 144.3 815.377 140.5 815.377 128.3V71C815.377 60 812.077 56.1 799.477 56.4V52.6L831.177 45.2L832.377 46.3V66.1C836.277 58.1 846.377 45.3 865.277 45.3C884.777 45.3 897.277 56.4 897.277 78.8V128.3ZM930.31 56.3H911.91V52C922.31 43.8 932.61 35.4 942.81 27.2H947.01V48.7H977.71V56.3H947.01V125.3C947.01 134.3 951.81 139.3 959.71 139.3C966.91 139.3 971.91 136.2 976.31 131.4L979.41 133.6C975.61 141.8 968.51 151.6 953.31 151.6C937.51 151.6 928.61 141.7 928.91 124.5L930.31 56.3Z" fill="currentColor"/>
+  </symbol>
+
+</defs>
+</svg>
+
+  <body class="">
+    <a class="not-focus:sr-only absolute top-4 left-4 bg-black text-white
+    fs-sans-md py-4 px-6 z-9999" href="#content">Skip to Content</a>
+
+    
+<header
+			class="site-header sticky top-0 min-[600px]:top-[var(--wp-admin-bar-height,0px)] max-w-main mx-auto px-1 pt-1 lg:pt-2 lg:px-2 z-50 motion-reduce:transition-[color,background-color,border-color] transition-[color,background-color,border-color,transform] duration-300" x-data="{
+				menuOpen: false,
+				init() {
+					const mediaQuery = window.matchMedia('(min-width: 64rem)');
+					mediaQuery.onchange = (e) => {
+						$dispatch('resize');
+						if (e.matches && this.menuOpen) {
+							this.menuOpen = false;
+						}
+					};
+
+					// Use RAF for performant scroll updates
+					const updateScroll = () => {
+						document.documentElement.style.setProperty('--scroll-y', `${window.scrollY}px`);
+						document.documentElement.toggleAttribute('data-scrolled', window.scrollY > 40);
+					};
+					updateScroll();
+					let ticking = false;
+					window.addEventListener('scroll', () => {
+						if (!ticking) {
+							window.requestAnimationFrame(() => {
+								updateScroll();
+								ticking = false;
+							});
+							ticking = true;
+						}
+					}, { passive: true });
+				}
+			}" x-init="init">
+
+
+  <div
+    class="
+      top-[4px] min-[600px]:max-[1023px]:top-[calc(4px+var(--wp-admin-bar-height,0px))] lg:top-[calc(8px+var(--wp-admin-bar-height,0px))]
+      max-w-main
+      z-50">
+
+    <div data-header-bg class="
+		  bottom-0 -top-1 lg:-top-2 -z-1
+		  absolute
+      max-main:inset-x-0 main:inset-x-2
+		  bg-background
+		  bg-[image:var(--gradient)]
+		  bg-[length:100%_50vh]
+		  bg-no-repeat
+		  pointer-events-none
+		  [background-position-y:calc(-1*var(--scroll-y,0px))]"></div>
+
+    <div class="h-[50px] lg:h-[60px] flex items-center justify-between border-1 border-lightborder">
+      <div class="px-4 pt-1">
+          <a href="https://coefficientgiving.org" class="block text-foreground" aria-label="Home">
+            <span class="sr-only">Coefficient Giving</span>
+            <svg class="block aspect-[1125/136] w-[185px] lg:w-[245px]" aria-hidden="true">
+              <use href="#logomark-full"/>
+            </svg>
+          </a>
+      </div>
+
+      <div class="flex flex-nowrap h-full">
+        	<nav aria-label="Primary" class="primary-navigation hidden lg:block h-full">
+		<ul class="flex h-full"> 				
+				<li
+          class="cursor-pointer relative group px-3.75 flex items-center "            x-id="['dropdown']"
+          x-data="{ open: false }"
+          @mouseenter="open = true"
+          @mouseleave="open = false"
+          @focusout.window="if (!$el.contains($event.relatedTarget)) open = false"
+          data-state="closed"
+          :data-state="open ? 'open' : 'closed'"
+        >
+					<a href="https://coefficientgiving.org/funds/" class="relative flex h-full text-sans-sm text-foreground after:transition-transform after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[3px] after:bg-current after:scale-y-0 after:origin-bottom group-data-[state=open]:after:scale-y-100 ">
+            <span class="self-center">Funds</span>
+          </a>
+
+					            <button
+              class="peer transition-transform absolute left-0 rotate-0 aria-expanded:rotate-180 origin-center"
+              aria-haspopup="true"
+              :aria-expanded="open"
+              :aria-controls="$id('dropdown')"
+              @click="open = !open"
+            >
+              <span class="sr-only">Expand menu for Funds</span>
+
+              <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
+                <path d="M0.65625 2.32031L4.89889 6.56295L9.14153 2.32031" class="stroke-foreground"/>
+              </svg>
+            </button>
+
+						<ul :id="$id('dropdown')" class="absolute hidden group-data-[state=open]:flex group-data-[state=open]:top-full group-data-[state=open]:left-auto bg-background p-[20px] z-50 flex-col gap-y-2 border-1 border-lightborder"> 															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/abundance-and-growth/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Abundance &#038; Growth</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/air-quality/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Air Quality</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/biosecurity-pandemic-preparedness/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Biosecurity &#038; Pandemic Preparedness</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/effective-giving-and-careers/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Effective Giving &#038; Careers</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/farm-animal-welfare/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Farm Animal Welfare</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/forecasting/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Forecasting</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/global-aid-policy/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Global Aid Policy</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Global Catastrophic Risks Opportunities</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/global-growth/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Global Growth</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Global Health &#038; Wellbeing Opportunities</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/lead-exposure-action-fund/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Lead Exposure Action Fund</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/navigating-transformative-ai/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Navigating Transformative AI</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/science-and-global-health-rd/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Science and Global Health R&#038;D</a>
+								</li>
+															<li class="relative group ">
+									<a href="https://coefficientgiving.org/funds/strep-a-vaccine-fund/" class="block hocus:underline text-foreground text-sans-sm whitespace-nowrap ">Strep A Vaccine Fund</a>
+								</li>
+													</ul>
+									</li>
+							
+				<li
+          class="cursor-pointer relative group px-3.75 flex items-center "            x-id="['dropdown']"
+          x-data="{ open: false }"
+          @mouseenter="open = true"
+          @mouseleave="open = false"
+          @focusout.window="if (!$el.contains($event.relatedTarget)) open = false"
+          data-state="closed"
+          :data-state="open ? 'open' : 'closed'"
+        >
+					<a href="/research-and-news" class="relative flex h-full text-sans-sm text-foreground after:transition-transform after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[3px] after:bg-current after:scale-y-0 after:origin-bottom group-data-[state=open]:after:scale-y-100 ">
+            <span class="self-center">Research & News</span>
+          </a>
+
+									</li>
+							
+				<li
+          class="cursor-pointer relative group px-3.75 flex items-center "            x-id="['dropdown']"
+          x-data="{ open: false }"
+          @mouseenter="open = true"
+          @mouseleave="open = false"
+          @focusout.window="if (!$el.contains($event.relatedTarget)) open = false"
+          data-state="closed"
+          :data-state="open ? 'open' : 'closed'"
+        >
+					<a href="https://coefficientgiving.org/our-approach/" class="relative flex h-full text-sans-sm text-foreground after:transition-transform after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[3px] after:bg-current after:scale-y-0 after:origin-bottom group-data-[state=open]:after:scale-y-100 ">
+            <span class="self-center">Our Approach</span>
+          </a>
+
+									</li>
+							
+				<li
+          class="cursor-pointer relative group px-3.75 flex items-center "            x-id="['dropdown']"
+          x-data="{ open: false }"
+          @mouseenter="open = true"
+          @mouseleave="open = false"
+          @focusout.window="if (!$el.contains($event.relatedTarget)) open = false"
+          data-state="closed"
+          :data-state="open ? 'open' : 'closed'"
+        >
+					<a href="https://coefficientgiving.org/about-us/" class="relative flex h-full text-sans-sm text-foreground after:transition-transform after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-[3px] after:bg-current after:scale-y-0 after:origin-bottom group-data-[state=open]:after:scale-y-100 ">
+            <span class="self-center">About Us</span>
+          </a>
+
+									</li>
+					</ul>
+	</nav>
+        <template x-teleport="body">
+<div style="top: var(--wp-admin-bar-height, 0px); height: calc(100vh - var(--wp-admin-bar-height, 0px))" data-theme="blue-dark" class="absolute top-0 left-0 w-full z-70 bg-background h-[100vh] lg:hidden pb-24" aria-label=" Menu" aria-modal=" true" role=" dialog" x-show=" menuOpen" @keydown.escape=" menuOpen = false" x-trap.noscroll=" menuOpen" x-transition.opacity.duration.300ms>
+
+		<div class="mx-1 mt-1 flex items-center justify-between border-1 border-white-200 relative h-[50px] lg:h-[60px]">
+			<div class="site-branding px-[20px] pt-1">
+
+        <a href="https://coefficientgiving.org" class="block text-foreground" aria-label="Home">
+          <span class="sr-only">Coefficient Giving</span>
+          <svg class="block aspect-[1125/136] w-[185px] lg:w-[245px]" aria-hidden="true">
+            <use href="#logomark-full"/>
+          </svg>
+        </a>
+
+      </div>
+			<div class="flex flex-nowrap h-full">
+				<button class="search inline-flex border-l-1 border-white-200 w-[50px] lg:w-[60px] ml-[15px] h-full">
+					<img class="m-auto" src="https://coefficientgiving.org/wp-content/themes/coefficient-giving/public/assets/search-white.svg" alt="">
+				</button>
+				<button x-on:click="menuOpen = ! menuOpen" class="transition inline-flex border-l-1 border-white-200 w-[50px] h-full bg-foreground">
+					<img class="m-auto" src="https://coefficientgiving.org/wp-content/themes/coefficient-giving/public/assets/close.svg" alt="close">
+				</button>
+			</div>
+		</div>
+		<div class="mx-auto px-1 pb-1 h-full overflow-scroll flex flex-col" x-trap="false">
+			<div>
+				<div class="border-x-1 border-b-1 border-white-200 w-full h-[120px] p-4">
+					<h2 class="text-foreground text-sans-sm">Coefficient is a philanthropic funder and advisor.</h2>
+				</div>
+				<div class="border-x-1 border-white-200 w-full">
+											<ul class="[&>*+*]:border-t-1 [&>*+*]:border-white-200 border-white-200 border-b-1">
+																	<li class="text-foreground flex items-center flex-row flex-wrap"
+											x-data="{ open: false, toggle() { this.open = ! this.open } }">
+										<a href="https://coefficientgiving.org/funds/" class="block px-4 py-5 w-1/2">
+											Funds
+										</a>
+																					<button x-on:click="toggle()" class="h-[60px] w-1/2 flex justify-end items-center" >
+												<img class="block mr-3 transition origin-center size-[10px]" :class="open ? 'rotate-180' : 'rotate-0'" src="https://coefficientgiving.org/wp-content/themes/coefficient-giving/public/assets/chevron-white.svg" alt="more">
+											</button>
+                      <ul class="w-full pb-8" x-show="open" x-collapse.duration.300ms>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/abundance-and-growth/" class="block px-4 py-1.5">Abundance &#038; Growth</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/air-quality/" class="block px-4 py-1.5">Air Quality</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/biosecurity-pandemic-preparedness/" class="block px-4 py-1.5">Biosecurity &#038; Pandemic Preparedness</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/effective-giving-and-careers/" class="block px-4 py-1.5">Effective Giving &#038; Careers</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/farm-animal-welfare/" class="block px-4 py-1.5">Farm Animal Welfare</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/forecasting/" class="block px-4 py-1.5">Forecasting</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/global-aid-policy/" class="block px-4 py-1.5">Global Aid Policy</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/" class="block px-4 py-1.5">Global Catastrophic Risks Opportunities</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/global-growth/" class="block px-4 py-1.5">Global Growth</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/global-health-wellbeing-opportunities/" class="block px-4 py-1.5">Global Health &#038; Wellbeing Opportunities</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/lead-exposure-action-fund/" class="block px-4 py-1.5">Lead Exposure Action Fund</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/navigating-transformative-ai/" class="block px-4 py-1.5">Navigating Transformative AI</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/science-and-global-health-rd/" class="block px-4 py-1.5">Science and Global Health R&#038;D</a>
+													</li>
+																									<li class="p-0 m-0 text-sans-md leading-tight text-foreground block">
+														<a href="https://coefficientgiving.org/funds/strep-a-vaccine-fund/" class="block px-4 py-1.5">Strep A Vaccine Fund</a>
+													</li>
+																							</ul>
+																			</li>
+																	<li class="text-foreground flex items-center flex-row flex-wrap"
+											x-data="{ open: false, toggle() { this.open = ! this.open } }">
+										<a href="/research-and-news" class="block px-4 py-5 w-1/2">
+											Research & News
+										</a>
+																			</li>
+																	<li class="text-foreground flex items-center flex-row flex-wrap"
+											x-data="{ open: false, toggle() { this.open = ! this.open } }">
+										<a href="https://coefficientgiving.org/our-approach/" class="block px-4 py-5 w-1/2">
+											Our Approach
+										</a>
+																			</li>
+																	<li class="text-foreground flex items-center flex-row flex-wrap"
+											x-data="{ open: false, toggle() { this.open = ! this.open } }">
+										<a href="https://coefficientgiving.org/about-us/" class="block px-4 py-5 w-1/2">
+											About Us
+										</a>
+																			</li>
+														</ul>
+									</div>
+			</div>
+			<div class="border-x-1 border-b-1 border-white-200 flex flex-col px-[15px] py-[20px] justify-end shrink-0 grow-1 mb-[3.5rem]">
+									<div class="flex text-foreground py-3 mb-7 border-t-1 border-white-200 mt-20">
+						<h3 class="text-sans-md flex-1/2">Follow us</h3>
+						<ul class="[&>*+*]:mt-4 flex-1/2 self-start">
+															<li class="text-sans-sm"><a href="https://x.com/coeff_giving" target="_blank" rel="noopener noreferrer">X (Twitter)</a></li>
+															<li class="text-sans-sm"><a href="https://www.linkedin.com/company/coefficient-giving/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+															<li class="text-sans-sm"><a href="https://coefficientgiving.substack.com/" target="_blank" rel="noopener noreferrer">Substack</a></li>
+													</ul>
+					</div>
+								<h3 class="text-serif-md text-foreground mb-3">Sign up for occasional news and announcements.</h3>
+        <form action="https://openphilanthropy.us12.list-manage.com/subscribe/post?u=5f851555ed522f52a8cc7157f&id=204e32798b&f_id=006c0ee9f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate px-5 py-3.5 rounded-[50px] outline outline-white-200 outline-offset-[-0.50px] focus-within:outline-2 focus-within:outline-blue-500 inline-flex justify-between items-center gap-2.5 text-gray-mid w-auto lg:w-full text-sans-sm" target="_self" novalidate="">
+          <input type="email" name="EMAIL" class="w-full outline-0 text-foreground  placeholder:text-foreground placeholder:opacity-30 " id="mce-EMAIL" required="" value="" placeholder="Email">
+          <button name="subscribe" id="mc-embedded-subscribe" class="justify-self-end text-foreground cursor-pointer hover:text-foreground hover:decoration-foreground decoration-1 underline-offset-2 hover:underline">Subscribe</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</template>
+        <a href="/search/" class="search inline-flex border-l-1 border-lightborder text-foreground w-[50px] lg:w-[60px] ml-[15px] h-full" aria-label="Site Search">
+          <svg class="m-auto size-1/4" viewBox="0 0 21 20" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M16.478 13.675c2.273-3.305 1.94-7.862-.998-10.801-3.314-3.314-8.687-3.314-12 0-3.314 3.314-3.314 8.686 0 12 3.207 3.208 8.345 3.31 11.676.308l4.429 4.429 1.414-1.414-4.521-4.522zm-2.413-9.387c2.533 2.533 2.533 6.64 0 9.172-2.532 2.533-6.639 2.533-9.171 0-2.533-2.533-2.533-6.64 0-9.172 2.532-2.533 6.639-2.533 9.171 0z" fill="currentColor" />
+          </svg>
+        </a>
+
+        <button x-on:click="menuOpen = ! menuOpen" class="transition inline-flex text-foreground border-l-1 border-lightborder w-[50px] h-full lg:hidden" :class="menuOpen && 'bg-background' ">
+          <svg x-show="! menuOpen" class="m-auto" width="50" height="45" viewBox="0 0 50 45" fill="none" xmlns="http://www.w3.org/2000/svg" x-transition.opacity.duration.150ms>
+            <line x1="16.5156" y1="17.5" x2="31.5156" y2="17.5" stroke="currentColor"/>
+            <line x1="16.5156" y1="22.5" x2="31.5156" y2="22.5" stroke="currentColor"/>
+            <line x1="16.5156" y1="27.5" x2="24.5156" y2="27.5" stroke="currentColor"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+	</div>
+</header>
+
+
+
+
+
+    <main class="max-w-main mx-auto px-1 lg:px-2" id="content">
+      
+      <div class="border-x-1 border-lightborder">
+        	<div class="flex flex-col items-center gap-y-6 min-h-[60dvh] justify-center p-8">
+    <h1 class="text-serif-3xl text-center">Error <span class="text-lightborder">/</span> 404</h1>
+
+    <p class="text-serif-lg wysiwyg text-center [&_a]:font-bold text-balance max-w-120">
+      We couldn’t find the page you were looking for. Try <a href="/search">searching</a> or return to the <a href="/">homepage</a>.
+    </p>
+	</div>
+      </div>
+    </main>
+
+    <footer class="site-footer max-w-main mx-auto pb-1 px-1 lg:px-2 lg:pb-2">
+	<div class="border-1 border-lightborder lg:grid lg:grid-cols-2">
+		<div class="col-1 flex flex-col justify-between lg:border-r-1 lg:border-lightborder">
+			<div class="site-branding p-4">
+				<a href="https://coefficientgiving.org" class="font-serif fs-serif-3xl leading-[58.80px] lg:text-7xl xl:text-8xl lg:leading-[88.20px] font-normal" aria-label="Home">
+          Coefficient
+				</a>
+			</div>
+
+			<div class="flex border-b-1 border-lightborder lg:justify-between lg:border-0 lg:flex-col">
+									<nav aria-label="Footer" class="footer-navigation p-4">
+						<ul class="flex flex-col space-x-4">
+															<li>
+									<a href="https://coefficientgiving.org/about-us/careers/" class="text-sans-sm subtle-link">Careers</a>
+								</li>
+															<li>
+									<a href="https://coefficientgiving.org/media-center/" class="text-sans-sm subtle-link">Media Center</a>
+								</li>
+															<li>
+									<a href="https://coefficientgiving.org/about-us/partner-with-us/" class="text-sans-sm subtle-link">Partner With Us</a>
+								</li>
+															<li>
+									<a href="https://coefficientgiving.org/about-us/contact-us/" class="text-sans-sm subtle-link">Contact Us</a>
+								</li>
+													</ul>
+					</nav>
+													<nav aria-label="Utility" class="footer-navigation p-[17.75px] self-end lg:self-baseline">
+						<ul class="flex flex-col lg:flex-row space-x-4">
+															<li >
+									<a href="https://coefficientgiving.org/privacy-policy/" class="text-sans-sm subtle-link">Privacy Policy</a>
+								</li>
+															<li >
+									<a href="https://coefficientgiving.org/governance/" class="text-sans-sm subtle-link">Governance</a>
+								</li>
+							               <li>
+                  <a href="#" class="cky-banner-element text-sans-sm subtle-link">Your Privacy/Cookies Choices</a>
+               </li>
+						</ul>
+					</nav>
+							</div>
+		</div>
+
+		<div class="col-2 flex flex-col lg:grid lg:grid-cols-2">
+			<div class="newsletter-signup col-1 flex flex-col justify-between border-b-1 lg:border-b-0 lg:border-r-1 border-lightborder">
+				<div class="flex flex-col px-4 py-5">
+					<label for="mce-EMAIL" class="text-serif-sm leading-tight mb-[12px]">Sign up for occasional news and announcements.</label>
+            <form action="https://openphilanthropy.us12.list-manage.com/subscribe/post?u=5f851555ed522f52a8cc7157f&id=204e32798b&f_id=006c0ee9f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate text-sans-sm px-5 py-3.5 rounded-[50px] border-1 border-lightborder outline-offset-[-0.50px] focus-within:outline-2 focus-within:outline-blue-500 inline-flex justify-between items-center gap-2.5 text-gray-mid w-auto lg:w-full" target="_self" novalidate="">
+              <input type="email" name="EMAIL" class="lg:w-full outline-0" id="mce-EMAIL" required="" value="" placeholder="Email">
+              <button name="subscribe" id="mc-embedded-subscribe" class="text-sans-sm text-gray justify-self-end subtle-link cursor-pointer">Subscribe</button>
+					</form>
+				</div>
+				<div>
+											<nav aria-label="Social Platforms" class="footer-navigation px-[15px] py-[20px]">
+							<ul class="flex flex-col space-x-4">
+																	<li>
+										<a href="https://x.com/coeff_giving" class="text-sans-sm subtle-link" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
+									</li>
+																	<li>
+										<a href="https://www.linkedin.com/company/coefficient-giving/" class="text-sans-sm subtle-link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+									</li>
+																	<li>
+										<a href="https://coefficientgiving.substack.com/" class="text-sans-sm subtle-link" target="_blank" rel="noopener noreferrer">Substack</a>
+									</li>
+															</ul>
+						</nav>
+										<div class="site-info border-t-1 border-lightborder px-[15px] py-[20px]">
+						<p class="text-sans-sm">&copy; 2026 Coefficient Giving. All rights reserved.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="pattern bg-[url(../assets/footer-tile.svg)] min-h-[160px] lg:min-h-[300px] col-2">
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/coefficient-giving/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+    <!-- Pingdom Real User Monitoring -->
+    <script src="//rum-static.pingdom.net/pa-69f8b67a4ee16c0012000093.js" async></script>
+    <!-- End Pingdom Real User Monitoring -->
+    <script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+		if ( typeof(jQuery) !== 'undefined' ) {
+		jQuery( document ).ready(function(){
+		function monsterinsights_scroll_tracking_load() {
+		if ( ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) || ( typeof(__gtagTracker) !== 'undefined' && __gtagTracker ) ) {
+		(function(factory) {
+		factory(jQuery);
+		}(function($) {
+
+		/* Scroll Depth */
+		"use strict";
+		var defaults = {
+		percentage: true
+		};
+
+		var $window = $(window),
+		cache = [],
+		scrollEventBound = false,
+		lastPixelDepth = 0;
+
+		/*
+		* Plugin
+		*/
+
+		$.scrollDepth = function(options) {
+
+		var startTime = +new Date();
+
+		options = $.extend({}, defaults, options);
+
+		/*
+		* Functions
+		*/
+
+		function sendEvent(action, label, scrollDistance, timing) {
+		if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+		return;
+		}
+			var paramName = action.toLowerCase();
+	var fieldsArray = {
+	send_to: 'G-MV05WBQCSF',
+	non_interaction: true
+	};
+	fieldsArray[paramName] = label;
+
+	if (arguments.length > 3) {
+	fieldsArray.scroll_timing = timing
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	} else {
+	MonsterInsightsObject.sendEvent('event', 'scroll_depth', fieldsArray);
+	}
+			}
+
+		function calculateMarks(docHeight) {
+		return {
+		'25%' : parseInt(docHeight * 0.25, 10),
+		'50%' : parseInt(docHeight * 0.50, 10),
+		'75%' : parseInt(docHeight * 0.75, 10),
+		/* Cushion to trigger 100% event in iOS */
+		'100%': docHeight - 5
+		};
+		}
+
+		function checkMarks(marks, scrollDistance, timing) {
+		/* Check each active mark */
+		$.each(marks, function(key, val) {
+		if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+		sendEvent('Percentage', key, scrollDistance, timing);
+		cache.push(key);
+		}
+		});
+		}
+
+		function rounded(scrollDistance) {
+		/* Returns String */
+		return (Math.floor(scrollDistance/250) * 250).toString();
+		}
+
+		function init() {
+		bindScrollDepth();
+		}
+
+		/*
+		* Public Methods
+		*/
+
+		/* Reset Scroll Depth with the originally initialized options */
+		$.scrollDepth.reset = function() {
+		cache = [];
+		lastPixelDepth = 0;
+		$window.off('scroll.scrollDepth');
+		bindScrollDepth();
+		};
+
+		/* Add DOM elements to be tracked */
+		$.scrollDepth.addElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.merge(options.elements, elems);
+
+		/* If scroll event has been unbound from window, rebind */
+		if (!scrollEventBound) {
+		bindScrollDepth();
+		}
+
+		};
+
+		/* Remove DOM elements currently tracked */
+		$.scrollDepth.removeElements = function(elems) {
+
+		if (typeof elems == "undefined" || !$.isArray(elems)) {
+		return;
+		}
+
+		$.each(elems, function(index, elem) {
+
+		var inElementsArray = $.inArray(elem, options.elements);
+		var inCacheArray = $.inArray(elem, cache);
+
+		if (inElementsArray != -1) {
+		options.elements.splice(inElementsArray, 1);
+		}
+
+		if (inCacheArray != -1) {
+		cache.splice(inCacheArray, 1);
+		}
+
+		});
+
+		};
+
+		/*
+		* Throttle function borrowed from:
+		* Underscore.js 1.5.2
+		* https://underscorejs.org
+		* (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+		* Underscore may be freely distributed under the MIT license.
+		*/
+
+		function throttle(func, wait) {
+		var context, args, result;
+		var timeout = null;
+		var previous = 0;
+		var later = function() {
+		previous = new Date;
+		timeout = null;
+		result = func.apply(context, args);
+		};
+		return function() {
+		var now = new Date;
+		if (!previous) previous = now;
+		var remaining = wait - (now - previous);
+		context = this;
+		args = arguments;
+		if (remaining <= 0) {
+		clearTimeout(timeout);
+		timeout = null;
+		previous = now;
+		result = func.apply(context, args);
+		} else if (!timeout) {
+		timeout = setTimeout(later, remaining);
+		}
+		return result;
+		};
+		}
+
+		/*
+		* Scroll Event
+		*/
+
+		function bindScrollDepth() {
+
+		scrollEventBound = true;
+
+		$window.on('scroll.scrollDepth', throttle(function() {
+		/*
+		* We calculate document and window height on each scroll event to
+		* account for dynamic DOM changes.
+		*/
+
+		var docHeight = $(document).height(),
+		winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+		scrollDistance = $window.scrollTop() + winHeight,
+
+		/* Recalculate percentage marks */
+		marks = calculateMarks(docHeight),
+
+		/* Timing */
+		timing = +new Date - startTime;
+
+		checkMarks(marks, scrollDistance, timing);
+		}, 500));
+
+		}
+
+		init();
+		};
+
+		/* UMD export */
+		return $.scrollDepth;
+
+		}));
+
+		jQuery.scrollDepth();
+		} else {
+		setTimeout(monsterinsights_scroll_tracking_load, 200);
+		}
+		}
+		monsterinsights_scroll_tracking_load();
+		});
+		}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script><script type="text/javascript" src="https://coefficientgiving.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://coefficientgiving.org/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.3" id="jquery-ui-tooltip-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://coefficientgiving.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.7"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://coefficientgiving.org/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
+    <script type="module" src="https://coefficientgiving.org/wp-content/themes/coefficient-giving/dist/js/app.5cd1b06a.js"></script>
+      </body>
+</html>

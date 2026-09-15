@@ -1,0 +1,25 @@
+{
+  "original_size": [
+    4400,
+    5120
+  ],
+  "replay_size": [
+    4400,
+    5120
+  ],
+  "original_sha256": "676b311b50fdb7b3a40b83029b763db76ef299cb3b15b24d56bddf23bbb854b9",
+  "replay_sha256": "676b311b50fdb7b3a40b83029b763db76ef299cb3b15b24d56bddf23bbb854b9",
+  "changed_pixels": 0,
+  "node_failures": [
+    "The Audacious Project",
+    "Redwood Research"
+  ],
+  "intersection_count": 5,
+  "tallinn_clearance": 19.014410269462193,
+  "closest_point": [
+    1478.1827392578125,
+    591.0284423828125
+  ],
+  "pipe_width": 7.1,
+  "zero_length_paths": []
+}
