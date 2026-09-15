@@ -10,6 +10,7 @@ One figure, and everything under it: the funders that reach METR (Model Evaluati
 - `research/AUDIT-3A.md` … `AUDIT-3D.md` — four independent audits of this figure run on 2026-09-14 (money pipes; Anthropic and the stake; Canary and Tarbell; framing and layout), with their seeds `AUDIT-SEED-3*.md`. Their verdicts were applied to the figure in v0.44.
 - `evidence/` — primary documents: Good Ventures Foundation's FY2024 and FY2025 Forms 990-PF (IRS e-file XML, Schedule B included), Coefficient's 2024 returns, SEC filings, Moskovitz's public statements (Bluesky API payloads, Stratechery archive), the audit evidence registers, and the agent review reports.
 - `MANIFEST.csv` — path, size and SHA-256 for every evidence file, including the ones too large for the repo (the DAF-sponsor e-files, 436 MB; the IRS TEOS PDFs, 74 MB; large audit captures). Those are IRS public files; the manifest gives the object ids so anyone can pull them from `apps.irs.gov/pub/epostcard/990/xml/` and check the hash.
+- `timestamps/` — a SHA-256 manifest of every tracked file in this repo, timestamped against the Bitcoin blockchain with OpenTimestamps. It shows the data here is at least as old as the stamp and has not been altered since, without asking anyone to trust the author, GitHub or a commit date. `timestamps/README.md` has the commands that check it; `scripts/verify_timestamp.py` checks it without a Bitcoin node.
 - `scripts/` — the render code. `generate.py` holds the whole pack's figures; this figure is `fig_money(anth=True)`. Rendering needs Python 3, Playwright with Chromium, and the research CSVs in place:
 
 ```
@@ -44,6 +45,21 @@ Every row id a figure cites resolves to a row in `research/*.csv`; `python3 scri
 - Negatives are bounded: "none found" means none in the sources named, with their dates.
 - The accounts at SVCF and NPT that pay Coefficient-recommended grants are unattributed. No public document names their principals or the recipient of the donated Anthropic shares. The figure says so wherever it touches them.
 - No motive is asserted about any person or organization. Only public people acting in public roles are named.
+
+## Dating this repo
+
+A commit date is self-reported and can be set to anything; a git history can be rewritten and force-pushed. That matters more now that AI makes documents cheap to fabricate and files easy to alter without a trace. It cuts both ways: challenged numbers can be quietly retrofitted so the record looks like it always said the new thing, and inconvenient evidence can be dismissed as "probably generated after the fact" — an accusation that costs nothing to make and, absent an anchor, nothing can answer. This repo is a fair target for both, having been assembled with AI agents (see Disclosure).
+
+So the tracked files are hashed into `timestamps/SHA256SUMS.txt`, and that manifest is timestamped with OpenTimestamps, which anchors it in the Bitcoin blockchain. From the repo root:
+
+```
+sha256sum -c timestamps/SHA256SUMS.txt        # the files still match the manifest
+ots verify timestamps/SHA256SUMS.txt.ots      # when the manifest was stamped
+```
+
+The second command needs a local Bitcoin node, which is the preferred way to check it and the only fully trustless one. Without a node, `python3 scripts/verify_timestamp.py` does the same check through a public block explorer; that trusts the explorer for one public block header, which is a small assumption and cross-checkable against any other explorer.
+
+Both passing means these files are at least that old and unaltered since, provable without trusting the author or any single company. It fixes *when*, never *whether*: it does not prove the contents are true, or human-written — accuracy is what `NOTES.md`, the row ids and the audits are for. Full method, including why this matters against AI-era fabrication, how to check a single figure, and how to re-stamp after new data, is in `timestamps/README.md`.
 
 ## Disclosure
 
